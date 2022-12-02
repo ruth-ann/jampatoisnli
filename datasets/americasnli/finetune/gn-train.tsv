@@ -1,0 +1,112 @@
+language	premise	hypothesis	label
+gn	Jepivéramo rojotopa che tio róga okayguápe y rembe'ýpe ha rohasájepi peteî, mokôi ára rupi upépe.	Roho upe óga okaygua Minnesota-pe.	neutral
+gn	Akâ jeguaka ojejapóva laurel-gui ohechauka itenondehague, umi olivo rakâ he'iséva py'aguapy, umíva ombojegua avei upe pyrûha umi acanto rogue ndive.	Pira vera, mbói, umívante oreko upe pyrûha rembe'y.	contradiction
+gn	Roikotevê viru roheka ha rombokatupyry haĝua mbo'ehárape.	Natekotevêi roheka mbo'ehára, ha'ekuéra voi ou ore rendápe.	contradiction
+gn	Che sogue guive ndaikatuvéi ha'u ha'uséva.	Areko heta viru ko'áĝa upéva rehe ahase añemu.	contradiction
+gn	Rorekóva Rudolph Anderson, peteîva umi mbohapy U2 atypegua	Rodolph Anderson-pe ndaikatúi ojejuhu mamove, upéva rehe roreko U2-nte.	contradiction
+gn	Upéicha, héê, ipya'eve, ipya'eteve ohóvo ha roveve pytagua retâ gotyo.	Ipya'eve ohóvo.	entailment
+gn	Ha ha'e ikuñarayhurasa, ha!, ha'ete ku okápe oîva. Ha nde reikuaáma, ndo'aporâi chéve umíva, katu umíva che rembiasánte.	Ha'e hory ha ijeroviapy.	contradiction
+gn	Ojejapo umi mba'e ambue hendáicha hendivekuéra.	Rejapo opavavéicha.	contradiction
+gn	Aha'arô tove ko apañuâi tanderovasa ha nemokyre'ÿ.	Hi'â ko apañuâi nemokyre'ÿ pyahuetejey.	entailment
+gn	CIA omboguejy peteî ta'ângamýi ha oraha Tetânguéra Joajupavême upehague ko'ême.	CIA oimo'â ONU oikotevêha ohecha upe ta'ângamýi upe jave.	neutral
+gn	Ndaikuaái, avy'a ñañomongeta rehe tandepyhare porâite.	Ndaikuaái mba'érepa nañeñanduporâi, katu nda'eséi ndéve.	neutral
+gn	Hi'â chéve akói reme'ê nde viru, ha hi'â oremboaguara ore aramboty 25ha remombe'úvo mba'éichapa hetahetave reme'êjepi ko'â 25 ro'y pukukue.	Pe ary ohasava'ekue reme'ê hetáma, ko arýpe ikatu rembogueju 25$-pe	contradiction
+gn	Ndoikuaái mba'erâpa oho ni mba'eve, upémaramo omombe'úta Whashington-pe oje'ehaguépe	Chéniko naiméiva Whashington-pe, upévare akañy ahekávo upe tenda oje'éva chéve añemondóramoguare upépe.	neutral
+gn	PD: Viru reme'êva oréve tuichaiterei mba'e ko 85 ro'y rogueroguatávape, rojapóvo ko Indiapolis Teatro Cívico-gui upe ñoha'anga tavaygua renda itujavéva ñane etâme.	Oîkuri ambue ñoha'ânga renda ramoite oguerovy'ava'ekue 84 ro'y, katu upéi okái.	neutral
+gn	Upéichaite, oku'e añetéramo, ndaha'ei ku… nde reikuaa, ikatuhápe reike pypuku pype ha eha'arô mba'e porâ, añetehápe ndaroviái.	Remba'apova'erâ 10 aravo pype ikatu haĝuáicha nderatupyry ipype.	neutral
+gn	Nde jopói iporâitereíta jaguerovy'a haĝua Ára 85º.	Jopói rohupytýva naiporâi nemba'éicha.	neutral
+gn	Rembojoajútapa nde kerayvoty oremba'éva rehe?	Orepytyvôtapa jajapo haĝua mbo'ehao iporâvéva ñane retâmegua?	neutral
+gn	Háaaa… heterei.	Añetehápe heterei chéve.	entailment
+gn	Ha upéicharô re'use tembi'u ojoparáva?	Retanteava'erâniko opaichagua tembi'u ipyahúva.	neutral
+gn	Upévare namohu'âi mbo'ehaovusu, márô namoñe'êi umi aranduka amoñe'êva'erâ	Namohu'âi mbo'ehaovusu.	entailment
+gn	Aikotevêmi nderehe.	Ndaikotevêi avave rehe.	contradiction
+gn	Roikuaave'êse peteî tenda ikatuhápe oñembokatupyry porâ ñoha'ângahára ivaléva ko komunidápe ikatupyryve rekávo.	Ñoha'ânga tavaygua niko noipytyvôguasúi ñoha'ângahárape oñembokatupyryve haĝua.	contradiction
+gn	Héê, areko cooperativa oipurukáva viru.	Mba'épa upe Viru Jeporukarâ Joaju?	contradiction
+gn	Upáva!... Ára ivaipajepéva.	Ñanemongyhyje añete upe vytu pochy oguahêva távape.	neutral
+gn	Ambuekuéra ndive roñomoangirû. Rojapo sy arapeguáicha, rojopyruhápe.	Ohókuri túva árape ha Ellen akói oñangareko hese.	contradiction
+gn	Nde réra térâ ambue mba'e nde reipotáva oñemboguapýta kuatiápe techaukarâme.	Upe kuatia techaukarâme oñemoîta nde réra térâkatu ne marandu.	entailment
+gn	Hepy, heta viru rehupytykuaa umichagua mba'épe, iporâva rehe nga'u.	Ikatu ohepyme'ê porâ ndéve hese.	entailment
+gn	Umi tapicah osêva Mbo'ehao oñembokatupyryhápe mo'âhararâ ikatupyry añete tekotevêháicha hembiaporâme ha oikuaa pypuku leikuéra rehegua.	IU-pegua mbo'ehao mo'âhára oñemboty ymaiterei.	contradiction
+gn	Néi, upéva ohasáta upe ikuara'i rupi.	Oho ytýpe.	contradiction
+gn	Ambuekuéra ohechakuaa rohupyty porâva.	Ñasê porâ meme jahávo.	entailment
+gn	Umi Society-ygua niko ikatu ojogua imba'ereko ha ikuatiahaikuéra sa'ive rehe oîháicha ikuatia kuaukahápe ha avei iñemuhápe ojerekohápe jopoirâ oîva upe Atyha renda teete iporâitévape.	Ndaikatúi ojehepyme'ê sa'ivérehe ipypeguakuérape ikatúgui sa'ive viru oike.	contradiction
+gn	Nde jopói iporâitereíta jaguerovy'a haĝua Ára 85º.	Ko'à mba'e rojapo rojúvo 80 ro'y pukukue árima.	entailment
+gn	Ahai peême a'aguyjeme'ê haĝua peême pende jopói arandukakoty IUPUI university-pe ha ajejurejeývo peême pene pytyvô.	Ajerure reme'êmi haĝua 100$ arandukakoty Mbo'ehaovusu mba'éva IUPUI-pe.	neutral
+gn	Ha'e ikalida, tapicha nderorýva, oguapýta oimeraêva ndive, oñua'âta oimeraêva ndive.	Ha'e ndoguapymo'âi oikaa'ÿva ykére.	contradiction
+gn	Umíva, ipyahu chéve, jachechávo ko'â 16 ro'y amba'apoha katupyrýpe ko'â mba'e hechapyrâvape.	Che mba'apo ahayhuvéva ko'â mba'e hechapyrâva.	neutral
+gn	Upéichaite, oku'e añetéramo, ndaha'ei ku… nde reikuaa, ikatuhápe reike pypuku pype ha eha'arô mba'e porâ, añetehápe ndaroviái.	Mba'eve ndoikói nderejaporâiramo ne rembiapo.	contradiction
+gn	MMM, nahániri, katu pereko heno rehegua ñeñani ko Oklahoma rapére.	Kavaju ñemoñani ñanembovy'a.	neutral
+gn	Peteî mba'e iporâva jahupytýva niko upe jaha oparupi, javiaha.	Mba'evete ndajahupytýi.	contradiction
+gn	Ha'e oguapy, ha reikuaa nde, oñomongeta hikuái, ohecha hikuái upe tapichá upévape, kóva oiko pya'e, pya'eterei voi.	Ha'e okirirî ha omaña imesa gotyo.	contradiction
+gn	Na… ndaipóri mba'eve ivaíva túva ome'êmbátava orekóva tapicha ndeichagua rehe.	oî porâ tuvakuéra oykekóva iñemoñarépe âva ikatuha peve oiko ijehegui.	neutral
+gn	Karai Loren Field ha iñirûnguéra rembiapo niko osê upe kuatia arandu Sciencie rováre, upéva upe kuatia herakuâ guasu ohechakuaáre tembiapo arandureka rehegua ha upéva oñemomba'eterei mbo'ehaópe.	Loren Field omba'apo  upe mbo'ehao yty rendápe.	contradiction
+gn	Ndaipóri mba'evete upépe, nandi vera, upe aviô guejyha rapére osê ñana mante.	Ka'aguy karape upépe.	entailment
+gn	Ha'e ikalida, tapicha nderorýva, oguapýta oimeraêva ndive, oñua'âta oimeraêva ndive.	Ha'e oha'âjepi pócker térâ blackjack, sapy'ánte oha'â scrabble.	neutral
+gn	Ndaipóri mba'evete upépe, nandi vera, upe aviô guejyha rapére osê ñana mante.	Ysypo mante okakuaa upe aviô guejyha rapére.	neutral
+gn	Ikate rekóva renda upéva, katu upe hetavéva gueteri umi tava rembe'ygua reko	Itavaygua reko meme.	contradiction
+gn	Upépe oporandu chéve mba'érepa aha.	Oporandu chéve hikuái mba'érepa apyta ógape.	contradiction
+gn	Ñoha'ânga  ojejapóva katupyrýpe Indiana tuichakue javeve oipytyvô añete mitânguérape ha umíva apytépe oî Becky, Stephanie, Marcus, Emily ha ambueve iñirûguéra.	Iporâva'erâmo'â rojapo ñoha'ânga iporâvéva katu ko'ápe Indiana-pe nda'orevirúi hekópe upevarâ.	contradiction
+gn	Upéicha, héê, ipya'eve, ipya'eteve ohóvo ha roveve pytagua retâ gotyo.	Ipya'ekue chembotarovapotáma.	neutral
+gn	Nde'ivéi chéve mba'e aravópa ha chemondo upépe kane'ô reheve, ha ndaikuaái araka'épa tekotevê.	Ndajepy'apýi mba'evetére, toiko oikóva.	contradiction
+gn	Upe Teatro Cívico Indianapolis-gua oporombovy'a ñoha'ânga ha purahéi  porâme ojajapóva katupyrýpe 82 ro'y pukukue. Upéichante avei ombokatu tapicha ikatupyry añetévape ñande távape, jepe ndaijapái opavavéva.	Upe Teatro Cívico Indianapolis-gua ojapo 120 tembiapo techaukarâ 80 ro'ýpe.	neutral
+gn	Ahendu oho, upéva rehe ndajapopái gueteri ajapova'erâ.	Nañemyangekomo'âi upéva rehe.	contradiction
+gn	Mokôi, mbohapy aviô rupinte oñehundi orehegui roiméramoguare upépe, ha, húi!, tantéo.	Araka'eve noñendundíri peteî aviôntejepe.	contradiction
+gn	Che jarýi o'ararecha 1910-pe, mitâkuña'iva'ekue ha'e.	Che jarýi onace 10 ary iñambue rire siglo.	entailment
+gn	Chéverô ĝuarâ nda'upeichaiete.	Upe nde ereháicha, chéverô ĝuarâ.	contradiction
+gn	Opaite viru oñeme'êva mbo'ehaópe, 100% nde reme'êva ojeporúta arandu rekarâ.	Nde reme'êvagui mbytete rupi roiporu ñesâmbyhýpe.	contradiction
+gn	Háaaa… heterei.	Ñanembojeguaru!!	contradiction
+gn	Nahániri, peteîjeýnte ohókuri pyharevekue ha he'íkuri oujeytaha ko mba'apoha rendápe.	Ha'e nde'íri ojevýtapa térâpa nahániri.	contradiction
+gn	Reñemoîkuaava'erâ ambue tapicha rendápe.	Oiko upe máva he'iháicha.	neutral
+gn	Upe pyrûha hovy mbaretévape ojekuaa upe mburuvicha rechaukaha  isa'ypáva peteî kora ojejapóva 50 mbyja morotîme ryepýpe.	Pyrûha apu'a mbyte tuichakue 6 py.	neutral
+gn	Iporâiténe añete ijáramo ndéve ha rejumi rehecha nete ne mbo'ehao, mba'éichapa rokakuaa ko'â ro'y pukukue ha revy'a avei orendive opytava'ekue rehe ñandéve.	Rejumiva'erâ mbo'ehaópe ha ehecha tembiapo neporâva purahéi rehegua rojapóva.	neutral
+gn	Ko'â oga'apo hepyetereive umi oremoñemúva ikatúva ohepyme'ê hese, upeva rehe roikotevê ñepytyvô ha viru ikatúva peteîteî ome'ê oréve jahechápa noromboguejyvéipa hepykue.	Ko'â ogapy oikotevê viru ojejapo haĝua.	entailment
+gn	Ndoikuaái mba'erâpa oho ni mba'eve, upémaramo omombe'úta Whashington-pe oje'ehaguépe	Oikuaa porâiterei ojapova'erâ ohokuévo Washington-pe.	contradiction
+gn	Hûûû, Upéva ha'étakuri che, kóva ovevéta oimeháicha, ojehechátantevoi oimeraêva oúva oma'ê.	I'll Fly Away upe ta'ângamýi ahechaseséva, ahechájepi peteîjey arakopôindýpe.	neutral
+gn	Nda'areguasúi che añemoarandu upépe ha upéi aha Londres-pe poteî jasy.	Umi Londres-pegua mbo'ehao umi iporâvéva.	neutral
+gn	Ojehayhu'ietereígui oñemoangirû mondaha ha oporojukaha rehe.	Iñangirû apytépe oî imondáva ha oporojukáva.	entailment
+gn	Ndahechávai, ndaikuaái mba'érepa, noiméipa oikuaaase mba'épa ajapo ha oimeraê.	Ndahechái upe tapicha ojapóva upe arakôi.	neutral
+gn	Oî 158 vore ha romboja'ómante, rombojoajujey ha romboja'ojey ha ndorojavýiva'erâ.	Rombyai umi aviô ha upéi romohendajey.	neutral
+gn	Pe ary ohasava'ekuépe ndepojera upi reme'ê …$	Pe ary ohasava'ekuépe nde reme'ê viru.	entailment
+gn	Ore aguyje peykekóre ko Idiapolis Museo de Arte 1999 ramo.	Aguyje, katu ndoroaguyjeme'êmo'âi peème napemoĝuahêi rehe pende viru 1999 ramo.	contradiction
+gn	Ndépa ere sy ha tuvakuéra….?	Mbo'ehára térâpa tuvakuéra?	entailment
+gn	Ikatu penderoryeterei avei peñembokatupyry rire.	Ndahoryvéi ha ipireanambusupa oñembokatupyry rire.	contradiction
+gn	mmm, iporâ resê ha re'u ka'avo jehe'a.	Sapy'apy'a ha'use ka'avo jehe'a amo yvate.	neutral
+gn	he he, ikachiâi ha oiméne umichagua techaukarâ ahayhuvehína.	Ahechase tembiapopy ikachiâiva.	entailment
+gn	Ojehayhu'ietereígui oñemoangirû mondaha ha oporojukaha rehe.	Iñangirû apytépe ndaipóri mondaha ni oporojukáva.	contradiction
+gn	Mba'épa rerekóta, rejoajúta umi fundación oisâmbyhy yvatevéva ndive, umi onegociakuaáva ndive, umi ñakârapu'ârâ rehe omba'apóva ndive, ha umi omba'apóva viruraka'ÿva ndive.	Ko atýpe henihê Ivy League remimbo'ekuegui ha tapicha ipy'aporâvagui.	neutral
+gn	Héê, héê, héê, mba'evete chéve ni orekóramo viru renda guasu.	Ndahasyichéne jaikuaa upe iviru rendépa ojehepyme'ê chupe.	neutral
+gn	Oiméramo remoĝuahêse ne mba'eporandu, térâ ne remimo'â ikatu rehenói ko árape 924-5471-pe térâkatu rehenói Bob Lovell-pe ipapapy 274-0622-pe	Bov Lovell ikatu ombohovái pene mba'eporandu.	entailment
+gn	Ndoroikuaáikuri mba'épa peteî U2 ha avave ndoikuaái mba'eve hesegua.	Roikuaapa U2 rehegua.	contradiction
+gn	Ñaikotevê ñambojoaju viru privado ha mbo'ehaovusu mba'e teévaikatu haĝuáicha okakuaa ñane mbo'ehao oñembokatupyryhápe mo'âhararâ tuichakuépe ha oĝuahêhápe.	Ñane Mbo'ehao oñembokatupyryhápe mo'âhararâ oñesâingo viru privado rehente.	contradiction
+gn	Oîtava guivépe oñeme'êta héra, hóga renda ha ipumbyry papapy ha avei mba'épa mbo'ehao remikotevê.	Oîtava oñemboheraguapyva'erâ kuatia rehe oñeme'ê mbyve chupekuéra marandu tenoderâ rehegua, ha'ekueraiténte oikuaataha umíva.	neutral
+gn	Ha'e omondoro kuatia ha omoî yvyku'ípe, ombojepota ha ohapy upe mba'yru'i ojapóva yvyku'íguipe, ha upéi oipyvu ikusugue.	Ha'e ohapýne upe kuatia.	entailment
+gn	Ikatu penderoryeterei avei peñembokatupyry rire.	Pya'eterei iñambue oñembokatupyry aja hikuái.	neutral
+gn	Oñesêvo upe ñoha'ânga kotýgui umi IRT ñoha'ângahára oike mbo'êhakotýpe omba'apo mitânguéra ndive, ha oguerike chupekuéra aĝuivégui upe oha'ânga rekópe.	Umi IRT ñoha'ângahára omba'apo mitânguéra ndive mbo'ehaópe.	entailment
+gn	Ndajapokuaáiva mba'eve ko'â mbujapégui.	Hi'â aiporukuaa mbujape katu ndaiporúi che.	neutral
+gn	Ne pytyvô ombokatúta roipysove ore rembiapo py'aporâme rojapóva Estados Unidos-pe, umíva apytépe tekombo'e rehegua, ñemyakâha rehegua ha avei ñe'êmyasâi rehegua.	Ikatu orepytyvô roipysove haĝua ore rembiapo.	entailment
+gn	Néi, opáichavo, ajevy che mesa amba'apohápe.	Ajevy ha aguapy che mburuvicha he'i rupi chéve.	neutral
+gn	(dba) atyha oporoipytyvôva, ijeheguíva, ndovirurekáiva, oikuave'ê reiete tembiapo ijeheguíva, marandu empresa-pe ĝuarâ ha ñepytyvô empresario ipanévape, péichante avei ñepytyvô empresape, mba'apo rekópe tapicha oikotevêva oñemohendapyahúvape.	Oîva guive ipype omba'apo reiete.	entailment
+gn	Oî 158 vore ha romboja'ómante, rombojoajujey ha romboja'ojey ha ndorojavýiva'erâ.	Rombyai ha romohendajey.	entailment
+gn	Heta mba'e hechapyrâ oî Indiapolis-pe, jepe ndaipóri iporâvéva upe teatro civico-gui.	Upe Teatro Cívico opyta Indiapolis mbytetépe.	neutral
+gn	Upe Teatro Cívico Indianapolis-gua oporombovy'a ñoha'ânga ha purahéi  porâme ojajapóva katupyrýpe 82 ro'y pukukue. Upéichante avei ombokatu tapicha ikatupyry añetévape ñande távape, jepe ndaijapái opavavéva.	Upe Teatro Civic Indiapolis-gua ojapo heta tembiapo neporâva 80 ary pukukue.	entailment
+gn	Hepy, heta viru rehupytykuaa umichagua mba'épe, iporâva rehe nga'u.	Ikatu heta viru rehupyty rerekóramo téla aorâ iporâva.	neutral
+gn	Chéverô ĝuarâ tuicha mba'e upe jajaposéva hese, ha'ese ñamoambuetaha umi tapicha ñamoîva ñande rérape omýi haĝua.	Ñamoambueva'erâ umi tapicha omýiva ñande rérape.	entailment
+gn	Ne pytyvô Goodwill-pe ombokatupyrýta ha ombohembiapo umi imboriahuvévape ko Indiana-pe jahechápa âva omba'apo porâve.	Goodwill ñepytyô ikatu omboguejy mba'apo'ÿ.	neutral
+gn	Hûûû, Upéva ha'étakuri che, kóva ovevéta oimeháicha, ojehechátantevoi oimeraêva oúva oma'ê.	Añetehápe, ndaikuaái mba'épa aiporavóta.	contradiction
+gn	Néi, upéicharamo japytáta ñanemboriahu ha ojehasapa ñande ári.	Ñamokyre'ÿ ha jahechauka chupekuéra ko'êreíre.	contradiction
+gn	Upe situniko ikatu ombyai ñande katypyry ñambosako'ívo vy'a guasu ambue arýpe.	ikatu ndajarekovéivoma ambue arýpe ko vy'a guasu.	entailment
+gn	Ma'ê nde! Iporâitépa, ndépiko reñembokatupyry rejapokuaa haĝua upéva?	Ha'emi che oiméne haĝua nde rejapokuaa ndejeheguínte.	neutral
+gn	Hi'arive ha'e oguerovy'a oikuaaha iñirûnguérape oñemokyre'ÿ oha'â haĝua ha'éicha iñakâguapyporâ.	Oje'e opavavépe anitei oha'â chupe iñakâtarovaiterei rupi.	contradiction
+gn	McCoy nekonvida reme'ê haĝua 10.000 $ Empresa Fundación-pe.	McCoy ojerure 250000 $.	contradiction
+gn	kóva upe omongyhyjevéva mondahakuérape, umi ogaykeregua ombohyapuetereíva ha avei oiméramo ha'e hymba jagua oñarôreipáva, kóva oipytyvôta avei upevarâ.	Mondahápe ndo'aporâi jagua ijayvueterei rupi ha avei oisu'uhaguére chupekuéra.	neutral
+gn	Oî gueteri upe hyepýpe	Ore roimo'â ha'e oho hague, katu opyta.	neutral
+gn	Viru reme'êva Sociedad Maennerchor-pe iviru arýpe ĝuarâ oipytyvô tuicha mbo'ehaópe.	Sociedad Maennerchor ohupyty 1 millón $ ary ohasava'ekuépe.	neutral
+gn	Oñembokatupyry jave horykuaa hikuái.	Ndetavy, ipurasántema ko demanda.	neutral
+gn	Ndepa ere umi kuatiahaipyre Colorado Sping-pegua onohê marandu ñande rekohapegua.	Mba'épa nde ere umi kuatiahaipyre tetâmegua ha mba'éichapa omombe'u oikóva mundo-pe.	contradiction
+gn	Ne pytyvô Goodwill-pe ombokatupyrýta ha ombohembiapo umi imboriahuvévape ko Indiana-pe jahechápa âva omba'apo porâve.	Supporting Goodwill oipytyvôta Indiana-yguápe.	entailment
+gn	Reimépype Mbo'ehao ombokatupyrýva mo'âhararâme, roikuaa reikuaaha ore rembiapo jeguata.	Mo'ehao léi rehegua ogueroike tapichápe.	entailment
+gn	Upe tuichave mba'éva niko upe jahecha ñoha'ânga IRT-pe, ndaha'éi jaha reínteva.	Ñoha'ânga IRT-pe rehecha haĝua tekotevê reñembosako'i, rejesareko porâ, reikuaa hembiasa hamba'e, péicha ikatúta ovale ndéve.	neutral
+gn	Ha'ekuéra oikuaa mboýpa nde regueroike ha oñeha'â anirejogua rehasa haĝuáicha.	Ha'ekuéra oikuaa nde rehupytyha 2903$ peteî jasýpe.	neutral
+gn	Upe ñoñe'ême'ê mba'aporâ ipahaitepegua oñeme'êva'ekue Virginia-pe niko oime oñedemanda Gratín contrape ani haĝua oñepyrû hembiapo oga'apo rehegua pokarême ojehupyty rupi, nde reikuaa.	Umi ñoñe'ême'ê mba'aporâ ojehepyme'ê ñepysânga'ÿre.	contradiction
+gn	Néi, oiméne ndaikuaaporâi, añetehápe ne'írâ gueteri amohendapa porâ añandúva upe pohâ vai rehegua añehesa'ÿijoukáramoguare. Chéniko heterosexual ha nda'éiva haune haĝua pohâ vai.	Naimeietevoi upe pohâ vai rehegua ñehesa'ÿijo ojejapóvo.	contradiction
+gn	Héê, rerekónera'e isâ'ÿva.	Emyatyrô erévo upe rerekohague naisâi.	entailment

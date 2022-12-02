@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Any day mi master LumaFusion, mi lef my work.","As soon as mi good wid LumaFusion, mi a quit mi job",entailment
+"Any day I master LumaFusion, mi lef my work","As soon as I'm good wid LumaFusion, mi a quit my job",entailment
+"Any day I master LumaFusion, mi leaving my work","As soon as I'm good wid LumaFusion, mi quitting my job",entailment
+"Any day I master LumaFusion, I'm leaving my job","As soon as I'm good wid LumaFusion, I'm quitting my job.",entailment
+"The day that I master LumaFusion, I'm leaving my job.","As soon as I'm good with LumaFusion, I'm quitting my job.",entailment
+Look how long dem fi a show mi dis,Long time dem a show mi dis,contradiction
+Look how long them fi a show mi dis,Long time them showing mi dis,contradiction
+Look how long them shoulda show me this,Long time them showing me this,contradiction
+Them shoulda show me this to me long time.,Them showing me this for a long time.,contradiction
+They should have showed this to me a long time ago.,They have been showing me this for a long time.,contradiction
+Hear seh a bare fake Hennessy deh Jamaica,Hear seh a nuff knock off Hennessy deh a Jamaica,entailment
+Mi hear nuff fake Hennessy inna Jamaica.,Mi hear that nuff knock off Hennessy inna Jamaica.,entailment
+I hear nuff fake Hennessy inna Jamaica.,I hear nuff Hennessy inna Jamaica is knock off brand.,entailment
+I hear a lot of fake Hennessy inna Jamaica.,I hear a lot of knock off Hennessy inna Jamaica.,entailment
+I've heard that a lot of the Hennessy in Jamaica is fake.,I've heard that a lot of the Hennessy in Jamaica is a knock off brand.,entailment
+"Mi feel seh people very vindictive and nuh wa see yuh prosper, that’s not how it should be",From di year start mi a prosper. Mi grateful to God cause mi feel blessed,neutral
+"Mi feel like people very vindictive and nuh wa see yuh prosper, that's not how it should be",From the year start mi a prosper. Mi grateful to God because mi feel blessed,neutral
+"Mi feel like people very vindictive and don't want to see yuh prosper, that's not how it should be",From the year start mi a prosper. I'm grateful to God because mi feel blessed,neutral
+"I think that people very vindictive and don't want to see yuh prosper, that's not how it should be",Since the year start I'm prospering. I'm grateful to God because mi feel blessed,neutral
+I think that people are very vindictive and don't want to see other's prosper - that's not how it should be.,"Since the start of the year, I have prospered. I'm grateful to God because I feel blessed.",neutral
+No matter how mi try hide unu spot mi lol 🙈,Hide and seek hard fi play inna mi yaad,neutral
+No matter how I try hide unu spot mi lol 🙈,Hide and seek hard to play inna mi yaad,neutral
+No matter how I try to hide unu spot me lol 🙈,Hide and seek hard to play inna mi yaad,neutral
+"No matter how I try to hide, you spot me lol 🙈",Hide and seek hard to play inna my yard,neutral
+"No matter how well I try to hide, you find me lol 🙈",Hide and seek is hard to play in my yard,neutral
+Traffic today was terrible me naah lie eh light turn change bout 50 times before me could a get fi go through 😭,Today di traffic neva too bad. Nuff car neva really deh pon di road so mi reach home quick,contradiction
+Traffic today was terrible me naah lie the light turn change about 50 times before me could a get fi go through 😭,Today di traffic wasn't too bad. Nuff car neva really on di road so mi reach home quick,contradiction
+Traffic today was terrible - I won't lie the light turn change about 50 times before me get to go through 😭,Today the traffic wasn't too bad. Nuff car neva really on the road so mi reach home quick,contradiction
+Traffic today was terrible - I won't lie. The light change about 50 times before I could go through 😭,Today the traffic wasn't too bad. Nuff car wasn't really on the road so I got home quickly,contradiction
+The traffic today was terrible - I won't lie. The traffic light changed about 50 times before I had a chance to get through 😭,"Today, the traffic wasn't too bad. There weren't many cars on the road, so I got home quickly",contradiction

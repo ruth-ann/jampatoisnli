@@ -1,0 +1,201 @@
+language	premise	hypothesis	label
+cni	Aisati omatea oijatero tsa pitetsa osarentsi. Keariorika oka kapichaji oshemakake.	Keariorika irompa aparoni kantashitakantatsiri kantakantatsiri osamanitakote osheki osarentsi.	neutral
+cni	Ashijei zoo antakero kantakotiroripee ashi timayetatsiri, antanteari shiakantsi sabikatsiri timitachari imita piratsipee.	Ashijei zoo, ajitakanti sabikatsiri betsikatsari irointi irooperori tee oshiemparo timitatachari.	contradiction
+cni	Nokemisanti maaroni kantashibetachari.	¡Keario oka pikantakeri!	contradiction
+cni	oshikantati kempe jabo, aparo ineayetiri shiayetarori shiakantsi tsitenirisato	Okempetaro aparo shiakantsi.	entailment
+cni	Maaroni okantaka, otankoreanaja, otiminotake eee, mmm, tee nokenkeshireajeroji ñakarontsipee.	Nioti ñakarontsi keari ashi maaroni	contradiction
+cni	Aisati pimatea paakero timimotanari okantakotiri iotkotirori ashi 2 osarentsi ara 30 $, aparo ikempoyetiri areteame 60 % opinatakotaro okanta ashi 2 osarentsi.	Opinata $ 30 pikaraterorika otsipaniki apite osarentsi.	entailment
+cni	om, tekatsi kantachane aparo apa pantatsiri maaroni timimotiriri a ooo a ooo aparo atiri kempe ooo kempe kempe abiro	Kameetsatake apa aparo inpantte osheki payetantsi.	entailment
+cni	Ijokantakarori, ijokantakarori tokoyo intantearori imisokiero, onijaintsari apite yantayetantaroripee ampateki arakomentotsi obejanaka arantaitari.	Otimi yantayetantaroripee arakomentotsiki obejayetanaka.	entailment
+cni	Okimoshiretakasanotanari oka IRT irointi pintsatakantirori maaroni nampitsiki opaayeti mayetaintsari shiakantsiki irashi obamerentsipee.	Ora IRT akakotiro shiakantsi.	entailment
+cni	ayojeitakempa akantajeiteri	¿Paita antakeri añaanatanteari?	entailment
+cni	Iro, piyotake, iritake, osheki okantakotiripee, kempe itomi ashitarori aparo pankirentsi jampakia iritake itomi yoka shirampari otimimotirini osheki timimotiriripee.	Iriri iritake ashitarori 2000 tsirero kipatsi ipankiyetantari.	neutral
+cni	Okoasanota apatotea aparo irashisanori aisati ashisanori ashi antyaro obametantsipanko omatanteari tikakobentantatsiri okantea okimote yamenetero.	Tikakobetantatsiri timatsi tikakotirori, okantaka, ashi Fundación Melinda jeri Bill Gates.	neutral
+cni	Yora amitakotirori batsatsipee ipajiro amitakotajero ñaamentotsi antakoterone amenatatsiri jenoki yantateyetiri antakotirori arakomentotsi oberaempa 80.000 itintsipee, amenakomentotsi antyaro jenoki, aisati oipiajeri.	Yora ankotiroripee otimatie akanteri imatakerorika amentatsiri jenoki 20 apipinitea kashiripeeki.	neutral
+cni	Kameetsa, tekatsi amitakotenane.	Osheki atiri amitakotenaneri.	contradiction
+cni	ooo, mmm..., tee, iro timatsi ashi inchashi shiamentotsipee ashi Oaklawn	Timatsi ishiakatetariri kabayo inchashiki shiakomentotsiki ashi Oaklawn.	entailment
+cni	Keariosanotake tee ojiteaji, eee.	Tee okantea ashi kaari jitachari.	contradiction
+cni	Kameetsa, tekatsi amitakotenane.	Tekatsi oka nayetantsiki amitakotenaneg.	entailment
+cni	mmm..., kameetsa, aisati narori nokanteme timayeetatsi otsipapee materone toteroneri, piyotiro, eiro narori, kaari koachaneri itoyeeteri anta	Nokenkeshireabeta kapichaji yamananteme obanarontsi jero eirokia kiriboroki.	neutral
+cni	Intanakaro Nueva Yoork ikibantayeteri aparopee ishaninkapee yoka irirentitsori, aisati isabikajeitanake jero tee iyote jaoka ikantea ipiantajeari, arikia iriori isabikakajeitanajiri.	Isabikakajeitanajiri Brooklynn ishaninkaki.	neutral
+cni	Intakantanakarori kempe aparo apatochari itimita obakotantatsiri 1973 yonijantakeri obemerentsi nampitsiki kempe Gary, Elkhart jeri Terre Haute, antachaneri obamentantsi ashi IRT meeka kitaiteriki	Aparopee obakotantatsiri yantajeitake ijayete Indiana 1973.	entailment
+cni	Mmm, ikantaka ijajeitake nampitsiki, jero iroori tee oneajeroji irento.	Tee oneajeroji irento impoijiki oka.	entailment
+cni	Kameetsa, maaroni okanta, nopiaja, nosankenamentoki.	Nopianaja jero nosaikapaji jampakia ikantakena pinkatsatanari ikantakena nantayeteri.	neutral
+cni	iro, antakerontaki, noajeitaka osheki piratsi batsatsinari jeri saari jeri shempiripee maaroni pashiniyetatsiri	Noñantakari osheki pashinipee ibatsatsa poshiniripee kempe obanarontsi.	neutral
+cni	jero ooo kearisanotake pikimoshirete	¡Okantaka okobentasanotake!	contradiction
+cni	Tee niyojeite irinti aparoni U2 aisati tekatsi iyotakoterone oka aparo U2.	Tee niyojeite jaoka nojajemanteariri noñakeitakeri jenoki.	neutral
+cni	jee, otimimotiri t obiotaka osheki o kapichaji otsirajakotanake	Maaroni timimotiriri otsirajakotanake.	entailment
+cni	Mmm, ikantaka ijajeitake nampitsiki, jero iroori tee oneajeroji irento.	Ojataji Texasaki jero tee oneajeroji irento.	neutral
+cni	kaari apaniro tikakobentantatsiri jeri aisati amenirori nampitsi jeri amenayetirori pomerentsitatsiri aisati maaroni iotakoyetirori sabikayetatsiri maaroni	Aparopee inkantakoyetakeri obatsikata pomerentsitachari.	entailment
+cni	...piatakea otimantari kapichaji jitakariri yakameetsatanteari irashi koshinti jero obamantatsiri.	Aparopee ikarabintsare irinti koshinti jeri obamantatsiripee.	entailment
+cni	Aisati, ooo, poimisokiero oka.	Namenajero oka kamantakotantsipee.	neutral
+cni	¡Kameetsasanotake okamantabaka obametsaperotaka kitaiteripeeki omaataka pasonki amitakotakero antayetiri nampitsipee otsipatabaka!	Ora apatoantatsiripee kempe ashi yamitakoyetakeri obametsata kameetsasanotake maaroni kitaiteripeeki.	entailment
+cni	Ora amatsaerentsipee ashi iraoeri, onijantakotirori anakorentsi, jero ojempeki ashi oribo kantakotirori kameetsakantatsiri, aisati obetsikantanakearori otsapiki antayetainchari otsipataro oshi ashi akanto.	Shima omani, marankepee iritake maaroni timaintsiri otsapiki ashi antainchari.	contradiction
+cni	Pokayetatsineri yaaye bajirontsipee, itimita jero ñakarontsi ikajemamento, jempe ikamantero okoayetiri obametantsipanko.	Pokayetatsineri otimatie icharinkero imonkarateri, intantearori iyotero ikamanteteri.	neutral
+cni	keariotake, irointi ikanta yantabeti, kaari okante, piyotaji,pintsipatearo pikoane aisati poyee pante kameetsa, keariosano tee okantimotena	Tee okanteji aririka keariokatsini eirorika pikoasanotitsi.	contradiction
+cni	aisati nokenkeshirea keariosanorika pikoake anteri okantakoteri oka, nokoi nokante tsame apashiniajeri atiri nijantakoteri	Keariorika osamanite ipashinniantajeari nijanteripee, iro otsonkantapempari ari amatakero.	neutral
+cni	iro tee, narojeite, piyotake, obichakiro aisati obichakiro jero oitsare irootake pineiri aka arikea kameetsa antabete pankotsikii jampakia monkara nojate nokojaniki	Tee nonkitsateaji masabitakantatsiri aririnka nantabete pankotsiki.	neutral
+cni	Ajatiero 58 % kirekiki pimantantsari, ojokanake 32 % ajero amitakotantsi pikarabintsare kempe abiro.	Ora opimantata opi kapichaji nianki yoka kireki.	contradiction
+cni	kameetsa, okantea akanteri oashinonkaeri aisati aatikeri ashimpeteri	Nantajeitakero kaari jitatsa omatanteari atiri eiro imtanta ipashiniempa ashi anampi.	neutral
+cni	Iro kantaincha, ora opinasanotaka obinaro kiriboro tikakobentatatsiri, kamantantatsiri jero payetantatsiri kantakotiro timatsiri okantea ashi akoyaakeripee iroakerari opinasanota.	Atimero akoyaakeri iroakeraripee aparo opinatea mabatirori ashi kireki osarentsikipee.	contradiction
+cni	kameetsa, ¿kaarike intantaro? Jampakia osamani pikenkeshieaka omatanteari oka, terika ojitimotempi	¿Paitakea kaari pijantanta abiro jibateroneri?	entailment
+cni	kameetsa, ¿kaarike intantaro? Jampakia osamani pikenkeshieaka omatanteari oka, terika ojitimotempi	¿Paitakea kaari pikamantantakotaro pikiribote maarojeini?	neutral
+cni	Nokoi pamitakotena narori.	Irointi antyaro antaberentsi nokoiri nanteri.	neutral
+cni	Ora kamantakotiri obamerentsi okimotanaji 12% intanakaro 1992-92, onijantakotirori okimotanake inetakeri.	Ora sankenatakotantatsiri oshekianaji osarentsiki.	neutral
+cni	Ora osarentsi abisanaintsiri pipaake $-.	Abiro pipake kireki osarentsiki abisanaintsiri.	entailment
+cni	Jee, jampaki nabisanakero betsikamentotsiki, iro ee.	Nokoabate eiro abishime abisatsineri okantakanentanti.	neutral
+cni	Jee, nokantapinintii ari okamake, kameetsa, nokantapininti ari ikamake, ipiaje kempe otsiti ikantanakea	Tee nokemisanteji kempetarori añaamentotsi impoijirika akamake.	contradiction
+cni	kameetsa, okantea akanteri oashinonkaeri aisati aatikeri ashimpeteri	Namitakojeitiri aisati ikenkeshirayeta kitaiterikipee.	contradiction
+cni	opinasanota, ari omatakea aake osheki kireki pimayetantsipeeki, iroperosanori kameetsayetatsiripee	Ari paake osheki kireki otimimotimpirika irooperori tokoyapee.	neutral
+cni	Eiro otonkime tee anerori otonkantari.	Otonkantari otonkakairo tsonkantatsiri...	neutral
+cni	Okantaka, itsipamotakena.	Jee arime aparoni iyotakerome kamantantsi, yashitakoyetakename.	neutral
+cni	Irori icharinkiro paperi aisati yoakero impanekiki, imorekakero pamari aisati iitakero samanpoki impanekiki, aisati ishebatiro samanpoki aka.	Iritake tayeroneri paperi.	entailment
+cni	Pokayetatsineri yaaye bajirontsipee, itimita jero ñakarontsi ikajemamento, jempe ikamantero okoayetiri obametantsipanko.	Pokayetatsineri aparo iyotero ibajiropee amanantatsineri irioooperori, iro kantancha eiro isabikitapee.	contradiction
+cni	Noneakero irointi arakomentotsi U2, iro kantaincha tee nomajeitea, tekatsi nokantakotero timastsiri; tee katsini nojinajei, jananekipee, tekatsi.	Nokantajeitakeri maaroni atiri maaroni okantakoteri oka.	contradiction
+cni	Ora CIA aake shiakantsi jero anakero Naciones Unidas kitaiteriki otsipani.	Ora CIA okenshireaka ora ONU okoi amenero shiakantsi intsipaite.	neutral
+cni	Ari noipiajempiro nokajemajempi aka aparo orea okantapanaintea, ikanti.	Ikanti yoipiajempiro ikajemempi.	entailment
+cni	pineanatakero The firm	¿Pineanatakero The Soft?	contradiction
+cni	Nosaro otimake 1910, irointi jananeki orijaniki.	Nosaro otimake 10 osarentsi impoiji opashinianaja osarentsitatsiri.	entailment
+cni	ooo, jataintsiri Snake River, ooo Snake River osheki marankepee timantkariri	Snake River itimotiri osheki shempiri atsikantatsiripee.	neutral
+cni	Nokantakeri, nobetakaro nokamanteri notsaroitake tee notimeroji maaroni kamantsi nokoabetakari.	Nokantakeri tee nokoe nokemayetaje osheki.	contradiction
+cni	Jee, jampaki nabisanakero betsikamentotsiki, iro ee.	Jee, konijatake obisanake osamani.	entailment
+cni	iro, mmm..., arimpa pinebeyetaro pashinipee obanarontsi ¿ee?	¿Pinebeta pashinipee okarayetiri obanarontsi?	entailment
+cni	iro niotake aparopee,osheki saiteripee nampitsijaniki, tee okameetsateji	Kameetsanoitake saiteripee nampitsi oashiaro nampitsijanikipee.	contradiction
+cni	nopiajeitajaro ashi eee eee Grand Rapids itsonkantanakarori aparo notomi	Grand Rapids irointi nayetantsi kameetsaro.	neutral
+cni	kameetsa, abisanaitiye otenkapeeki	Opokimoti kaari pomerentsitachari.	neutral
+cni	Iriori ikantiro: Ina, nosaiki pankotsiki.	Iriori tekatsi ikantanake aparo ñaantsi.	contradiction
+cni	Keario tee nonkematsatero.	Keario, iroori tee nonkematsateroji.	entailment
+cni	Eiro pisaikanake ara.	¡Otimatie pisabikanake aka nayetantsiki!	contradiction
+cni	Tekatsi nantakayero tantapee pochari.	Tee nayeroji tantapee pochari.	entailment
+cni	Jeri niripee ikantapinitajeite eiro akantitsi irinti piratsipee.	Arijei ikanti eiro apajitiritsi piratsipee.	entailment
+cni	Irootake kaari nosokijanta antyaro obametantsipanko, tee katsini,tee katsini noneanateji kiriboro noneataterime.	Tee notsonkeroji antyaro obametantsipako.	entailment
+cni	Nokoi pamitakotena narori.	Tee nonkoe yamitakoyetena.	contradiction
+cni	Opoña, kameetsa, maaroni okantakotiri, yokapee irinti maba, ee, antakotiroripee U2 timaintsiri isabitaka pinkatsari Kennedy Washington itsipatari jibatatsiri May.	Yora jibatatsiri May aisati antakotiroripee kameetsa ikibantakero yantabeyetantari.	neutral
+cni	Aisati iritake tsinaneberi, ooo jee, isabikake ara sotsiki. Opoña niyotake, tee nonebetearoji, irokantaincha irointi abisayekenaripee.	Iritake kaari aimentatatsiri aisati nintantatsiri.	contradiction
+cni	Ora CIA aake shiakantsi jero anakero Naciones Unidas kitaiteriki otsipani.	Ora CIA amaake shiakantsi ONU.	entailment
+cni	jero, mmm..., ojajietake piteirinka konisheki atiri notsipajeitantakariri aisati, mmm...	Nopeantakari tsipatariri, notsipajeitakeri kapichaji 2500 atiripee.	entailment
+cni	Yayetanakena aparo orea arika apite inetantajeari kameetsarireri nokoabeitari.	Noneake intsipaite oreajaniki.	contradiction
+cni	Tee nonkoe nokie mabatirori SS mabaki amitakoyetantatsiri koayetachari.	Mabatirori SS kaari jitacha.	neutral
+cni	bekarapainchari antabetakantatsiri ipetajiro Birijinia otimi aparo koachari okantakoteri Keratin irokea ibetsikantarotsi jampakia ikantashibetakaro kempetachari, piyotakeri	Maaroni yantabeyetantari icharinkayetakero tee opomerentsitempaji.	contradiction
+cni	Pipinatakoterori okanta antyaro kameetsa ashi maaroni kantakoterone ashi onijantakotantatsiri aisati omatero iroakerari imayeteri.	Ora pinakobentantsi antyarotatsiri yaasanoetiro anta onijatamentotsi.	neutral
+cni	Jee, iro eirorik ajati antero jampakie eiro amatiro ayeero okatiayeetata shiakomentotsi kempejipee jero oka abisayetatsiri akoasanotakeri akemeri.	Ora obinaro kameetsa katsini.	neutral
+cni	Namitakotantempiri pipinatatiero, nokoakotempi pikajemero Kathy Danels, Jibatirori ashi kimotatsiri, oka 924-6770 ext.	Pikajemero Kathy Dannels pikoirika piñaanatakotero abisatsiri ashi The Walking Dead ashi tsiteniki abisanaintsi.	contradiction
+cni	jee, kameetsa, kaari ojisanota aanake tonkamentotsijani Texas, kaari, iro ometea pintimero pibankoki	¡Texas monkara paanake tonkamentotsijaniki pakoki jaokarika pijateri!	contradiction
+cni	Yantajeitake aparopee sampitantsi, nakakeri jero ikantajeitakena: Paajero timotimpiri aisati pijate meeka pareteari pijatemeri aririka paretantakari Washington.	Ikantetakena otimatie nosaikanake pankotsiki.	contradiction
+cni	Kearisanotake, pampatoemparo aparo apatotachari pashiniripee iriperori ashi katantatsiri, pintsaripee ashi pimantantsi, iyotakantatsiri, irioperori ashi antantankeari jeri koashitatachari ikaratero kaari koatsine kireki...	Yora apatotainchari jaitaka yayeetakeri jeri koshintipee.	contradiction
+cni	Jee, osheki okenkeshireakanti	Jee, ayojetakero opomerentsitimobetake iro, oberantapaakari, osokijanake osheki kameetsa.	neutral
+cni	Ora betsikaintsari asoriri kisari onijantiiro ibichekamento pinkatsatakantatsiri maaroni opotsota tsompoiki otapotakata 50 impokiro kitamarori.	Ora betsikaintsari itimi omonkarata iko itintsijaniki.	neutral
+cni	Jeempa jaokaki, mmm..., notsaroanake.	Nantakero kameetsa noshitikakero.	neutral
+cni	Tee nonkoe nokie mabatirori SS mabaki amitakoyetantatsiri koayetachari.	Tee nokoe notsipatearo mabatirori SS.	entailment
+cni	Omatatea akoteri aparo abirorijei kaari pokaitatsiri oka osarentsiki abisatsine 45 kitaiteriki omatanteari aretearo akoakeri tekerata aretea kitaiteri oberapaata ashi 30 ashi yompiriiteri.	Abisanaintsine 45 kitaiteri, otimate aneeri irooropee kaari amitakoteri oka osarentsikoka.	entailment
+cni	Notsaroi iroorika ibajiro Anderson, irinti shirmpari abishimotakeriri aparo paperijaniki aparonitatsiri ininatiri Reagan jeri	Anderson yantakeri Reagan apaniro katsini.	entailment
+cni	Aririka iroori okantiri maaroni itsipape jero narori tee nokemisanteriji.	Okenketsatakaitiri itsipa meeka.	neutral
+cni	Itsipapee yantiro iyakotiro amanyetakeri.	Otimimotake amayetakeri	entailment
+cni	Pipinatakoterori okanta antyaro kameetsa ashi maaroni kantakoterone ashi onijantakotantatsiri aisati omatero iroakerari imayeteri.	Ora onijantamentotsi okantimonentakaro pinakobentantsipee.	entailment
+cni	Pintsatirori ashi amenirori amekotiriri kireki	Yora pinkatsatiori ashi karatabakachari amenirori kireki.	entailment
+cni	bekarapainchari antabetakantatsiri ipetajiro Birijinia otimi aparo koachari okantakoteri Keratin irokea ibetsikantarotsi jampakia ikantashibetakaro kempetachari, piyotakeri	Ora yantabeyetantari opomerentsisanotaka.	entailment
+cni	Tee aneroji irooperori kamantatsi.	Otimimotana maaroni kamantatsi ikoayetakeri.	contradiction
+cni	Otimimotana osheki antaberentsi	Otimimotana antaberentsi nantiro maaroni orea.	neutral
+cni	iro niotake aparopee,osheki saiteripee nampitsijaniki, tee okameetsateji	Tee okameetsateji nampitsijanikipee.	entailment
+cni	keario, nokimoshitasanotake nokemantakari timatsi tsipataakenaneri	Tee nonebetearoji tsipatantatsiri timaintsiri anta.	neutral
+cni	Yayetanakeri Joe itsipatanakari irioripee, aisati noshao okanti pankotsiki obashirentsitake paita, piyotake, maaroni tee yaboyajeari Joe tee iyojeite paita yanteri.	Maaroni pankotsiki yobashirejeitake koajetajiri Joe.	entailment
+cni	Eiro otonkime tee anerori otonkantari.	Otonkantari irootake tonkakaeroneri.	entailment
+cni	Jee, otimatie aparo asabikanteari timatsine aparopee tee niyoteji jaoka nokanteari.	Otimerika aparo nayetantsi asabikanteari amishitakari omonkarataka okeariosanotake.	neutral
+cni	Pijisanotimojeitana jero I.U.	Narojei jero I.U. pijisanotimotaro.	entailment
+cni	jee, otimimotiri t obiotaka osheki o kapichaji otsirajakotanake	Tekatsi timimoterine tsirajatsine.	contradiction
+cni	Iro, piyotake, iritake, osheki okantakotiripee, kempe itomi ashitarori aparo pankirentsi jampakia iritake itomi yoka shirampari otimimotirini osheki timimotiriripee.	Iriri iritake ashitarori osheki timimotiriripee.	entailment
+cni	Tee nonkoe nokie mabatirori SS mabaki amitakoyetantatsiri koayetachari.	Tekatsi oyatsine ikie ara Third SS.	contradiction
+cni	om, tekatsi kantachane aparo apa pantatsiri maaroni timimotiriri a ooo a ooo aparo atiri kempe ooo kempe kempe abiro	Apapee otimatie ikempoyaero maaroni timimotiriri aisati eiro ipimantirotsi.	contradiction
+cni	Ora antachaneripee irashi ikarabintsare kempe Young Lbrary Leaders jero Love is Reading Together Week yamenakobentiri ebankaripee yameyetea otimita kiriboropee irosarentsite ebankari.	Ora antachaneri amenanakero imateri jananekipee isokijajeite aisati iñaatsatea.	contradiction
+cni	Noipiajenero nokajemero Ramona nosampitero ora… ojita… pitsonkakayenaro… chora nosampiteri antayetiri.	Tee ontimimotena neshinonkatantsi oka nosampitantearori.	neutral
+cni	Intantanakarori okameetsati iroosati okantaro meeka irointi iroopeerori nianki itimita abintantatsiri ashi nampitsi, apaniro obametantsipanko irashi abintantatsiri ashi Indiana onijantiro kimoshire timimotirori.	Indiana otimimotiro pitetsa obametantsippankopee ashi abintamentotsi kameetsasanori.	contradiction
+cni	Aparo nobeake apite, maba arakomentotsi nosabikantabeitarini ara, jero, uh, nabisake ñaantamentotsi.	Tee katsini opempaji aparo arakomentotsi.	contradiction
+cni	Irointi aparo karaitero; otimi sabikatsiri shiamentosiki.	Timatsi inchato shitikantatsiri arai shiamentotsiki.	neutral
+cni	Intanakaro Nueva Yoork ikibantayeteri aparopee ishaninkapee yoka irirentitsori, aisati isabikajeitanake jero tee iyote jaoka ikantea ipiantajeari, arikia iriori isabikakajeitanajiri.	Yora tee katsini ikibanteroji ishaninka.	contradiction
+cni	Omatatea akoteri aparo abirorijei kaari pokaitatsiri oka osarentsiki abisatsine 45 kitaiteriki omatanteari aretearo akoakeri tekerata aretea kitaiteri oberapaata ashi 30 ashi yompiriiteri.	Akamantabakajeitea ara sankenarentsiki abisanake 45 kitaiteripee ikaratanake kaari amitakotantatsine oka osanrentsikika.	neutral
+cni	Yora kiatsiri ashi Civico pokatsiri pankotsiki, antayetachari jero antachaneri obametantatsaneripee, ikoayete obetsikantanakearipee, timakanttsiri, payetantatsiri jero aparosatipee kempe abirori.	Yora atiri ipee kireki omatanteari ashi apatoakantatsiri ontabete.	entailment
+cni	jero, mmm..., ojajietake piteirinka konisheki atiri notsipajeitantakariri aisati, mmm...	Niobetaka notsipajeitantakariri itimaiti aparopee atiri niyoyetiri.	neutral
+cni	Ora osarentsi abisanaintsiri pipaake $-.	Abiro pipake 10,000$ osarentsiki abisanaintsiri.	neutral
+cni	Tee noneanjenkate, aisati timatsi teniyoteji paitakia, nojatakeme apaniro noñaanate nokoiri niyoteri nantakeri jeri nanteririka.	Tee noreriji.	entailment
+cni	Okoasanota apatotea aparo irashisanori aisati ashisanori ashi antyaro obametantsipanko omatanteari tikakobentantatsiri okantea okimote yamenetero.	Tikakobentantatsiri oyakotiro opinatakotero aparonitakori.	contradiction
+cni	Yayetanakena aparo orea arika apite inetantajeari kameetsarireri nokoabeitari.	Nosamanitake kapichaji orea noneantearori.	entailment
+cni	Ora abisayetatsiri noñaanateri meeka okantakotiri niri jero otsipapee timayetatsiri timitsari ojatantjari Estados Unidos.	Nonkenketsatimotempiri iñaayetakeri niri ijayetini otsipapeki nampitsi.	entailment
+cni	Ora abisayetatsiri noñaanateri meeka okantakotiri niri jero otsipapee timayetatsiri timitsari ojatantjari Estados Unidos.	Tee nonkoeji noñaanatakoteri niripee.	contradiction
+cni	Otsipasato, omatearika amenakotea, ooo, aririka aparo V iko	Keariorika aparo V6 irootake kameetsa antantearori.	neutral
+cni	Nokemisanti maaroni kantashibetachari.	Keariotake pamashitakero, akanaintsane irointi jee, asati kaari aparo.	neutral
+cni	Aparo osarentsi noshitoriataiti anta jero nabisake aparo iko kashiri noshitoariatake otsipaki nampitsi, Londres	Tekatsi noshitoriate otsipaki nampitsi peerani.	contradiction
+cni	Tee irooperote teerika piyotakotero oka.	Tee nokoasanotero terika piyoteji okantakotiri.	entailment
+cni	kameetsa, okantea akanteri oashinonkaeri aisati aatikeri ashimpeteri	Antayeetiripee otikairi ipashiniajea.	entailment
+cni	piyotake otsipa abisatsine nokenkeshireakari. Tee noimisotoero okantakotiri antabetakantatsiripee antyaro aririka opinatakoterome obametantsi	Okantimonentake antabete antabetakantatsiri antyaro opakename kireki ashi antyaro obametantsipanko.	neutral
+cni	aisati, mmm..., okantabeta kameetsaitake asokie jero noyempa aparo obanarontsi	¡Tee katsini noyaroji obanrontsi, kobenkaitake!	contradiction
+cni	(dba), aparo apatokantatsi amitakotantatsiri, koashitachari aisati kaari koatsine kireki, opanti kaari pinatatsa antaberentsi apanirotakotirori, kamantatsi anbetakantatsiri jero opajireantari anbetakantatsiri ameniriri kantashibetacharipee jeri amitakotirori antabetakantatsiri jero antaberentsi kantakotiripee kantiri ipeanteari.	Maaroni yantabejeito aka ipinayetanti osheki kireki.	contradiction
+cni	Jeri niripee ikantapinitajeite eiro akantitsi irinti piratsipee.	Arijei ikanti iritake piratsipee.	contradiction
+cni	Oka irootake katsimotakenari.	Amashitake notiankatakarori ijayetiripee.	neutral
+cni	Nosankenatempi nopasonkitempi peranitaintsiri amitakotantsi otimita kirirboro ashi IUPUI University aisati omatanteari okoakoteri apitajea yamitakotaje.	Nokoakotempi pante otsipa piperori otimita kiriboro ashi Universidad IUPUI.	entailment
+cni	jee, otimimotiri t obiotaka osheki o kapichaji otsirajakotanake	Aparopee timatsipee tsijanaintsiri irooperotasanoti.	neutral
+cni	jee, otimimotaitimpirika aparo impokirotsa	Ari omatea otime aparo amporetsa otsipa yayeteri.	neutral
+cni	aisati osheki o kapichaki nonebetari inchatoshi iro kantaincha eiro amitakotanatsi	Ora Black Eyed Pea okameetsasanotake, keariorika otsipatanti.	entailment
+cni	Jeri, eh, aririka obajenokanakea aisati okantea obajenokea, ante «güis» jero aririka itsokayetakero iitontsi.	Aparo okantea aparosati.	contradiction
+cni	Pamitakotena meeka amatero obametsatanakea osheki ojanajeri ichatopee ashi Estados Unidos antanakarori antayetachaneri obametantsi, ashi jibatakantatsiri jero kamatakotatsine nianki.	Arimpa pamitakotakena paanakero ashi antachaneripee areyetea.	entailment
+cni	apatiroti oponeantanakari notime kapichaji kireki meeka tee nobabetajea	Apatiro itimimotana 20 $ iroosati ipinayetantajenari.	neutral
+cni	bekarapainchari antabetakantatsiri ipetajiro Birijinia otimi aparo koachari okantakoteri Keratin irokea ibetsikantarotsi jampakia ikantashibetakaro kempetachari, piyotakeri	Ora yantabeyetantari oajenokakantakero osheki obaranamentopee kityonkari otsipatakari tikakobentantatsiri.	neutral
+cni	Kameetsa, maaroni okanta, nopiaja, nosankenamentoki.	Nopianaja nosaikamentoki.	entailment
+cni	Maaroni okantaka, naretapaja pankotsiki 6:30 meeka aisati oka irootake noitaterite.	Tekatsi nante jitachaneri impoiji 6:30 meeka.	entailment
+cni	Ari noipiajempiro nokajemajempi aka aparo orea okantapanaintea, ikanti.	Ikanti ikajemapajempi yaretajearika pankotsiki.	neutral
+cni	Aisati nokemakeri ijataje, timatsi notsonkeri nanterime.	Eiro nantirotsi nantero oka.	contradiction
+cni	Tee niote aririka pipokake Texas, tee nioteji, eiro pantirome kenkeshireantsipee, iro iriori yamenayetiro tonkamentotsipee aririka kaari ikoayeti, tekishaki	Texasha otimatie otime tikabobenterone yamenetantearori tonkmentotsi shintsitatsiripee.	neutral
+cni	Yoka jataji..., yoka ijataji aparo kitaiteri tsaroantsiki.	Keariosanotake tsaroantsi opokantakari tampea nayetantsiki.	neutral
+cni	Akoakantero tampea jitakantiri irashi osheki obakotantatsiree onijantirori ashi nampitsipee kameetsa yantayeri.	Osheki obakotantatsiri iyotakotirori intajeitakaro shiakantsipeeki nampitsiki.	neutral
+cni	Kearisanotake, pampatoemparo aparo apatotachari pashiniripee iriperori ashi katantatsiri, pintsaripee ashi pimantantsi, iyotakantatsiri, irioperori ashi antantankeari jeri koashitatachari ikaratero kaari koatsine kireki...	Yora apatotainchari jaitaka atiri irioperori.	entailment
+cni	iro, antakerontaki, noajeitaka osheki piratsi batsatsinari jeri saari jeri shempiripee maaroni pashiniyetatsiri	Tee noyari katsini otsipapeebatsatsi.	contradiction
+cni	Jee, osheki okenkeshireakanti	Tee, okeariosanote irointi kenkeshireakantatsiri jero katsini ikenkeshireashita.	contradiction
+cni	Itsipapee yantiro iyakotiro amanyetakeri.	Otimimote amayetakeri aririka akoyayete kireki.	neutral
+cni	aisati osheki o kapichaki nonebetari inchatoshi iro kantaincha eiro amitakotanatsi	Tee nobetearoji machaki oki kisari.	contradiction
+cni	Aisati opoña, aparosati maaroni oiminkiakea, pimatea poijatero ara.	Otimatie pimakore meeka.	contradiction
+cni	Irootake nokenkeshireantarori.	Irootake nokenkeshireantarori oka.	entailment
+cni	-oshiaro, antaichari jero antsitakea akotsiki kameetsa kitsarentsi, kempe itsareni ashi Mary Todd en Abe Lincoln, lllinois, ora kitsatentsipee ashi ishebatantearori ibatsa kameetsatatsiri antayetachari 'A Christmas Carol'.	Ora kitsarentsi aparo obetsikaka akotsiki.	neutral
+cni	Nokantakeri, nobetakaro nokamanteri notsaroitake tee notimeroji maaroni kamantsi nokoabetakari.	Nokantakeri nokoabeta otsipa kamantantsi nantantearori nantabereki.	neutral
+cni	pikenkeshirempa jaoka okantantiri kamantatsipee nampitsipeeki anta nayetantsipeeki kempeji	Eiro ojiperotimotanatsi kapichaji kamantantsipee nampitsipeeki amitakoteri sabikayeetatsiri kempeji nayetantsipeeki	contradiction
+cni	Irootake timimotanari Rudolph Anderson, aparo obetsikirori ashi maba U2.	Otimimotake amitakoteneri ashi Rudolph Anderson otsipatearo U2.	neutral
+cni	Tee inkantaje aparo orea, ikiakakena iroosati noshemantapaaka, aisati tee niote paita koachari.	Nokenkeshireaka tee niote jaoka ikarati orea.	entailment
+cni	Ojitakotakotaro maaroni ashi Becky, Stephanie, Marcus jeri Emly, aisati yora obamerentsipee kempe irioripee.	Becky irointi aparo obamerentsi.	entailment
+cni	Aririka iroori okantiri maaroni itsipape jero narori tee nokemisanteriji.	Nokemake maaroni okantakeri iroori.	contradiction
+cni	Tee, ijatake aparo onijatamani, jero iroori okantabakeri antabetita.	Okanti opiaje ishabiniji.	entailment
+cni	ooo, mmm..., tee, iro timatsi ashi inchashi shiamentotsipee ashi Oaklawn	Tekatsi shiakantsipee shiakomentotsiki ashi Oaklawn.	contradiction
+cni	Intantanakarori okameetsati iroosati okantaro meeka irointi iroopeerori nianki itimita abintantatsiri ashi nampitsi, apaniro obametantsipanko irashi abintantatsiri ashi Indiana onijantiro kimoshire timimotirori.	Ora mnampitsi Indiana otimi aparo obametantsipanko ashi abintamentotsi.	entailment
+cni	Jero inetajro oka pankotsi ashitaka maamentotsi ojitarika, imatanteari isabike, aisati itimaiti otsapiki Broad Street.	Isabikini aparo pankotsi kitamarori Broad Street.	neutral
+cni	(dba), aparo apatokantatsi amitakotantatsiri, koashitachari aisati kaari koatsine kireki, opanti kaari pinatatsa antaberentsi apanirotakotirori, kamantatsi anbetakantatsiri jero opajireantari anbetakantatsiri ameniriri kantashibetacharipee jeri amitakotirori antabetakantatsiri jero antaberentsi kantakotiripee kantiri ipeanteari.	Otsipatiri amitakoshitantatsiripee.	entailment
+cni	Otimatie nintajearo nomamanatajearo kantakotenane.	Otimatie nintajearo nobetsikajea.	entailment
+cni	Iro, piyotake, iritake, osheki okantakotiripee, kempe itomi ashitarori aparo pankirentsi jampakia iritake itomi yoka shirampari otimimotirini osheki timimotiriripee.	Iriri tekatsi katsini timimoterine isabikantarini.	contradiction
+cni	Jee, otimatie aparo asabikanteari timatsine aparopee tee niyoteji jaoka nokanteari.	Keariosanotake tee ojitimotenaji aririka otime nayetantsi nosabikanteari.	contradiction
+cni	Arike okantea aneabakapinitea ibankojaniki niritsori inkajareki aisati asabikanake apite kitaiteri ara.	Tsame apitekitaiteri pankoshintsiki.	entailment
+cni	Pashiniripee, ipariantayetari karatirori opashiniayeta jeri aparo tsimeri yarayeti, oka, maba apita ishintsiti ikajemi, osheki ashi 22 000 otsantsati ashi orea.	Yarai osheki ashi 20 000 otsantsati ashi orea.	entailment
+cni	kameetsa, otimimotana aparo VCR aisati otimatie noipiajero apite amashitaintsari itsipayetiri jero oka tee okonijteji kaameetsa shiakantsipee	Otimimotana aparo shiakamentotsi iroosati onei.	entailment
+cni	keario, nokimoshitasanotake nokemantakari timatsi tsipataakenaneri	Iroori tee okimoshiretakaena.	contradiction
+cni	Maaroni okantaka, naretapaja pankotsiki 6:30 meeka aisati oka irootake noitaterite.	Nojataji nopiaje pankotsiki oreaki nobanteari jero naajero kitaiteri tekatsi nante.	contradiction
+cni	Irootake noashirenetantari.	Okantakaimpi kameetsa.	contradiction
+cni	Jee, aririka pako okantake sotsiki ajirikasanotakea, pakopee otimatie koni apitea antyarote, poashinonkarika aparo kaari kematsatantsi.	Eiro opashiniatsi pimeshina.	contradiction
+cni	Jaoka Urban ijatantaitari Vietnam, aparo nabakajeitaka kapichaji osarentsi. ikanti JoAnn.	JoAnn jeri Urban iroakera ikimoshireiti yabakantakari ñaakarontsi 50, ijatantaitari Vietnam.	contradiction
+cni	Jee, eiro nantiro kameetsa, ¿paita abisaintsiri peaintsari chakopiiteriki abisanaintsiri?¿jaoka ikarati jokaintsiripee? ¿aparopee kapichaji sheki jokaintsiripee?	Ipeaka tekatsi kapichji jokaintsiripee.	entailment
+cni	Aritakete, ara isampiyetakena paita nojatantajari.	Isampiyetakena paita nojantantaitari ara.	entailment
+cni	Eiro otonkime tee anerori otonkantari.	Tekatsi tonkakayerone otonkanteari.	contradiction
+cni	(dba), aparo apatokantatsi amitakotantatsiri, koashitachari aisati kaari koatsine kireki, opanti kaari pinatatsa antaberentsi apanirotakotirori, kamantatsi anbetakantatsiri jero opajireantari anbetakantatsiri ameniriri kantashibetacharipee jeri amitakotirori antabetakantatsiri jero antaberentsi kantakotiripee kantiri ipeanteari.	Otimimotiri 20 amitakoshitantatsiripee kitaiterikipee.	neutral
+cni	Pasonki pamitakotakero onijantakotirori betsikayetachari ashi Indianápolis osarentsiki 1999.	Akimoshirejeitasanotake pamitakotakero onijantakotantatsiri.	entailment
+cni	keariotake, irointi ikanta yantabeti, kaari okante, piyotaji,pintsipatearo pikoane aisati poyee pante kameetsa, keariosano tee okantimotena	Keariotake pantabete 10 orea kitaiteripeeki kameetsakia okantea oka.	neutral
+cni	Aisati pimatea paakero timimotanari okantakotiri iotkotirori ashi 2 osarentsi ara 30 $, aparo ikempoyetiri areteame 60 % opinatakotaro okanta ashi 2 osarentsi.	Aparo opinata 30 $ aririka pitsipakearo otsipaniki apite kitaiteri.	neutral
+cni	Kempe karatirori amenirori ashi tikakobentatantsiri __, niotake piyotakotakero ashi amayetakeri.	Naro karatirori ashi obametantsipanko ashi ipikatsayetiri.	neutral
+cni	Nosaikantabeitarini, Texas aparo otiimotironi konitsa koni irinka.	Tee katsini nosabikaite Texas.	contradiction
+cni	Aisati, ooo, poimisokiero oka.	Tee nokoeji notsipatakaemparo.	contradiction
+cni	jee, irootake ashi oka tonkariki akaratatieri sabikatsiri nampitsijaniki irinti kaari kameetsatatsi	Tsipatabakachari aka okantabeta okameetsati.	neutral
+cni	Tee aneroji irooperori kamantatsi.	Nokoi nobiote osheki kamantantsi okantakotiri oka.	entailment
+cni	Omatitya tee noneji paita noyanteari kempe narorika antakerone.	Niyobeetaka eiro notsonkirotsi oka tsitenirika.	contradiction
+cni	Otimimotana osheki antaberentsi	Tee aneroji aparoni antabarentsi tekatsi nanteri.	contradiction
+cni	Pamitakotakero nampitsi otime oshentea kameetsasanori ashikoyayetaincharipee irashi piratsipee jero pankirentsipee aisati antempa iyotakotantsipee irooperori onjantakotirori kantashitachari, otsipatakaro antantanakeari isabikaperatantanakeari añaayetatsiripee.	Ora Sociedad okenkeshireakotakeri jananekipee irijaniki.	contradiction
+cni	Tee iyote paita ijatantari tekatsi katsini, ijateme ikamante nayetantsiki ikantetakeri Washingtonki.	Tee niote paita nanteri, ari nojatake Washington, ikantetakenari nokamantante.	entailment
+cni	ooo, jataintsiri Snake River, ooo Snake River osheki marankepee timantkariri	Okantakobetari ibajiro, Snake River tekatsi marankepee; ipajiyetiri okantakotiri S.	contradiction
+cni	Ojitakotakotaro maaroni ashi Becky, Stephanie, Marcus jeri Emly, aisati yora obamerentsipee kempe irioripee.	Becky tee okoeroji.	contradiction
+cni	kameetsa, ¿kaarike intantaro? Jampakia osamani pikenkeshieaka omatanteari oka, terika ojitimotempi	Otimatie pijate otsapiki jampakia tekatsi piyote.	contradiction
+cni	Pipayetakeri ojisanota abisantearori ashi 85 kashi.	Tee nokoeroji pipayetakeri keariote.	contradiction
+cni	Irooperosanori niyojeitakotempi oka kapichaji panteri kitaiteripeeki.	Oka irootake bekarantapemparone amitakotantsi ontimimote kitaiteripeeki, ¡akoatiye amitakotene!	entailment
+cni	Yora 5 539 obamerentsi ashi obametantsipanko ashi tikakobentantsi ibetsikempa aparo apatoachane ipashinitake.	Ora kantakotirori ashi tikakotantatsiri okantaka ashitareaka 100 osarentsi aisati otimimotakero 5539 obamerentsi.	neutral
+cni	Apaniro notimake nameyeti nobetsikajero.	Nokoy nokematsaterome jaoka ikenakeri kireki.	neutral

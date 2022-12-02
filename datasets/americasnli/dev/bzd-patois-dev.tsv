@@ -1,0 +1,201 @@
+language	premise	hypothesis	label
+bzd	Teatro profesional dör i yö' e' ã i wéqrmĩ tö wèxs i ãmãnéxrmĩ alátsitsipa ã wèxs Becky, Stephanie, Marcus, Emily ẽnã i kalépa mãléxpa wóqulârke káx wâñẽ estado Indiana e' ã.	Teatro dör séxjka alátsitsi tso' Indiana e' kíxmẽ.	entailment
+bzd	Ãñìxes be' ã káxwö kúxrmĩ mẽmbresía wa bua' ie dòqka dawás 2 ã 30$ wa, ahorro iéjkë tã 60% i tãwèx wa séxjka dawás 2 ã.	I tãwèx e' dör 800$ ẽ' yawo i wakpa ie buékal dawás bòqt dónẽ e' wa.	contradiction
+bzd	(dba), organización e' dör skíxmõ ie, éqme kèq wã ẽ' bulu'wẽ ujchẽn, e' dör kãnèx ãmèxke kãkmẽrule autónomo, empresa ujté ẽnã empresa kíxmũkbla dawè ie ẽnã empresa pájtök kãnèxble wa profesional wa ẽnã i wòqkökkanẽ vocacional.	I wakpa tso' e' dör éqmẽ.	entailment
+bzd	Presidente consejo wòqstsũk.	Yì yóqrule presidente ie e' sèxnã káx tãîx Junta Directiva ã.	neutral
+bzd	Bua' irir tö se' wã be' ujté ujchẽrmĩ i batà i' wa ẽ' diché wa káxwö batà ã.	Sa' wã campaña tã' bòqtökicha ĩã skéxl klóqwõ dawás i' wa.	contradiction
+bzd	Be' wã Thi Firm e' àxritsule.	Be' kèq wòqbatse ye' uláitö e' dióqköl peitök àxritsènẽ?	neutral
+bzd	Tóq, wâ dör tö wake' i tká tã ye' tkámĩ íyi yóqrke e' ajkẽn, erë, eh.	Tóq! Iulà dé iska yawè kèq wã i bìnẽ ie!	contradiction
+bzd	E' kũẽki yö Ramona ichàkenẽ e' wâ dör tö ye' éxn ã ie' ichàkak ì alê kũéxkĩ... tãwẽ... àxs ye' ĩẽ'ùxwa ye' wã ichàke tã' íyi yawóqk ye' tso' e' kũéxkĩ.	Kèq ye' ã káxwöta íyi ése wà ichakök yéqs.	neutral
+bzd	Tóq, aû kèq ye' ã i yóqr bua', wèxs ì dë míxk se' bùnẽ diciembre bakmĩ e' wa? ö bìt bòto wa tã? ö bòto sĩẽn tsáxka e' wa?	I tká wéqsawa 99%.	contradiction
+bzd	Tóq, se' wã i tso' ye' màxso, ẽnã ye', se' wã i tã' tèröl.	Ye' tàyë ẽnã ye' sa' dö ie'pa tã tèröl.	entailment
+bzd	Um, kèq ĩã ì tã sulû tö wèxs ẽ' yawè yéq ie tã íyi kòxs tso' i wã ud, ud, se' wèxs be' e's be' ie.	Yéqpa káxwöta wã íyi tso' ie séxjka tã kèq irir bua' i kakmũk.	contradiction
+bzd	Be' dör sa' kĩmèxke e' wa sa' dör íyi ajkóqnèxke káx ã íyiwak dapâũk ẽnã kàlkö tã bua' ietke ãñìxes i tòqtke yulóqk bua' ie wéxse dör íyiwak ikũãki, e' wóqsũk i wà kiànã Sãwèx Iã sèxnẽ móx ie wèxs.	Káx wakpa tkînã alátsitsi tsítsir kĩ.	contradiction
+bzd	Dawás bakmĩ e' wa bö $ kakmẽ éxn bua' wa.	Be' dör ĩnúxköl kakmẽ dawás bakmĩ e' wa.	entailment
+bzd	Tã ummm..., irir mil bòqt kĩ quinientas dòqka e' dör se' èq míxk ye' démĩ tã mmm...	I tso' dòqka sĩẽn êyök e' èq ièqnãwã.	contradiction
+bzd	e's irir, tã ye' tsë'nãka dakírkî dòqka tã iche irir tö compañía tã i tso' e'.	Ie' dör ye' péñẽ móxki.	contradiction
+bzd	Be' ẽ' pàrwö wèxs biyòq tkòqke ĩẽ' dòqka káx íxẽ e' wa.	Káx wak ã uyèqjkuö kítule e' chèke tö se' káx wër tö áxtketër dióqshẽt.	neutral
+bzd	Éqwë, wake', ye' dénẽ, ye' uyèqjkuö shtèke e' kĩ.	Ye' kula' kĩ ye' dénẽ.	entailment
+bzd	Sa' ã tã be' dör bua'ë ẽnã I.U.	Wèxs I.U. ẽnã sa' ã tã be' dör bua'ë e' wâ dör tö be' dör stsè bulâr ése.	neutral
+bzd	Aû, kèq ye' éxn ã ĩàxnẽ, i dé, éqwe ye' wòqbatse ujtók be' tã ẽnã be' kĩ nãñéxwe tkö bua'ë.	Yö i bikeitse tö bulâmẽ tkö be' bua' ë! buáala irir be' tã káxpakök îxñẽ ñíxwe i tsékicha míxk.	contradiction
+bzd	Ãñìxes, tã i wã i ujchẽnã tö i kalépa e' tso' tkèqnũkwã ẽnã i ujté múxkka juicio ã.	Káx wâñe ã i ujté ãméxrke âxs juicio sulûë ujté e' tkòqmĩ.	contradiction
+bzd	Ĩmìxneshka sulûë dòqka i diché káx íjkë tã irir se' kapéye bua' bua' ése káx e' kĩ, colegio se' kapéyo Indiana dör i káx tã ĩẽ' tsèqũ dakírkîë.	Indiana wã sö ichèmĩ escuela tã' dabòp bòqt kapóqli wé bua' bua'.	contradiction
+bzd	Íyi ì dör ãñìxes i wòqtkèmĩ sa' diché wa tã festival skà móxka dawás dâtse ièqt e' wa tã.	Ìs alê irir mã aû kèq alê dawás iêt wa sa' festival skà tkòqpa.	entailment
+bzd	Wake' tã, ĩẽ'keka, iéjkë tã sa' dë eh, mmm, kèq ye' éxn ã ishtâwẽ àxnẽ.	Ye' éxn ã ishtâwõ ĩàxnã yêqsyêqs séxjka.	contradiction
+bzd	Be' éxn ã ichàkak ö i ujté mâxk, ye' ichàkö îxñẽ (924-5471) ö Bob Lovell e' ichàkö (274-0622).	Bob Lovell dör ichàkirke e' ĩùxtemĩ.	entailment
+bzd	Míxk yö i péũ, míxk yö ù ajkuö péũ àxs i wà yéqrulur, tã ulà bakalíxjkẽn i ajkáchö tö ẽ' tabèchka ã íyi tso' e' diànẽwã úxnẽ shùxã.	Tabèchka ã séxjka íyi tso' e' diàrlônẽ.	entailment
+bzd	Ie' dör Grecia wakpa tã ie' káx tsîr tso' Grecia kiè Tokalleka, i déqbitũ América, ye' iklòqwẽ tö irir 1969 ö 1970 e' kéxska ukòqki bét i ulà batsuwa.	Ie' dör Irlanda wak.	contradiction
+bzd	Tóq, i yèqnã tö i yèqnũk.	Tóq, i dé klòqnẽ wa.	entailment
+bzd	Éqwe, ye' wã VCR tã ye' káxwöta i múxknẽ tsèë i wak kũéxkĩ yö'tso e' wa tã kèq bua' ie i dióqköl ajkàyèqnẽ.	Videograbadora e' kãnèxblòqke dòqka sö iche mã káxwö semana ét e' ukòqki tã i bùtsãna skànẽ.	neutral
+bzd	Dawás bakmĩ e' wa bö $ kakmẽ éxn bua' wa.	Be' dör 10000$ dawás bakmĩ e' wa.	neutral
+bzd	Tã ye' tso' bua', tã e' èq irir!	Míxk ukòqki yö iche tóq, ĩèxnãwã.	entailment
+bzd	Um, kèq ĩã ì tã sulû tö wèxs ẽ' yawè yéq ie tã íyi kòxs tso' i wã ud, ud, se' wèxs be' e's be' ie.	Bua' irir tö yéq dör ĩã íyi kakmẽ tãîxë.	entailment
+bzd	P.D.: E' dör i kakmẽ e' dör bua'ë sa' kĩ 85 dawás détke Teatro Cívico yawóqk de Indianapolis Teatro ĩẽ' káx wakpa icha wéx kãnèxblòqar dör kéxwe ie káx i' kĩ.	Teatro skà bak e' i' kukùnta e' dör i dawéswö 85 e' tkòqõ', erë ukòqki i wòqbutséxka.	neutral
+bzd	Tã ie' bak aláköl nãmẽ ie, ẽnã tóq, i tso'sẽn séxshàx kãñíxka. E' wa tã be' wã i ujchẽn, kèq ye' wòqbatse i wa, erë wake' i' dör ye' ujté pàke.	Kèq yö ie' kalépa.	entailment
+bzd	Aû be' kèq káxwöta ẽ' tsúxkat ẽ' dör.	Be' káxwöta ẽ' tsúxkãt káx e' shàxë ã!	contradiction
+bzd	Mĩàx i kíxmẽ kũéxkĩ Museo de Arte e' ã de Indianapolis dawás 1999.	Sa' tsèqnã bua'ë tö Museo kíxmèxnã.	entailment
+bzd	Dawás fiscal i' wa ẽnã ièqt, escuela de derecho e' káxwöta ujtè ióqkwã wèxs i wòqârke i klóqktër e' wa estatal ẽnã úrki wéx pàtãwẽ wòqsìnã, séxjka tã 400000$ e' tsáxka.	Facultad de derecho e' dör ujtè kéxwe e' ã i wèìnẽ skéxl e' sũ.	neutral
+bzd	Bua' ye' tkòqmĩrak i ulát ã.	Ĩẽ' kùxmĩ bua' èqmẽ.	neutral
+bzd	Tã ie' bak aláköl nãmẽ ie, ẽnã tóq, i tso'sẽn séxshàx kãñíxka. E' wa tã be' wã i ujchẽn, kèq ye' wòqbatse i wa, erë wake' i' dör ye' ujté pàke.	Yö i páuñĩ' e' wâ dör tö irir ichàke èqmẽ.	neutral
+bzd	Tóq, éqwë, kèq irir tö irir sulû pistola tsúxkmĩ Texas, kèq irir e's, erë tã be' ã i séxrmĩ be' ù ã.	Aû be' kèq ã pistola tsèxnũk Texas kãñíxka be' ù ã.	entailment
+bzd	Tã ummm..., irir mil bòqt kĩ quinientas dòqka e' dör se' èq míxk ye' démĩ tã mmm...	Míxk ye' mìxnẽã yòqnẽ i kalépa ie, tã irir 2. 500 se' éjkë èq icha.	entailment
+bzd	Tóq, be' wã ì sùxmã tabèchka ulà batak tër ét.	Wéx bak be' wã e' ët dör ujtè e'tökicha ie i tsékicha étkèq.	contradiction
+bzd	Erë tã wake', tã ye' démĩnẽ ù ã dìwö 6:30, dìwö îxñẽ wa tã e' dör ye' dìwö.	Ye' ẽ' che shkóqknẽ chkè dìwö éjkë ẽnã i batà wa tã káxwö klòqwèxke yö éq àxnãs.	contradiction
+bzd	Oh, mmm..., aû, erë ta i wã túxnẽ tso' káx ajkue Oaklawn e' kĩ heno icha.	Kabàiö túxnẽ e' dör wòqbatse wa.	neutral
+bzd	Erë ie'pa dör íyi yö' élke ikũãki ie'patã.	I yòqnẽ ãñìx sùx i mãléxpa e's.	contradiction
+bzd	I dítke ẽnã buaála kapóqli kuá tso' wër 3,3 acres i ulát wa e' ã i bikeitse shùx kítke wa tã mâxmâxrkua kéx ie tã, kàlkö ujté tso' ẽnã i dióqköl kíx wër dakîë bikeitsule.	Káx ulát e' ã tonelada ét kàl kuá tso'.	entailment
+bzd	Tóq, erë kèq yö iklòqwẽ tö se' míxke i yawóqk e' wâ dör tö kèq se' ulà dòqpa káxwö ĩẽ' e' ã tã e' dör i biyòq wéx ã bua' ie kiànã se' kĩ.	I tãwèx e' dör béqrër tã bua'.	neutral
+bzd	Tã i dòqmĩ bua' ie ãñìxes míxk i wà mâxnã e' ukòqki.	I mãnéxrke bétka míxk i tso' i mâxũk e' daléwa.	neutral
+bzd	Éqwë, wake' se' ãndâ sĩàxrë kíxtërule kèq tsáxtkërta.	Se' tso' ie'pa dakítkök ẽnã i kĩ káx bikeitsök bulé èq.	contradiction
+bzd	Ye' kĩ ikiànã tö ìalê yawóq ye' ã.	Éltë i tso' kiànã ye' kĩ yóqruletke.	entailment
+bzd	Sa' ã tã be' dör bua'ë ẽnã I.U.	Sa' ẽnã I.U. dör iklóqwẽ tö bö importante.	entailment
+bzd	Sa' chéq bòqt èq, tabèchka mãñáxtöm míxk sa' bak ẽ' dör tã, ta, uh, i mâxwõ sãwóx ie.	Ábionpa chéqulur bòqtöm.	entailment
+bzd	Sa' kĩ skéxl kiànã se' ajkà shtó ie ẽnã swóqulâũk bua' bua' ése yawóqk.	Sa' kĩ swóqulâũk bua' bua' kiànã.	entailment
+bzd	Íyi tsîr i'es e' dör wèxs íyi mãnéxrmĩ tãîxë wèxs ye' tso' i yawök êskapë.	Ye' kèq wã éq i mâxòxnẽ yawè.	contradiction
+bzd	Eh, e' dör bua', i yèqnã yêqsyêqsë; irir ãñèx ie ye' dë'rö seminario ã tã e' dör e', e' dör satélite seminario, i bak bua'ë tã irir alákölpa èq ã.	Ye' dë'rö seminario ã wéx yö' satélite kĩ.	entailment
+bzd	Sa' zoológicos yòqnẽ biomas ujté e' wa, e' ẽ'òqke íyi wakdël wéx ã íyiwak séxrke ése.	Sa' zoológicos, sa' iklòqwẽ tö sèxnẽ artificial e' dör i bua'ie i wakdël e' yòqkĩ.	contradiction
+bzd	Teatro profesional dör i yö' e' ã i wéqrmĩ tö wèxs i ãmãnéxrmĩ alátsitsipa ã wèxs Becky, Stephanie, Marcus, Emily ẽnã i kalépa mãléxpa wóqulârke káx wâñẽ estado Indiana e' ã.	Sa' teatro ã i yóqrke e' dör alátsitsipa primaria kíxmẽ' wóqulâuxnk i tâũk.	neutral
+bzd	Tóq, wéx alê interés wakpa tso' bua' ie ése.	E' wakpa kĩ ujté kiànã tãîx ikũãki ikũãki.	contradiction
+bzd	I pánẽ tö be' shkòqke sa' tã wèxs i kíxmũk e' wóqsũk dawás 25 e' tkòqũk káxpake chè ie be' i kíxmèxke e' kĩ mũkka $25 dawás wa.	Be' ĩnáxbita dawás bakmĩ e' wa e' dör 33 dólares.	neutral
+bzd	Yóqruletke, be' ẽ' batsòqwãmĩ e'költe tso' ejecutivos distiguidos Fundación, e' wakpa tã, ĩnáxbita wóqkirpa, yóqrule, profesionales de desarrollo, ẽnã éqmẽ, kèq kũ éxn bikóqk ẽ' bulu'ũk...	I wakpa ã se' tso' importante ése.	entailment
+bzd	Íyi ì dör ãñìxes i wòqtkèmĩ sa' diché wa tã festival skà móxka dawás dâtse ièqt e' wa tã.	Kèq sa' pàkanẽ tãîx dawás îxñẽ wa, e' tã ì sùxmã tã kèq alë festival skà tkòqpa.	neutral
+bzd	Ye' káxwöta ẽ' yawóqkmĩ ye' wóqulârke e' wa.	Ye' káxwöta ẽ' wóqulâũk se' wòqtkërke icha wa e' ẽ'ũkwa.	neutral
+bzd	Ãñìxes, tã i wã i ujchẽnã tö i kalépa e' tso' tkèqnũkwã ẽnã i ujté múxkka juicio ã.	Be' kalépa ã ichèke tö juicio shkòqũ	entailment
+bzd	Irir 20% tö i kĩ i kiànã.	I kĩ interés kiànã 20% e'tsáxka?	neutral
+bzd	Tã, eh, be' múx ẽ' batséka tã be' ẽ' batsékãmĩ, bö i yawèmĩ wèxs ' guis ' tã be' wóqkir batsèemĩ e' dör.	Êtökicha èq i wamblërmĩ.	contradiction
+bzd	01 si' mayo e' yòqki, skáxwöta i wébalök tö wèxs sö i ujté membresía mãnèxwèxmĩ wéx dör iské ãmèxke 1991 e' ã.	I wóqkirpa wéx alê wakpa dör membresía mãnèxwèxmĩ.	entailment
+bzd	Ye' iklòqwẽ tö e' kũẽki ye' éxn ã e' àxnã ĩã.	E' alê kũéxkĩ irir tö ye' éxn ã íyi e' àxnãwã.	entailment
+bzd	Mmm, e' wa tã éq bêqr i mìxnẽyal ciudad ã, tã ie', kèq dë'nẽ iéql wébalök yéqska.	Yéqska kèq i wã i aéql sùxnêxnẽ e' ukòqki tã.	entailment
+bzd	Irir ujtè wéxse alê ichàki, yö ĩùxtë' tã ye' ã icherak irir: be' dalì shtóqka tã be' yú bét wéx wânãmã tã be' mìxnẽ shkóqk míxk be' déqka Washington e' tã.	Ye' ã icherak irir tö be' dalì klòqũ.	entailment
+bzd	Éqwë, wake', ye' dénẽ, ye' uyèqjkuö shtèke e' kĩ.	Ye' dénẽ tã ye' ẽ' tkéwa e's ye' wóqkir dör ye' ã iche tö e's i yawóq.	neutral
+bzd	Ye' tkër éq ẽ' dör i wébalök tö wèxs i shúxlirmĩ.	Uka' kéxwe ye' éxn ã ĩàxnã bua'.	contradiction
+bzd	Íyi ì dör ãñìxes i wòqtkèmĩ sa' diché wa tã festival skà móxka dawás dâtse ièqt e' wa tã.	Sa' wã diché tã' festival yawó ie dòqka dawás 10 éjkë ã, kèq tkînẽ tö wèxs ì tkòqmĩ.	contradiction
+bzd	McCoy dör fundación empresa e' kíxmũkke dòqka 10.000$ éjke wa.	McCoy tso' ẽ' kíxmuk kióqk kĩmèx wa dòqka 10000$.	entailment
+bzd	Ikũãki, se' ómĩ ie erë wa ikũãki séxjka ẽnã wòqĩóxknẽ tã dù ie, i', mãñáxtökicha i bulár e' yòqki, 22.000 millas dìwö wa tã.	Ĩúxn dìwö 20.000 millas e' tsáxka.	entailment
+bzd	Íyi bua' ése ièqnẽwã yóqrule bulé èqmẽ e' dör bua' ẽnã kĩmẽ operaciones de la sociedad e' batamĩ e' ã wéqstë dör wèxs organizaciones be' icha e's!	Organizaciones wèxs be icha e's e' éqltëpa dör se' kĩmèxke ióqkwã yawóqk fantásticos kéxkkrâ éjkë.	entailment
+bzd	Uh, uh, séxjka irir bua', èqkèqkë.	Se' ujtòqkeĩã.	contradiction
+bzd	I tãwèx, tã i wã bua' lasaña tã.	Lasaña chkòq e' dör chkè sulû ichóqk e' patsë' yö!	contradiction
+bzd	Ishté yö kéxwe wakpa ã íyi kakmèxnã e' ujté móx ie uyèqjkuö wé ã IUPUI University ẽnã i kió ie tö sa' skà kíxmũnẽ.	Yö ikièke tö i kakmũ 100$ uyèqjkuö wé University IUPUI e' ã.	neutral
+bzd	Escudo wòqa máxtk ẽ' tsáxtko e' ejército múx ujtòqka tã, tã ie' dör pàkemĩ tö wèxs i' kukùn sa' dör e'köl wéqn ã dibetes tso' e' kíxmẽ insulina kiànã i kĩ e' yulóqk.	Tsáxtke ejército dör káx wâñẽ skíxmèxke wéx kĩ ẽ' kíxmẽ ikiànã ése.	neutral
+bzd	Irir i kak méxrke Fondo Anual ése se' séxn e' wóqsũk Maennechor e' wakpa dör i sulûòxka escuela bua' ichóqk.	Sociedad Maennechor e' dör kíxmẽ klòqwèxke.	entailment
+bzd	Se' kíxmũkblapa wèxs se' socio filántropo e's e' èq wakpa kũéxkĩ tã e' míxk se'dör tãîx íyi wà sãwẽ.	Estados financieros mercado e' kũéxkĩ, sa' socio filántropo wakpa dör ie'pa ĩnũköl tsẽ'.	contradiction
+bzd	Irir 20% tö i kĩ i kiànã.	Interés e' dör 20% éjké èq?	entailment
+bzd	E' dör e' èq tö míxk ye' tso' ĩnúxköl kèq tã i' ichóqk tã kèq yö i pàtse.	Ye' wã 20$ e' èq tã i' tã dòqka míxk dìwö ye' tóxrke éjkë.	neutral
+bzd	I mãléxpa tso' ĩã sa' kãnèx ujtéchóqk tö bua' irir.	Sa' mĩn bua' mĩk irir skéxl klòqũk e' tã.	neutral
+bzd	Ie' dör uyèqjkuö tak páiklèke tã i ãméxtër irir tsáxñã kĩ, bö' batséka irir tã i ñâxwẽwa irir tsáxñã mũlùx ã, tã ukòqki tã i'es irir i shùx ikléka mũlùx ã.	Ie' dör kâbasãwẽ ie shtèmĩ uyèqjkuö tak kĩ ujòqki irir i ñâxwewamĩ.	neutral
+bzd	Erë, tã iétnẽ, sö kalòk katé érulè ë ẽnã bís bakali' ẽna kuèq i kũãki ikũãki.	Ye' wã chkòq mâxrule katánõ íyiwak ie ikũãki èq chkòq ie.	neutral
+bzd	Yawèq tsàxkkuö, e' dör ĩẽ'le è ajkáchèke, ẽnã olivo ulà e' kiànã yéqnõ bêqr, ãñìxes irir alfombra ajkòq shki bakêke acanto kòq tã bòqtkë.	Bêqr dalôqlôq, tkabèq e' wã alfombra ajkòqiëtkër séxjka.	contradiction
+bzd	Tóq, kéxkkrâ yö i yéq tö ye' dawówã, bua', kéxkkrâ yö i yéq tö ye' dawówã tã ye' dòqmĩnẽ wèxs chìchi e's tã e' dör sèxnẽ bua' ie áxtke.	Yö iklóqwẽ kibí ie tã se' dawòqke e' dòqkenẽ wèxs íyiwak wak dör êskapë.	neutral
+bzd	Tóq, be' wã ì sùxmã tabèchka ulà batak tër ét.	Sö ichö mã tã i wã i tsékicha tã' e'töm ë i ulà wa.	neutral
+bzd	Oh, tóq, tã ye' míxke ichóqk tö, i', úxrdâ, tã e', sö ichö, yö i klòqwẽ tö, i', e' dör e'költë wòqtkekamĩ wéx wakpa tso' i wébalök e' wakpa wèxs mã, e's.	Ye' dör i yawèmĩ e' dör l'll Fly Away.	entailment
+bzd	Wèxs e's irir, mmm..., ye' wòqtkënãwã.	e's sùx ichóqk irir tö ye' bak kalóqktër.	entailment
+bzd	Ye' i pánẽ tö i kĩ káx tká kíxmẽrule ẽnã dakítkërule ujtè sulû ie kĩ.	Ye' éxn ã ĩàxnã tö be' ẽ' múxtsãrâ i yulóqk wéx be' ulà dòq iska ẽ' dör ãñìxjpo dawè cáncer lactancia e' tã.	neutral
+bzd	Tecnología wéxjkë alê tã e' wake' kiárdâë, e' dör se' yawé shóqk wèxs bö'wö aló êskapë.	Tecnología e' kũẽki íyi ujtè kítke wóqsũk i talárke skòqke ë bét kèq súxrule se' wã yéqs e's.	neutral
+bzd	Míxk ye' bak ẽ', Texas wã i tã' e' dör cincuenta y cinco mil èq.	Ye' sèxnẽ Texas e' dör káxwö 80.	neutral
+bzd	Be' wã Thi Firm e' àxritsule.	Bö The Soft e' àxritsẽ?	contradiction
+bzd	Teatro Cívico de Indianápolis e' dör yì dör i tsèke e' wakpa wòq kièke íyi wèxs teatro musicales yòqnã profesionalmente dòqka dawás 82. E' ãmĩka e' kéxska, irir káx ulát yulu' wéx ẽ' tsèqũ e' wakpa ã bua' ie se' káx icha ã. erë i yèqnã tö irir shôë.	Teatro Civic de Indianápolis e' dör espectáculo ajkáyë e' kĩ dawás dékãtke 80.	entailment
+bzd	Eh, uh, tóq éwa tã be' wã ishtó ése tã' ẽ' dör tã bö iche tö be' wã ẽ' dör íyi alarma ése tso' e' wâ dör tö míxk àksi déwã e' tã irir be' teléfono e' kichà teulor.	Éltë i ajkáche tso' dör ichèke tö be' wã alarma tã'.	entailment
+bzd	I tso' ĩã wéxshkẽ i shùxã.	Ie' mìxnẽã kèq wã ẽ' i tòq ãmèxnẽãt.	contradiction
+bzd	Tóq, kéxkkrâ yö i yéq tö ye' dawówã, bua', kéxkkrâ yö i yéq tö ye' dawówã tã ye' dòqmĩnẽ wèxs chìchi e's tã e' dör sèxnẽ bua' ie áxtke.	Aû kèq yö ì klóqwẽ yéqs tö se' dawówã e' ukòqki sèxnẽ tã'nẽ.	contradiction
+bzd	Wéx mìxneshka grupo itinerante wa íyi ajkáchök 1973 e' tã i ajkáyèqnẽ e' dör wéx wóqulârke ése wakpa ã ciudad ã wèxs Gary, Elkhart ẽnã Terre Haute, ujtè se' pájto ie IRT icha káxwö íjkë tã.	Aû kèq i ajkáchökbla kũ Indiana dawás 70.	contradiction
+bzd	Oh, éqwë, wéxjkë alê tã ye' wã ordenador tã' ét ye' wak icha, sa' wã bòqt PC tã' ù ã erë bòqtkë kèq irir ye' icha yêqsyêqsë ãñìxes kèq klóqktër kãnèx icha ie.	Ye' ù ã ye' wã bòqt ordenador tã'.	entailment
+bzd	I' tã bua' i' dör e'költë wòqyawe àk sipa ã, se' kalépa bulâr èqmẽ tã se' kalépa e' wã chìchi tã áxrkewã ie e' ãñìxes dör se' wòqyawe e' tã ie'pa éxn ã ĩàxnã tö ĩáxrdâ.	Àksipa kèq wòqbatsö chìchi wa e' wâ dör tö irir ĩáxr èqmẽ ẽnã ishkóqr se' kuök.	neutral
+bzd	Éqwë, wake' se' ãndâ sĩàxrë kíxtërule kèq tsáxtkërta.	Se' tso' ì yawóqk e' dör ie'pa wòqcheka i bua'wèxwa.	entailment
+bzd	I wóqulârke e' tasas wòqsìnã i déka 12% 1992 92, e' wa tã i wòqsìnã wë' ĩàx èq.	Matrícula wòqsirke dawás wa.	neutral
+bzd	Ẽ' wóqulâũk ẽ' tsúxkat wéx éltëpa bak e' ské ie.	Wèxs ísie alê dör íyi yawè e' dikîxã sèxnũk.	neutral
+bzd	E' dör sulû ichóqk, eh.	Yö i tsë' tö aû kèq irir bua'.	neutral
+bzd	Ĩmìxneshka sulûë dòqka i diché káx íjkë tã irir se' kapéye bua' bua' ése káx e' kĩ, colegio se' kapéyo Indiana dör i káx tã ĩẽ' tsèqũ dakírkîë.	Indiana Estado e' wã étkue èq kapóqli wéx téxrka.	entailment
+bzd	Be' tso' ichóqk tö i wóqulâũknãmẽ ö i yéqpa...?	Be' tso' ichóqk tö i wóqulârke e' tso' i yawóqk ö i wóqulâknãmẽ e' kíxmũkbla?	contradiction
+bzd	Tã ummm..., irir mil bòqt kĩ quinientas dòqka e' dör se' èq míxk ye' démĩ tã mmm...	Ye' i klòqwẽ tö míxk ye' déqmĩ ie'pa tã se' tso'ĩã bóql mãñáxl se' wéxse alê e' súxrule se' wã.	neutral
+bzd	Tã i dòqmĩ bua' ie ãñìxes míxk i wà mâxnã e' ukòqki.	Míxk ĩẽ' mãùxke, e' tã i dòqmĩ tö i kíxtsër bua'.	entailment
+bzd	Yawèq tsàxkkuö, e' dör ĩẽ'le è ajkáchèke, ẽnã olivo ulà e' kiànã yéqnõ bêqr, ãñìxes irir alfombra ajkòq shki bakêke acanto kòq tã bòqtkë.	Yawèq tsàxkkuö, olivo ulà ẽnã encanto kòq e' tso' alfombra ajkòq shki mĩk.	entailment
+bzd	Tã sa' yéq dör kéxkkrâ sa' ã iche tö kèq skáxwöta ichóqk tö sö íyiwak.	Sa' yéq iche tö kèq i kiardak íyiwak.	entailment
+bzd	Wake' káx dör ujté tsãkkîxë, erë e'köl kíxte e' wake' ẽ' aléka se' kĩ.	Séxjka e' dör káx áie ã.	contradiction
+bzd	Bua', ì kũéxkĩ kèq be' dör i mâxwèxmĩ? E' wâ dör tö be' ã káxwö ãmèxnã kibí ie e' ët ã, kèq be' tkînã i kĩ e' tã.	Ì kũéxkĩ kèq be' mĩ kéxwe?	entailment
+bzd	E' dör sulû ichóqk, eh.	Aû kèq i kũ íyi sulû ie.	contradiction
+bzd	Aû kèq irir abogado èq ãñìxes oficiales policía ẽnã jueces ẽnã séxka wéx yóqrule jurídica tã séxjka.	Aû kèq ì tã sãwèx yì tã ièwã i ujté legal e' ã.	contradiction
+bzd	Be' ẽ' pàrwö wèxs biyòq tkòqke ĩẽ' dòqka káx íxẽ e' wa.	Aû kèq yö i ãmèxpaka tö biyòq yéqrke káx ĩẽ' e' dör ãñìxes se' káx tkòqke e' ã ichèke ĩñã.	contradiction
+bzd	Se' kalépa ujté wèxs Young Library Leaders ẽnã Love is Reading Together Week e' dör i ajkáchêke e' dör duládulapa ajkẽn tã ie'pa ã i ujtécheke tö uyèqjkuö dör bua' mĩk se' ĩàx duládula e' tã.	I ujté dör i shùxshã ajkẽn àxs e' wa tã alátsitsipa dòqyal ẽnã ĩnùxrak.	contradiction
+bzd	Wéx wakpa dë'rö ĩñã e' wã i ajkà míxke, wéx i séxrke ẽnã i teléfono shtâwõ, e's wèx i biyòq kéxwe tö ì kiànã ĩã escuela kĩ.	Wéx wakpa dë'rö ĩñã e' dör i biyòq klòqwèxmĩ ẽnã wèxs ie'pa kĩ káx tso' ése.	entailment
+bzd	Erë ie'pa dör íyi yö' élke ikũãki ie'patã.	Íyi yòqnã ie'pa tã e' dör béqrër tã ikũãki.	entailment
+bzd	Tóq, tãîx ye' wã íyi tso' béqrë béqrë ĩã e' sháxbös butsolônẽ ãñìx wóqsũk shàx.	Íyi wéxse alê butsolônẽ e' daló tãîxë.	neutral
+bzd	Wéx dâtske se' pàkök e' ã i wéqrmĩ tö kòxs íyi ajkáyërke mãnéxrke bua' Conservatorio de Hilbert, Kua'kua dör áie, Mago de Oz, mâxmâx Íyök ẽnã úxnẽ fantasía ie.	Se' pàkarke e' ã tsè i ajkáyërke e' wéqrmĩ Conservatorio Hilbert.	entailment
+bzd	E' tã kèq se' éxn ã ĩàxnẽ tö ì chök se' míxke.	Ye' éxn ã ĩàxnã tö kèq sa' wã ì bikeitse tö ì chèke sö.	contradiction
+bzd	Idòqmĩ bua'ë múx káxwö yétsã shkóqk escuela pàkök tã i wébalök ẽ' wa tö wèxs i kãnèx yö' se' dör dawás wa e' shkòq mìxr e's i ujté mũk se' ã e' mũkãt.	Be' káxwöta wânamã ta shkó ie escuela pàkök tã i sãũk tö wèxs sö stsè yawók se' bakdë kãnèxbalök e' mĩr.	neutral
+bzd	Aû, êtokicha èq i wamblèqnã bulâmẽ, tã ie' dör iche tö i dòqmĩnẽ oficina ã.	Ie' dör iche tö i dòqmĩnẽ oficina ã chkè wös.	neutral
+bzd	Be' wak dör i bikeitse dióqköl wa, kĩmũk organización èrpa ése tso' tã se' wa ujchẽn tö irir ciudad séxjka e' kĩmèxke.	Iklòqrak irir tö organización dör séxjka ciudad olôyerâwã.	contradiction
+bzd	e's i tka sa' tso'sẽn ye' nãùx ù ã di' wóqlöm ajkòqki e' tã ẽ' sa' ẽ' tsèxãt dòqka káx bòqt mãñáxt.	Kèq se' bakdë yéqs ù ése ã.	contradiction
+bzd	Ye' iklòqwẽ tö i kũãki irir.	Aû kèq yö iklòqwẽ tö e' yèqnã.	entailment
+bzd	Erë, e' wòqshàx tã, sa' ichàkìnã ì úxrke káx shùxã e' wébalök.	Sa' iklòqwẽ tö sa' kànã i wébalök e' dör ábion.	neutral
+bzd	Eh, e' dör bua', i yèqnã yêqsyêqsë; irir ãñèx ie ye' dë'rö seminario ã tã e' dör e', e' dör satélite seminario, i bak bua'ë tã irir alákölpa èq ã.	Tãîx pë' tso' seminario ã satélite kũéxkĩ.	neutral
+bzd	Eh, Wèxs be' iklóqwẽ tö yéqjkuöpa Colorado Springs e' dör i biyòq ãmèxke wà dör káx ĩẽ' icha?	Íxmã be' ichére tö wèxs uyèqjkuö dör biyòq ãmèxke e' dör ichèke e' dör káx wakpa icha?	entailment
+bzd	Ye' káxwöta ẽ' yawóqkmĩ ye' wóqulârke e' wa.	Ye' káxwöta ẽ' yawóqkmĩ.	entailment
+bzd	Teatro ã banẽt, IRT i ajkáchökblapa mĩke yêqsyêqs wéx i wé tẽr e' ã alátsitsipa tso' e' wóqulâũk ẽnã ẽ' wa ẽ' ajkáchök tö wèxs teatro dör káx wâñẽ tã.	I ajkáchökblapa IRT dör alátsitsipa kíxmèxke escuela ã.	entailment
+bzd	Bua' ye' tkòqmĩrak i ulát ã.	I míxyal ùsh ã.	contradiction
+bzd	E' wa tã ĩàxtã Augusta íyi e' ukòqki?	I ujchèxnẽ ye' wã tö irir Augusta e' ãméxãt irir bétka.	contradiction
+bzd	Irir ujtè wéxse alê ichàki, yö ĩùxtë' tã ye' ã icherak irir: be' dalì shtóqka tã be' yú bét wéx wânãmã tã be' mìxnẽ shkóqk míxk be' déqka Washington e' tã.	Ye' ã icherak irir tö be' ẽ' tsúxãt ù ã.	contradiction
+bzd	Tóq, kéxkkrâ yö i yéq tö ye' dawówã, bua', kéxkkrâ yö i yéq tö ye' dawówã tã ye' dòqmĩnẽ wèxs chìchi e's tã e' dör sèxnẽ bua' ie áxtke.	Tóq ye' dawówã, tã wake' yö i bikeitse tö e' ẽ' iòqkewãnẽ wèxs chìchi e's.	entailment
+bzd	Tóq i' i tso' káxjkẽ e' dör e' wa tã se' ujtòqke ãñìxta banet wër sulû ichóqk.	Wéx i wòqiëtso i' èqka e' tã míxk alê tã i tso' bua'.	neutral
+bzd	I pánẽ tö be' shkòqke sa' tã wèxs i kíxmũk e' wóqsũk dawás 25 e' tkòqũk káxpake chè ie be' i kíxmèxke e' kĩ mũkka $25 dawás wa.	Be' weike yö, tö dawás i' wa be' dör i kíxmũ wòqsköka 25$.	entailment
+bzd	Se' wã ét i tã' skíxmõ ie e' dör tö se' ulà dé iska e' dör, e' ët, shkè.	Aû kèq se' ulà dòqpa ì ska yéqs.	contradiction
+bzd	Be' dör sa' kĩmèxke e' wa sa' dör íyi ajkóqnèxke káx ã íyiwak dapâũk ẽnã kàlkö tã bua' ietke ãñìxes i tòqtke yulóqk bua' ie wéxse dör íyiwak ikũãki, e' wóqsũk i wà kiànã Sãwèx Iã sèxnẽ móx ie wèxs.	Káx wakpa wòqr íyiwak wòqblirkewã iéjkë rã África e' kĩ.	neutral
+bzd	Ye' wîxke kùxnẽ dawás 1910, ibak e'köl tàyëla wak tsîr.	Ye' wîxke kùxnẽ 1 si' julio dawás 1910.	neutral
+bzd	Eh, Wèxs be' iklóqwẽ tö yéqjkuöpa Colorado Springs e' dör i biyòq ãmèxke wà dör káx ĩẽ' icha?	Be' i klóqwe tö uyèqjkuö ĩẽ' aû kèq kĩ i ujté kiànẽ ì kiànã yéqnõ se' séxrke e' wakpa ã e' cha'kũ?	neutral
+bzd	Tóq i' i tso' káxjkẽ e' dör e' wa tã se' ujtòqke ãñìxta banet wër sulû ichóqk.	Aû kèq bua' ie ãñìx kùxrpa ujtó ie íxẽ.	entailment
+bzd	Tã, mmm..., míxk alê tã buáala irir ẽ' yóqktsã ensalada ñũkwa ét.	Wéxjkë alê tã ye' wòqbatsö ensalada kèx wa.	entailment
+bzd	Teatro Cívico de Indianápolis e' dör yì dör i tsèke e' wakpa wòq kièke íyi wèxs teatro musicales yòqnã profesionalmente dòqka dawás 82. E' ãmĩka e' kéxska, irir káx ulát yulu' wéx ẽ' tsèqũ e' wakpa ã bua' ie se' káx icha ã. erë i yèqnã tö irir shôë.	Indy Civic Theatre e' dör i yö' 120 espectáculos dawás 80 e' ulát ã.	neutral
+bzd	Batà wa kãnèx ãmèxnẽ e' yèqnẽ Virginia ã erë ie' ãñìx ajkátë' Gratin tã àxs ie' dör ù yawè e' oñôyö e' wâ dör tö ie' ulà dë' iska kéqsik wa ö e' sùx, wèxs be' wã i ujchẽn.	Kãnèx séxjka e' kĩ ulàitö kìtë kèq wòqtkënẽ.	contradiction
+bzd	Kétket sö i pàtãwèxke íyi éqse súxrule se' wã e' kũéxkĩ. Alátsitsi ajkóqnũk, erë kèq sö i pàtãwèxkũ tãîxë wèxs banet e's.	Alátsitsi ajkóqnẽ e' dör éqmẽ i wî ã tã.	contradiction
+bzd	Míxk ye' bak ẽ', Texas wã i tã' e' dör cincuenta y cinco mil èq.	Kéxwe kèq ye' bakdë Texas yéqs.	contradiction
+bzd	Ì alê ujté kũéxkĩ kèq ie' wã be' ã i yèqnẽ?	Ì kũéxkĩ ie' kèq ujtöpa be' tã i aláala ujté wâ?	neutral
+bzd	Ie' kèq bak.	Ie' ichàkinẽ kéxwe tã irir i kìnẽ e' wà tkòqõ.	contradiction
+bzd	Oh, mmm..., aû, erë ta i wã túxnẽ tso' káx ajkue Oaklawn e' kĩ heno icha.	Aû kèq túxnẽ tã káx ajkue Oaklawn e' kĩ.	contradiction
+bzd	CIA wakpa dör dióqköl éwa tã irir i tséxmĩ Naciones Unidas ã buléñakki tã.	CIA dör i bikeitse tö ONU kíxka idióqköl kiànã sãwèx i' bét.	neutral
+bzd	E' kũeki yö i ujtòq tsé shkóqkmĩ, e' wa tã ye' tso'ĩã ì yawóqk ye' tso' e' ẽ'ũkwa.	Ye' tso' ĩã ì yawèke yö îxñẽ e' yawóqk.	entailment
+bzd	Éwa tã, ẽ' ye' ichàki' irir tö ì kũéxkĩ ye' dë'rö.	Ye' ichàki' irir tö ì kũéxkĩ ye' dá datsi' wé ã.	neutral
+bzd	Mmm, e' wa tã éq bêqr i mìxnẽyal ciudad ã, tã ie', kèq dë'nẽ iéql wébalök yéqska.	Ie' mìxnẽã Texas tã kèq i déqnẽ yéqska i aël wébalök.	neutral
+bzd	Aû ye' ẽ' tĩãkwã mãñáxltë SS e' dör escuadrón mãñáxltë ẽ' Kíxmõ Bua' ichóqk.	Aû kèq ye' i pànãnũk ẽ' tĩóxwã ie Mãñãltë SS.	contradiction
+bzd	Wéx dâtske se' pàkök e' ã i wéqrmĩ tö kòxs íyi ajkáyërke mãnéxrke bua' Conservatorio de Hilbert, Kua'kua dör áie, Mago de Oz, mâxmâx Íyök ẽnã úxnẽ fantasía ie.	Se' pàkarke e' wakpa èq ã i wéqrmĩ e' dör Wets Side Story Conservatorio Hiibert.	contradiction
+bzd	E' kũẽki kèq ye' yèqnẽtsa Universidad ã, erë yéqska, yéqska kèq ye' wã uyèqjkuö àxritsẽ wéx káxwöta àxritse e' ët.	Universidad ẽ'òxwa yö matricula wa.	contradiction
+bzd	Tóq, se' wã i tso' ye' màxso, ẽnã ye', se' wã i tã' tèröl.	Ye' dûr e'köl, kèq ye' ulà batsule yéqs.	contradiction
+bzd	Ie' kèq bak.	Kèq ie' ã káxwö mèxnẽ shkóqkwa.	entailment
+bzd	Tã ye' tso' bua', tã e' èq irir!	Yö iche aû tã i kíx míxshka e'tökicha shkòqënẽ.	contradiction
+bzd	Wóqsũk kèq yè wòqã i wéqnẽ tö yö i kíxtsë tö ye' dör i yawèka.	Aû kèq ye' éxn ã ĩàxnẽ tö ì kũéxkĩ ie' dör i bikeitse tö ye' dör ĩèxwèxwamĩ.	entailment
+bzd	Dawás fiscal i' wa ẽnã ièqt, escuela de derecho e' káxwöta ujtè ióqkwã wèxs i wòqârke i klóqktër e' wa estatal ẽnã úrki wéx pàtãwẽ wòqsìnã, séxjka tã 400000$ e' tsáxka.	Abogados colegio káxwöta i balátkóqk i ské éjkë wòqârk e' wa.	entailment
+bzd	Be' ĩnáxbita e' dör bua'ë e' wa tã se' kĩ káxwö 85 e' dé wà tkóqwẽ.	Ĩnáxbita bìt wéx dòqke se' ulà ã kèq dör i bua' ie wèxs be' icha ie.	neutral
+bzd	Centro kãnèx diché bua' ie dör káx wakpa kĩ yêqsyêqs ì kìanã ése wa se' wéx tso' filatropía e' wóqkir ie e' pájtök i wîã.	Centro kíxka i kiànã yêqsyêqs tö káx wakpa kíxmèxke.	entailment
+bzd	Um, kèq ĩã ì tã sulû tö wèxs ẽ' yawè yéq ie tã íyi kòxs tso' i wã ud, ud, se' wèxs be' e's be' ie.	Bua' irir tö yéqpa dör i alárpa ujtéche dòqka míxk ĩéxn ã íyi yawè àxnã i wakpa èq.	neutral
+bzd	Tã e' dör be' tsë'wẽ sulûë.	Be' tsë'wẽ irir bua' ichóqk.	contradiction
+bzd	Wéx yèqrlùnẽ escuela de derecho I.U. Indianápolis e' wakpa mĩchô ujtè abogacía bua' ie ése wa ẽnã i páùtã bua' ichóqk i ujté wa.	Facultad de derecho I.U. e' dör abogados wakpa yawèke bulékal e' wakpa ã.	entailment
+bzd	Wéx irir bua' ie ye' tsë'wẽ e' dör tö IRT dör i wóqkir káx séxjka ã e' dör íyi ajkáchèke teatrales wéx wóqulârke e' wakpa ã.	IRT e' tso' teatro escuela secundaria wa i wóqulârke e' wakpa tã.	neutral
+bzd	Sö ichèmĩ tö e' dör ãñìx kíx ujtèmĩka e' wòqskèkamĩ, tã be' éxn ã ĩàxnã, tã se' chòqmĩ tã irir be' televisión baléwã tã i wà tawéxtsã irir e' wà dör tö kèq ĩã kãnèxblër ĩã, be' éxn ã ĩàxnã.	E' dör se' ãñìx tòqke e' wòqèmĩ.	contradiction
+bzd	Se' dénẽ eh, eh Grand Rapids wéx se' alà e'köl e' yèqnẽtsã.	Aû kèq se' wã e'köl alà tã'.	contradiction
+bzd	Íyi tsîr i'es e' dör wèxs íyi mãnéxrmĩ tãîxë wèxs ye' tso' i yawök êskapë.	Ye' tso' wânãmã ye' póster e' ẽ'ũkwa clase móx ie tã marcadores páxlĩ dör ye' kíxmẽ.	neutral
+bzd	Ikũãki, se' ómĩ ie erë wa ikũãki séxjka ẽnã wòqĩóxknẽ tã dù ie, i', mãñáxtökicha i bulár e' yòqki, 22.000 millas dìwö wa tã.	Jet úxrke 20.000 millas dìwö tã.	neutral
+bzd	Wéx alê tã sa' dör i yö' sa' wòqet wéx alê wakpa tã wèxs se' Ãmìxpa Dìwö wéx irir iklòqõ turno ie.	E' tã irir Yéqpa Dìwö tã Hellen wake' dör i ajkóqnẽ.	contradiction
+bzd	Aû kèq irir abogado èq ãñìxes oficiales policía ẽnã jueces ẽnã séxka wéx yóqrule jurídica tã séxjka.	Ujtè kibí ie dör i ujté judicial e' tso' iéqrulewã, kibí ie íyi i' ã e' dör policía.	neutral
+bzd	Tóq, yêqsyêqs, kèq ye' ujtóqk eh... wéxjkë be' wã i ujchẽn tö kèq ye' ã be' ã ajkóqnãnũk, erë be' wã i ujchẽn tö i bitùxke wéx yàmĩpa dör tãîx ése ã.	Wéx alê syàmĩpa tso'e' kèq ã wèxs i yàmĩpa ajkóqnãr, kibí ie tã i ù ã ẽ' ie'pa wã tãîx píska míxkeka.	neutral
+bzd	Sa' chéq bòqt èq, tabèchka mãñáxtöm míxk sa' bak ẽ' dör tã, ta, uh, i mâxwõ sãwóx ie.	Ábionpa chéqulur bòqtöm káx oló kũéxkĩ.	neutral
+bzd	Tóq, se' wã i tso' ye' màxso, ẽnã ye', se' wã i tã' tèröl.	Ye' wéqm ẽnã ye' sa' wã alà tã' tèröl séxjka.	neutral
+bzd	e's ye' wòqbatsö káx wa darêqrêq erë tã kèq ye' éxn ã iklòqwãk tö irir aísh aísh.	Kèq ye' wòqbatsö átu wòqbla dalôlô ése wa.	contradiction
+bzd	I' wa tã e' ã iéqrwãmĩ wéx kèq kũ' ĩã ése i wóqulârke ése bua'ũk wéx wóqulârke ẽnã wéx dör se' wóqulâwèxke ése ã ie'pa ichàkök se' pàkök ẽnã wéx wóqulârke dawè tso' campus ése mĩk ie'pa tso' káx ã e' tã.	Campus i pàkarke e' dör i wóqulârke ajkáchèke tö wèxs sèxnẽ dör Universitaria.	neutral
+bzd	Tã ie'pa éxn ã ĩàxnã béqrë béqrë tö ì dòqkewã, tã be' éxn ã ĩàxnã i sãũk bua' ie tö ì tãwèxke kèq tkòqka aíshẽt.	Ie'pa éxn ã ĩàxnã tö ĩẽ'lökerak e' dör 2903$ si' wa.	neutral
+bzd	Tã, uh e' wa tã be' ẽ' tsèqũ i wa.	Irir ẽ' yawẽ sulû ichóqk!	contradiction
+bzd	Teatro ã banẽt, IRT i ajkáchökblapa mĩke yêqsyêqs wéx i wé tẽr e' ã alátsitsipa tso' e' wóqulâũk ẽnã ẽ' wa ẽ' ajkáchök tö wèxs teatro dör káx wâñẽ tã.	I ajkáchökblapa dör alátsitsipa kíxmèxke i yóqrke ése yawóqk.	neutral
+bzd	Bua' irir tö se' wã be' ujté ujchẽrmĩ i batà i' wa ẽ' diché wa káxwö batà ã.	I' dör íyi kakmẽrke wòqshkít e' batà wéx tso' se' wã káxwö i' batà ã, e' wa tã sa' kĩ kíxmẽ kiànã!	entailment
+bzd	00 ièqnãwã capacitación ujté pàko ie e'köl se' ã kãnèxblo ie wéx kíxmerke ĩẽ' e' dör i balèke $3.	Cinco por ciento se' wakpa bikí ie wéx kĩ dawás babòp bòqt kĩ skéxl se' káx ã tã e' wakpa kíxmerke ĩẽ'.	neutral
+bzd	Ãñìxes, tã i wã i ujchẽnã tö i kalépa e' tso' tkèqnũkwã ẽnã i ujté múxkka juicio ã.	Be' kalépa tso'sẽn èxë, juicio óqkchö.	neutral
+bzd	Wake' káx dör ujté tsãkkîxë, erë e'köl kíxte e' wake' ẽ' aléka se' kĩ.	Káx kibí ie e' wàiedule ù tãwèx tôtô ése èq wa séxjka.	neutral
+bzd	Aû kèq irir abogado èq ãñìxes oficiales policía ẽnã jueces ẽnã séxka wéx yóqrule jurídica tã séxjka.	I ulà wa i ulà wa i ajkà téqrke i ujté judicial ã.	entailment
+bzd	P.S.: I kák ãmèxnã éxn bua' wa IMA wã e' dör maravilloso navidad íyi kámèxnã.	I kák ãmèxnã ét i daló kũéxkĩ yì alê dör e' kèq klòqwèxwã tã éq àxnãs íyi íse e' skéxl ie.	contradiction
+bzd	Tóq tã wèxs sö i balèmĩ ì alê tso' ĩã wèxs uy e' dör dawéswö ie' ã tcînẽwa.	Sa' dör ie' ã ie' dawéswö tkóqwẽ.	entailment
+bzd	Ì alê ujté kũéxkĩ kèq ie' wã be' ã i yèqnẽ?	Ye' éxn ã ĩãnã tö kèq ì tã e' kũéxkĩ ie' kèq wã be' ã i yèqnẽ.	contradiction
+bzd	Be' ĩnáxbita e' dör bua'ë e' wa tã se' kĩ káxwö 85 e' dé wà tkóqwẽ.	Aû kèq sa' tkînẽ be' ĩnáxbita kĩ dáã ie.	contradiction
+bzd	Tóq i' i tso' káxjkẽ e' dör e' wa tã se' ujtòqke ãñìxta banet wër sulû ichóqk.	Sa' wã i wòqiërke e' tso' bua' ie káx i' èqka.	contradiction
+bzd	Be' ĩnáxbita e' dör bua'ë e' wa tã se' kĩ káxwö 85 e' dé wà tkóqwẽ.	Íyi i' yawóqk se' tso' e' kĩ dawás détke 80 tsáxka.	entailment
+bzd	Tã, i tsóq, tö mòxki kèq yàmĩpa pàkök yì dë'nẽ e' wâ dör tö ie'pa wã i ujchèxnã tö ie'pa wak dör sarûrû.	Bulé èq ie'pa shkôqar ãñìx pàkök.	contradiction
+bzd	Be' dör Goodwill kíxmẽ êköte yawóqk àxs e' wa tã syàmĩpa dör kãnèx kũẽ wéx dör sĩàx ichóqk Indiana e' wakpa kíxmẽ kãnèx kũk bua' ichóqk.	Indiana káx shùxki kèq wã yéqs kãnèx ujté e' mãòxrule.	contradiction
+bzd	Ye' sawânã i klòqũk tö i ajkà dör Anderson, e' dör wéqm wéx túxnẽ tique ét e' ã independiente wa Reagan tã,	Anderson ãñìx mâõ Reagan tã wèxs independiente e's.	entailment
+bzd	E' wâ dör tö i pájto ie i kĩmèxke e' kĩ, e' wa tã aû be' weike yö tö kèq i bikeitsar i chàkök Kathy ẽnã Dannels, Directora de Desarrollo, 924-6770 ext.	Be' wéike yö, Kathy Dannels e' ichàkóq be' éxn ã ie' tã be' íyi ãmèxke e' shũlâk e' kũéxkĩ.	entailment
+bzd	Sö ichèmĩ tö e' dör ãñìx kíx ujtèmĩka e' wòqskèkamĩ, tã be' éxn ã ĩàxnã, tã se' chòqmĩ tã irir be' televisión baléwã tã i wà tawéxtsã irir e' wà dör tö kèq ĩã kãnèxblër ĩã, be' éxn ã ĩàxnã.	Se' kãnèxblòqmĩ míxk i tã' e' tã.	neutral
+bzd	Tã, uf, i mìxneyal káx shùx kĩ tã uf, tã uf tã, tã e's i mĩr e's irir Augusta, káx shùx kĩ ñãlàx bêqrie kĩ kie Broad Street, tã móxki irir ñãlàx étkèq shô éttak i shùxshàx.	I mìxneyal ñãlàx wéx ajkẽn chkòq wé ẽnã balo' wé tso' tãîx e' èqka.	neutral

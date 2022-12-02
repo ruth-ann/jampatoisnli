@@ -1,0 +1,112 @@
+language	premise	hypothesis	label
+shp	Ja riki neskara, ikaxbi nenora min ointi jake, neno oinwe, janra ea yoyai kimisha keska jaweki ointi yoikin ja computadoranko.	Janra ike onanyama jawenoshaman ointi.	contradiction
+shp	Enra jawe atipanyame nato pastelboan.	¡Jawetianbira ea jaskakinshama pastelbo ati shinanbenotima iki!	contradiction
+shp	Chichobira ike.	Non shinanara ike moa kaa, ikaxbira baneke.	neutral
+shp	uhh-huh oh jara kikin jakon iki min onanke ja westiora personaje jara wetsabiresbetan yakatai jara wetsabiresbetan tsiniai	Jara wetsabiresbetan yakakashamai.	contradiction
+shp	Jara ike ..., jara ibake kikin jakoma nete.	Kikin tantiti nete shamanra ike.	contradiction
+shp	Jaskara kopira en masa shinanai.	Jakoira kikin rasoshaman iki.	contradiction
+shp	eh-eh kikin osanti riki en suponenabiri riki nokon keen ja neskara espectaculobo akanai kikin osantibo ikentian	Nokon kema riki ja osanti espectáculobo.	contradiction
+shp	Jawen yoxan wenita iki, cobertizoainoax tapitinin paketi joa iki, bai ponte kaibi japekao chiteta iki jain.	Yoxanra nia iki 100 pies jawen xobonkoniax.	neutral
+shp	era nokon kenshamanbo pari ayamai ramabi korikiomapari ixon	Ramamabi ea icha koirikioma riki.	entailment
+shp	Jaskaribira min atipanke non oferta menbresia 2 baritia senen ikai kaman 30 $ kopi ati, 60 % kaman min ahorranai 2 baritiakaman.	$ 800 riki ja kopi rabe baritiakaman jain wishakata iti	contradiction
+shp	Irake maton nato Museo de Arte de Indianapolis 1999 akina kopii.	Nora kikin raro iitai museo min akinai kopi.	entailment
+shp	oh, jakon riki, en jisabirira ea westiora computadoraya iki , xobonkora rabe PC jake ikaxbi ni westiorabe nokona shaman iki, itan ribi westiorabi teetinkonia iki itan	Eara nin westiora dispositivo electrikobi jayaoma iki.	contradiction
+shp	Min inversioninra akai museo kikin jakon imakin itan amai mesko jakon jawekibo.	Nato inversionbora jaweayamai nato Museo.	contradiction
+shp	Ja riki neskara, ikaxbi nenora min ointi jake, neno oinwe, janra ea yoyai kimisha keska jaweki ointi yoikin ja computadoranko.	Jain benatira jan ea yoike.	entailment
+shp	Min ea tantashakamabi, ¿jawekopiki min ea xeamayamai westiora vaso chocolate itan leche meskoya?	Enra leche xeati atipanyamake.	contradiction
+shp	Eara kenai min westiora jaweki ea axonti.	Westiora jawekira moa aka ea kenai.	entailment
+shp	Jen jen, xobo jain jatiya ika riki kikin jakon jaweki jaweskakin ixon yoiti atipanyamake.	Eara impotanyamke eaki xobo jain jatiya iki ixon.	contradiction
+shp	Itan, uf, jema napon shaman bokana riki itan uf, jaira ike westiora uf, itan jasrabi iki Augustanko, ja bai ikatiai jema naponbi Broad Street janeya ikatiai, itan ikon iki jabicho ja bai anicha nato jatibi jemankonia.	Jema napon shaman ronki bokanke ja bai principalyain.	entailment
+shp	Nato laurel maiti, ja ronki yoikanai victoria, jatian olivonin xama yoikanai jakon jati, ikaxbi akai metsa akin nato alfonbra senenai acanto pei betan .	Ja alfonbrara beige iki.	neutral
+shp	jen jen, nona riki nato bochikira jake non mesko jemameax joaibo akinai ikaxbi kikin jakomabo iki	Nenoa conexionbora wetsatian jakon iki.	neutral
+shp	Mia en asesoranon jawesxonki min akintiki ixon, Kathy Dannels kenati onsatanyamawe, jara Directora de Desarrollo iki, neno 924-6770 ext.	Kathy Dannelsninra kikin ishton non kenana respondenai.	neutral
+shp	Kikin jakonra iki bokanti atipanke non jato meskobo axeaka pekao.	Kikin ishtonbires wetsakeskatai entrenani	neutral
+shp	... naikoin joxoshamanbo joyota jatibi nai yankonshamain.	Naira onantishama itan yankon iki, naikoinra yamake.	contradiction
+shp	Teatronkoma ikaxra, IRT ainoa artistabo bokanai pontebi bakebobetan teeti jaskaxon jatonbishaman jato axeaki nato teatro ati jaweki.	Nato IRT ainoa artistaboanra bakebiobetan jawe ayamai itan, ja atitianbira, ikanai non jemamea yosibobetan biri.	contradiction
+shp	Facultad de derechonin mienbro ixonra __, min onanke non progresobo.	Nato leyes axekanai xobonra jonibo jen aka ibake.	entailment
+shp	Jara ike ..., jara ibake kikin jakoma nete.	Ja netera ea kikini rateibake.	entailment
+shp	eh, uh, jen jen, jaskara ikax mia sistema de alarma ikaya letreroya iki jain yometsonin jikixon min linea xatenana	Westiora señalra jake alarmaya riki mia ixon yoyai.	entailment
+shp	Jen jen, eariki westiora cooperativa de créditoya	Enra benai jatibitian nokon cooperativa de crédito.	neutral
+shp	jakon riki, ¿ jawe kopiki min peoyamai? Kikin basira mia ja shinantiya ike,mia importana ikax	¿Jawe kopiki miapari kayamai?	entailment
+shp	ja chini contrato Virginia menikanara demandaya iki Gratin aka xobo akin jeneti kopi kopiaxon iamax oanaxon neskabires yoikana kopi jain teeti, min onanke	Ja contratoboanra kikin icha banderabo isanke abogadobobatan.	neutral
+shp	rabe chonka por ciento de interés riki	¿Interéski iti atipana 20 winoacha?	neutral
+shp	abogadobochoma oairoroboan ribi itan juecesboan ribi itan jatibi neskara jaweki kikin akin onaboan ribi	Jatibi sistema legalainoa riki implicado.	entailment
+shp	Ikaxbi nikayama iki.	Janra kikin akin onanaike jawe yoirin ixon.	contradiction
+shp	Jatibi neno instituto menikanaira keskaribira, ja 100 % min noa meniara investigación akinkores kai.	Tarifas administrativasainra kai nato koriki kaxke min menia .	contradiction
+shp	Entrada marokinra non 58% koriki non recuperanke, 32 % resra non jeneke miakeska amigoboan noa meniainko non recuperanti kopi.	Jatibicha korikira pikotai nato non entrada maroainkonia.	entailment
+shp	Eh, natora jakon iki, ikonra ike, osantires, westiora seminario jaskarainra ea kaa iki, jara ika iki seminario de satelitebo, kikin jakonra ika iki itan jara ika iki ainboboanares	Kikin joni ichara ike ja seminario sateliteki yoyo ikanai ninkati.	neutral
+shp	Jen jen, ikaxbi en shinana riki non atipanyamai kai nenoa estacion bora non biti atipanyamake itan jainkaya riki ja noticia noa kenaibo.	Noara kenyamai non keen riki noticia neno winotaibo itanribi nenoa estacionbo jayama riki.	entailment
+shp	Wow, teatrokonra en benabirati iki itan japekao pikin bokin jaskatax noa yakabekonti kopi yoyo iki	Ja pelicula Oscar bitinko akana oinax pekaora noa china jawekiati pii kati atipanke.	neutral
+shp	Jen jen, enra jakon akin ayamai, ¿jaweki winoyantana diciembrenin jatian maton gananyamanontian? ¿iamax jaweti punto kopi? ¿iamax jaweti ichama pacha votobo kopi?	Gananyamarake voto ichairama kopima.	entailment
+shp	Jaskara riki, jaixonra ea yokakanke jawe kopiki ea jain kaa ixon.	Eara yokakanke jawe kopiki ea xobonko baneta ixon.	contradiction
+shp	Derecho axeti xobonkonia I. U. Indianápolisain keyoabora pikokanai kikin abogaciain itan kikin ani joi jan chipotibo onanbo.	Kikin moa basi riki nato Facultad de Derecho de IU xepokani.	contradiction
+shp	Eh, natora jakon iki, ikonra ike, osantires, westiora seminario jaskarainra ea kaa iki, jara ika iki seminario de satelitebo, kikin jakonra ika iki itan jara ika iki ainboboanares	Kikin nokon kenmara ike ja seminario satélitenko akana.	contradiction
+shp	Jatiribiboanara, nato filantropía ani korikiayaboan akanares iki.	Jatiribi joniboanra shinanai donanti korikiya joniboanres ati.	entailment
+shp	kikin kopi, kikin icha korikira min biti atipanke neskara jawekinin, especialmente jakon jawekibaon	Jaakopira mia icha kopiakanti atipankanke.	entailment
+shp	Beckyna, Stephanie, Marcus itan Emilynra ja kikin jatibi iki, itan jatibi axeaibo jatobo keska kana.	Becky riki 8° itinko axeai xontako.	neutral
+shp	Moa jain ikaboanra descuentobo bikanai mesko jawekienbo itan Societyen publicacioenbo itan ribi catálogonkobo itan nato regalo marokanai xobonkoriki ja mercado históriconkonia, nato metsa Society sede napomea ikainko.	Moa jain ikaboanara descuento yamake jaskara ixonra icha koriki non potarestiki.	contradiction
+shp	westiora jabon keska riki, novela yame ikai keska	Westiora telenovela keska riki.	entailment
+shp	Jatiribiboanara, nato filantropía ani korikiayaboan akanares iki.	Jatiribi joniboanra shinanai jato bebonbires yawebioma jato koriki meni iti jisama, jakopira non jato kenabi caso ayamakanai.	neutral
+shp	era nokon kenshamanbo pari ayamai ramabi korikiomapari ixon	Ramamabi ea kikin icha korikiya iki, jakopira ea marokin bii kakasai.	contradiction
+shp	Jaskara ikaxra icha jakoma jaweki winotaibo bebonbires kaiti atipanke, min onanke, jonibo jikixon non televisor noa bonankanti atipanke itan marokanti atipanke moa teeti atipanyamaxon, min onake	Janra mesko jakoma jawekibo kaimatima atipanke.	contradiction
+shp	Ramara min noa benbonbires onobo koshiamai nato Estados Unidosnin herencia filantropica mesko ochoko jato nato progrmabo jato axeatibo, nato lidezasgo ati itan oanobo Centroki yoyo itibo jato onamaxon.	Wetsankobo jato oanamtibora noa kenyamai.	contradiction
+shp	Jawetianbira en oinyama iki, itan en onanyamake jawe kopi, jaweska ikax jan akai jawekibo onanreskasi itan wetsa jawekibires onankasi.	Enra oinyamake.	entailment
+shp	(dba), westiora organización jato akinai, kenax iti itan korikiakasaima, janra meniai nonbi yanka teetibo, información empresarial itan mesko empresario yorakomabo jato akinai itan asesoria empresarial itan laboral ja mesko profesionalbo ramakai teeribi ikanaibo.	20 voluntariosra jake nete tibi.	neutral
+shp	Wow, teatrokonra en benabirati iki itan japekao pikin bokin jaskatax noa yakabekonti kopi yoyo iki	Espectaculo pekaora noa pii kati atipanke.	entailment
+shp	Nato xobo atira winoa bires iki non compradorboan jati kopiati senen, jakopira noa manatai nato subvencionboki itan mesko joniboan noa akinkanti jaskaxon non bikanti kopi.	Nato hogarbora maxkata ike mesko jawekibo jaskatax tsinkikanti kopi.	entailment
+shp	Jakon riki, enbira kikin jakon akin suponenaiwetin jakopi en onanyama, enra jatibi nokon sentimientobo tsekama iki droga akairin ixon onantien uf eara kikin hetersexual iki jaskara kopira en shinanyamai neskara drogabo ati	Ea nato droga akarin ixon tanakanara, en shinanara ea jakon pikotai.	neutral
+shp	Maton baritia tibi akinaitonra nato Sociedad Maennerchornin kikin akin akinke jain axeti xobo.	Westiora waranka dolaresra Sociedad Maennerchornin biyantanke donacionbo akana wetsa baritria winoyantanin.	neutral
+shp	itan, mmm..., wetsatianra jakon iki pikoxon ensalada piti	Nokon ken riki wetsatian ensalada piti.	entailment
+shp	Jaskatax yakake, itan, min onana, ireskanai yoyo iki, ja joni oinreskanai, ja jonira ika iki chankachankati, kikin ishto.	Jara yoyo iki jeneyamake	entailment
+shp	Nato non jemamea actor ikasaibo westiora admosfera profesional meniti jaskaaxon jaton onanshinanbo itan habilidadesbo ponteakanti kopi.	Nato jemamea teatronboanra akinyamai nato actorbo bebonbires axeti.	contradiction
+shp	Ja riki Greciainoa itan ja riki westiora jema bakeshoko Tokalleka akanainkonia, jara Americanko joa iki, 1969 iamax 1970 keska riki itan wanoa iki ishtonbires.	Ja riki Irlandainoa.	contradiction
+shp	Jaskatax yakake, itan, min onana, ireskanai yoyo iki, ja joni oinreskanai, ja jonira ika iki chankachankati, kikin ishto.	Jara neteshokores iitai jainxonra jain teetai escritorionko.	contradiction
+shp	oh, mmm..., ikama, ikaxbi Oaklawnra jawen baiain carrera de henoya iki	Jarake carrera de heno Oaklawn baiain.	entailment
+shp	Itan, chon, joxo ikaskironki jawen rarebo moa benayamakanai.	Netetibi jato benakin jemayamakanai.	contradiction
+shp	Jawen yoxan wenita iki, cobertizoainoax tapitinin paketi joa iki, bai ponte kaibi japekao chiteta iki jain.	Ja xobonkoniax yoxan ochata iki.	entailment
+shp	Enra samati jake ishtoi peokonoxon.	Enra moa samakin peokoti jake.	entailment
+shp	ikaxbi ikama, nonra wetsatian, minra onanke, falda itan falda itan blusa iamax traje iamax vestido jariki neno min oinai jakopira jakon iki xobonko teeti karazonyares ea kati kopi	Enra chompares saweai nokon xobomeax teekin.	neutral
+shp	ikaxbi, wetsaori akin shinana riki, non kikin icha mapachebo pia itan zarigüeyabo itan mananxaobo mesko keskabo	Enra taana iki mesko keska jawekiati yoinabo akana.	neutral
+shp	Jainra ea ike jato akinti shinanax.	Jawenoki koriki kaa ixon shinani riki.	neutral
+shp	Jaskataxra, mmm..., ea nexata baneta iki.	Jaskarashamanra ike ea jesteta.	entailment
+shp	Eara jikikashamai nato Tercera SS jariki ja Tercer Escuadrón de Apoyo Estratégico.	Eara manakashamai nato Third SS kon jikinoxon.	contradiction
+shp	Jaweska ixon janra jatibi jato yoiya ike ikaxbi jatian en ninkayama ike.	Wetsa betaan yoyo ikara ea ibirake jatian.	neutral
+shp	Jara ikatiai jain Rudolph Anderson akana, westiora formulacionyain kimisha U2 ika.	Rudolph Andersonra ika kimisha U2 itinko.	entailment
+shp	Itan, uf, jema napon shaman bokana riki itan uf, jaira ike westiora uf, itan jasrabi iki Augustanko, ja bai ikatiai jema naponbi Broad Street janeya ikatiai, itan ikon iki jabicho ja bai anicha nato jatibi jemankonia.	Ja bai kikin piti marokanainko itan xeakanainkoronki bokanke.	neutral
+shp	ea disculpanwe wetsa onanabiresra non kopiakai.Bakeya ixon kopiati, ikaxbira ichairama non kopiakai basenko ikamabaon akai keskama.	Basenkoniaxra bake koiranti kopima iki.	contradiction
+shp	Jakopira en shinanresai.	Jakopikeskara en jawen jane shinanke.	neutral
+shp	Urban Vietnamyain kakentianra, basima ika iki noa biananana. JoAnn jaskata iki.	JoAnn itan Urbaninra ramabi 50 baritia biananani senen ake, ja Vietnamyain kakentian.	contradiction
+shp	Gatillo yamaxra ja toaiyamai.	Yamaraka gatillo jan tooimati.	contradiction
+shp	Enra moa yoike, enra yoike sinaresiriki mesko jaweki onankasaibo merayamax.	Enra yoike mesko jawekibora ea onankasai jaskaxon en shinanti kopi jawe akai ixon.	neutral
+shp	Jaskara ikax, nato jonibatanra mia xobon kai akara ike, ja neskati: ¿Xobon jabe ea kati?	Yoirakanke jawenobi kati atipanyamapari	contradiction
+shp	Mesko jiwi itan yoinabo zoológikoainoa koirankanti, pimati itan jain jati menikanaira kopiakai.	Zoológikoainoa yoinabora naton kikini beneficiamekanai.	entailment
+shp	Jara neskata iki: tita, xobonkoriki ea.	Jawebi yoyoiamaiki.	contradiction
+shp	Enra jawe atipanyame nato pastelboan.	Enra pastelbo usanti atipanyamake.	entailment
+shp	Jara ike ..., jara ibake kikin jakoma nete.	Kikin jakomara ibake niwe koshi non jeman nokota.	neutral
+shp	McCoynra noa kenai itai Fundacionin empresa 10 000 $ warankanin akinti.	McCoynra 250 000 $ yokati iki .	contradiction
+shp	Jen jen, jen jen, jen jen, minra onake, eara importanyamake matoki westiora corporación akinkanaya iki ixon.	Nato corporacion akinkana ikentianra, ea sinatima iki.	entailment
+shp	Jaskara ikaxbi, wenita iki, noa ika iki eh, mmm, enra shinanyamai jawe nomeroki ika iki ixon.	Enra onanke jawetishamanrin jatibi jaweki ixon	contradiction
+shp	Ea mesko keska onankasai jawekibora yamake.	Naton mesko onan shinanra ea tsinkiti maxkabireske.	entailment
+shp	Notora ikatiai jain mesko yoyoikaibo ikana, ikaxbi nawabo korikiachabo ikana ribi.	Jatibira ikatiai kikin ani jemabo keska.	contradiction
+shp	Jatian peokoni itan noa iitai kamanbi kikin jakon centro medico ike jatibi non paronkonia winoa, nato jabichosoko iki Indianainoa raomisti axeti xobo jakopira jato oimani orgulloso jaton patrimonio.	Nato Indiana estadora westiora medcina axeti xoboyares iki.	entailment
+shp	Jen jen, kikin shinaira ike	Jen jen, kikin jakon irara ike.	entailment
+shp	oh, jakon riki, en jisabirira ea westiora computadoraya iki , xobonkora rabe PC jake ikaxbi ni westiorabe nokona shaman iki, itan ribi westiorabi teetinkonia iki itan	Nokon xobonkora jake westiora computadora Apple itan westiora HP.	neutral
+shp	Jakon, ikaxbira, ea joribake nokonain, nokon mesa jain teetainko.	Nokon yakatienbirira ea joribake.	entailment
+shp	Natokopibora wetsabaritian noa aribakasi iitaibo noa masa anake.	Jaweska ikaxra wetsa baritia festival ayamakani bokanai.	entailment
+shp	Itan jaskaxon merakanke nato xobo iamax mesko cuartoshokobo jaskaribi wetsa jawekibires, jain jakanti kopi, jatian jara ike Broad Street senenainshoko.	Jatora jakatitai Main streetain westiora karpanko.	contradiction
+shp	westiora jakon jawekiriki noa menikanai riki, nato iki, ochobo kati.	Nenora noa rankanai ochobo.	entailment
+shp	Mesko jonibo itan bakeranon axeaibo kikin onanbo jato non paronko ikentian non campusain kenamara iti atipanke mesko oportunidadbo jaskatax axeamisbo itan axeiaiboan mesko onan shinanbo biti.	Bakeboanara kikin jakon itiki campus oini bokana.	entailment
+shp	oh, jen jen, eara yoi ike, nato, noyarai, wetsa jawekibires, en shinana ikewetin, nato, jati ribi jonibo oini ikanaibo jato yatanti, osea	I'll Fly Away riki kikin nokon keen película jara en sematibi oinai.	neutral
+shp	Itan, eh, keyapain itan keyati jeneyamapain, jara itiki «güis» iki mapo tetseketai keska.	Kikini corriente riii ikara, onsa itiki ja ochoma shoko ikanaiboana.	neutral
+shp	Teatro Cívico Indianápolisain ikatonra jonibo ja oini bokanabo akatiai obras de teatrobo itan musicabo kikin onanboan aka akin 82 baritia kaman. Jaskaribi aka iki, ja kemanko xaba menikin ja mesko talentoyabo, ikaxbi ikon iki kikin amplioma ika.	Nato Teatro Indy Civicra 2 baritiares ike kepen.	contradiction
+shp	Non zoo riki bioma oixon jariki akin akana, naton akai yoinabo manish meran ikatikanai keska akin.	Non zoologokonkora, non yoyai nato jain yoinabo jati axonkanabora bebonbires winoa iki nato naturalbibo.	contradiction
+shp	Teatro Cívico Indianápolisain ikatonra jonibo ja oini bokanabo akatiai obras de teatrobo itan musicabo kikin onanboan aka akin 82 baritia kaman. Jaskaribi aka iki, ja kemanko xaba menikin ja mesko talentoyabo, ikaxbi ikon iki kikin amplioma ika.	Ja teatro Civic Indianapolisninra ake 80 baritia winoa espectáculobo akin.	entailment
+shp	Rama basimara, westiora IRT ainoa ebe raenanaiton kenai jaskaxon westiora promesa teléfononkoxon ati kopi.	Teléfononra en koriki meniti atipanke.	entailment
+shp	Jaskara ikaxbi, rama netera ea 6:30 xobon nokoke jara ike nokon nete.	Masashinanira ea ibaitai westiora jaweki onanyamax.	neutral
+shp	¡Nato jakonira conexionbo nete tibi akanaibora jake operaciones Sociedakan akina kopi mediante min organizacionkeskabo kopi!	Min organización yamketianra, neskara jakoinra conexionbo jawetianbi iamakenake.	neutral
+shp	Itan, uf, jema napon shaman bokana riki itan uf, jaira ike westiora uf, itan jasrabi iki Augustanko, ja bai ikatiai jema naponbi Broad Street janeya ikatiai, itan ikon iki jabicho ja bai anicha nato jatibi jemankonia.	Augustainoax ronki Atlantanko bokanke.	contradiction
+shp	Jen jen, enra jakon akin ayamai, ¿jaweki winoyantana diciembrenin jatian maton gananyamanontian? ¿iamax jaweti punto kopi? ¿iamax jaweti ichama pacha votobo kopi?	Winorake westiora margen de 99 %.	contradiction
+shp	¡Kikin jakonra itiki mia jaweti tiemposhoko akax mia axeti xobonko ka jaskaxon minbishaman min ointi kopi mesko jawekibo non aaberana nato baritiabo itan nobe mia raroti kopi jashoko jenetiya ikax!	Axeti xobonko kayamawe, korikires bemawe.	contradiction
+shp	Jaskaxon en Romana kenaribia iki westiora jaweki yokanoxon… jakon riki … ea keyomawe …westiora jaweki ja aki iitai yokakasira ea ike.	Jawetianbira en yokati atipanyamake ja jaweki.	neutral
+shp	-janbira akai shinantanan itan mekemanbi kexeai ja metsaira chopabo, nato moatian sayabo Mary Todd itan Abe Lincoln, Illinois,  iamax 'A Christmas Carolkon' ransai kakin saya sawekanaibo.	Ja chopabora jatibi mekeman akana iki.	entailment
+shp	itan, mmm..., rabe waranka pichika pacha jonira ika iki ea jikikentianitan, mmm...	Ea jikiketianra ika iki jaweti joni en onana jain.	neutral

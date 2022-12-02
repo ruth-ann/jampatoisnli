@@ -1,0 +1,223 @@
+language	premise	hypothesis	label
+oto	xi nⴘdi biênâ: maMe dimi an ngû	bi matti o ini maMe zaditho-nho tengu nⴘa nᶎarutîhî bi tzogui	neutral
+oto	xi nⴘdi biênâ: maMe dimi an ngû	nⴘdi hin biênâ nā hia	contradiction
+oto	xi nⴘdi biênâ: maMe dimi an ngû	bimâbi o ini maMe guê o ngû	entailment
+oto	oqui bi pâdi num qhamgue nîn, nguna mibi o tzô̮hô̮ o nā tⴘhoi bi qhadabeni ane Washington	hinqhamⴘ Xta agā o Washington, nguna numⴘ biêna-bi dâbâ xta bi damatho nêêtho tînî nⴘa tⴘhoi	neutral
+oto	oqui bi pâdi num qhamgue nîn, nguna mibi o tzô̮hô̮ o nā tⴘhoi bi qhadabeni ane Washington	bi pâdi mi-ga nute dimi phoca guê ô̮te	contradiction
+oto	oqui bi pâdi num qhamgue nîn, nguna mibi o tzô̮hô̮ o nā tⴘhoi bi qhadabeni ane Washington	hin dimi tze maqhuaba on nute bipa, nubⴘ xta o Washington, habⴘ bi ô̮t-yagā ximphada	entailment
+oto	nⴘa hin nzagui pa	xa goguehnu on nandi n-yô̮hô̮ xi nⴘa bi necca na padango	contradiction
+oto	nⴘa hin nzagui pa	hin bi unni niyutho pa	entailment
+oto	nⴘa hin nzagui pa	hin bi unni niyutho pa nû mⴘdi an hiô̮hⴘnumⴘ	neutral
+oto	xi xti buca mi-ga.¡Xi guenu bima gotitho!	mapha on guê dixica guê hâ, biguadi	entailment
+oto	xi xti buca mi-ga.¡Xi guenu bima gotitho!	dixica guê hin xi nⴘa bi ndemedi naigui xi mananditho	contradiction
+oto	xi xti buca mi-ga.¡Xi guenu bima gotitho!	numu dixica guê hâ, nugame xta qhadabeni guê nume di nthadi qhanu mpa	neutral
+oto	nⴘa dimi qhati nêêtho qhuani	nugā di bi ô̮ccode mi-ga tzanu un mⴘdⴘy	contradiction
+oto	nⴘa dimi qhati nêêtho qhuani	Dimi nêêtho on ô̮ccode a habu bima nu tohpho	neutral
+oto	nⴘa dimi qhati nêêtho qhuani	di nehma ô̮ccode	entailment
+oto	guedi, guadi pâdi, goguehnuⴘmâhâ, on ythzû xocⴘ, Te ngunê nu bâhtzi an memāti on nā hûâhi nguegue goguehnuⴘmâhâ nu bâhtzi on nunⴘ n-yô̮hô̮ guê demi ythzû axmeti.	ini MaTah hin biphodi hinyu ana nâhte	contradiction
+oto	guedi, guadi pâdi, goguehnuⴘmâhâ, on ythzû xocⴘ, Te ngunê nu bâhtzi an memāti on nā hûâhi nguegue goguehnuⴘmâhâ nu bâhtzi on nunⴘ n-yô̮hô̮ guê demi ythzû axmeti.	ini MaTah gom memāti on 2000 yehoi on mahdo.	neutral
+oto	guedi, guadi pâdi, goguehnuⴘmâhâ, on ythzû xocⴘ, Te ngunê nu bâhtzi an memāti on nā hûâhi nguegue goguehnuⴘmâhâ nu bâhtzi on nunⴘ n-yô̮hô̮ guê demi ythzû axmeti.	ini MeTah demi ythzû yehoi.	entailment
+oto	guedi, ma bēphi gom êtti paracaídas xi ȥahxo qhandi guapⴘca ynâhte anu nandichⴘ xi pa O nā tⴘhoi enu extrajero.	Hin demi bēphi, ngu-a guê huihi unⴘa bipaîtzi gotitho yâ cajas ane ini ngû	contradiction
+oto	hueza ngu-a tengu, dicoca thahi.	bidⴘ -tti nu dⴘngⴘti qhandi bⴘy maqhuaba.	neutral
+oto	hueza ngu-a tengu, dicoca thahi.	hueza ngu-a tengu ccohquiga	contradiction
+oto	hueza ngu-a tengu, dicoca thahi.	hueza dimi bithague	entailment
+oto	Xi nⴘa gom nā nihiaxdoni, dimi tengu nunu. Xi nubⴘ guadi guipaque, hin bididihoga, guedi on ygotitho yguguna nûyû gomi yma yhñaxpipho.	Gom thozpe xi tamanho	contradiction
+oto	Xi nⴘa gom nā nihiaxdoni, dimi tengu nunu. Xi nubⴘ guadi guipaque, hin bididihoga, guedi on ygotitho yguguna nûyû gomi yma yhñaxpipho.	Na biⴘtzo nguêguê gom tze tuxi.	neutral
+oto	Xi nⴘa gom nā nihiaxdoni, dimi tengu nunu. Xi nubⴘ guadi guipaque, hin bididihoga, guedi on ygotitho yguguna nûyû gomi yma yhñaxpipho.	Hin gom onuhiandi gor	entailment
+oto	Numⴘ biyanti, numⴘ diyanti an toldo qhandi guê dimⴘdi o puô̮he, hmô̮pia yoho yhⴘxto ane un buô̮hio ngâhâ on na aeronave guê bin mibiqha bideni handatho nu vuelo.	Ygotitho ya yhⴘxto ane nu avión dimibⴘy ynattô̮.	contradiction
+oto	Numⴘ biyanti, numⴘ diyanti an toldo qhandi guê dimⴘdi o puô̮he, hmô̮pia yoho yhⴘxto ane un buô̮hio ngâhâ on na aeronave guê bin mibiqha bideni handatho nu vuelo.	Bima anhêy bihiai.	neutral
+oto	Numⴘ biyanti, numⴘ diyanti an toldo qhandi guê dimⴘdi o puô̮he, hmô̮pia yoho yhⴘxto ane un buô̮hio ngâhâ on na aeronave guê bin mibiqha bideni handatho nu vuelo.	Miqha yhⴘxto ane nu avión guê bien bideni.	entailment
+oto	Xi ane maqhûâni hin na biô̮ccode.	Ngue ⴘndu guenⴘ hin ô̮ccoi ngue un hiā ñûhmû.	neutral
+oto	Xi ane maqhûâni hin na biô̮ccode.	Na ni Dâhi guenⴘ hin ô̮ccoi.	entailment
+oto	Xi ane maqhûâni hin na biô̮ccode.	Guenⴘ ô̮ccoi nute ñama.	contradiction
+oto	Xâhma ngueca biênâ o gotitho ya nⴘma xi hin dimi hnunzu.	Hin na bi ô̮de numⴘ bi yô̮na o ya nⴘma.	entailment
+oto	Xâhma ngueca biênâ o gotitho ya nⴘma xi hin dimi hnunzu.	Bi ô̮de gotitho digue biênâ guenⴘ.	contradiction
+oto	Xâhma ngueca biênâ o gotitho ya nⴘma xi hin dimi hnunzu.	Bi ñamaȥedi nen mânâ añô̮-y	neutral
+oto	Handa-a bi mô̮ô̮dî yoho, hiû aviones handatho bi dimi nunⴘ, xi, o, bima prueba.	Yoho aviones bi mô̮ô̮dî nguê la ye.	neutral
+oto	Handa-a bi mô̮ô̮dî yoho, hiû aviones handatho bi dimi nunⴘ, xi, o, bima prueba.	Yoho aviones bi mô̮ô̮dî.	entailment
+oto	Handa-a bi mô̮ô̮dî yoho, hiû aviones handatho bi dimi nunⴘ, xi, o, bima prueba.	Hinqhamu bi mô̮ô̮dî na avión.	contradiction
+oto	Hin bi mô̮ô̮dî na avión.	Hin manⴘa phox qua.	contradiction
+oto	Hin bi mô̮ô̮dî na avión.	Go na dâbēphi guê máné ô̮te.	neutral
+oto	Hin bi mô̮ô̮dî na avión.	Máné honî ô̮to.	entailment
+oto	mibⴘy nunu mbo	ngueca bin bima xatî tzogui nehepia	contradiction
+oto	mibⴘy nunu mbo	ngueca tobî mibⴘy ane yā proximidades	entailment
+oto	mibⴘy nunu mbo	nugame mbô̮ni guê bin bima, guedi bin bigohi	neutral
+oto	nêccⴘ, oh, di hiagui guê puô̮ña on nûnê	hin di manⴘa bⴘy nen nûnê	contradiction
+oto	nêccⴘ, oh, di hiagui guê puô̮ña on nûnê	magā o nxoô̮ nûnê	entailment
+oto	nêccⴘ, oh, di hiagui guê puô̮ña on nûnê	da nunutua nⴘyo tzuqûâ	neutral
+oto	Guenu hâ di ihabô̮ni.	Hin di ihabô̮ni hentze.	contradiction
+oto	Guenu hâ di ihabô̮ni.	Hin di ihabô̮ni hinyⴘ.	neutral
+oto	Guenu hâ di ihabô̮ni.	Ditaha mⴘymî guê guecca hin bi ihabô̮ni.	entailment
+oto	Xi di ô̮te-y itzo modēo.	Di ô̮te-y itzo tze niᶎâ	contradiction
+oto	Xi di ô̮te-y itzo modēo.	Di ô̮te-y itzo tzó.	entailment
+oto	Xi di ô̮te-y itzo modēo.	Di ⴘmⴘn-ⴘ manho mapha on na ᶎupi.	neutral
+oto	Hin di phodi guê di cohi nunⴘ.	Ndêgui pa y ma o ngûxitaî hâ di nêhⴘ.	neutral
+oto	Hin di phodi guê di cohi nunⴘ.	Nima.	entailment
+oto	Hin di phodi guê di cohi nunⴘ.	Di qhûpi cohi nugua.	contradiction
+oto	Guenu bima na pahituc tzó.	Bima na pahituc hintumⴘy.	contradiction
+oto	Guenu bima na pahituc tzó.	Bima tzó numⴘ nu xahdihî bi tzô̮hô̮ o na ndô̮hnînî.	neutral
+oto	Guenu bima na pahituc tzó.	Guenu pahituc di pîdîgā.	entailment
+oto	Guedi, di hîandî, di mbô̮ni.	Di mbô̮ni thot-paya.	neutral
+oto	Guedi, di hîandî, di mbô̮ni.	Hin go hinyⴘ ane guê dihohma tzequia.	contradiction
+oto	Guedi, di hîandî, di mbô̮ni.	Go xoⴘ guê tzequia.	entailment
+oto	Hin gom mithzⴘ guê na yonhoinu; miqha artemisa.	Gom na selva tropical.	contradiction
+oto	Hin biênâ na ᶎupi manaigui, di ô̮tegā pa y ma xi hin bin numⴘ go máné a hin.	Xti buca tumⴘnxu nguêguê hin bi pâdi o guê ᶎupi gom.	entailment
+oto	Hin biênâ na ᶎupi manaigui, di ô̮tegā pa y ma xi hin bin numⴘ go máné a hin.	Hin Xti buca tumⴘnxu hentze, bi phodi guē nô̮cco ane tengu-â gûtûa,	contradiction
+oto	ᶎa, hin qha a qhoontho niguênⴘ qhan phoxtzime.	Hin godi garabâdi on di ô̮te nguê ma.	neutral
+oto	ᶎa, hin qha a qhoontho niguênⴘ qhan phoxtzime.	Qha a thzu yqha-y guê di tzequiagā phoxtzi nunⴘ.	contradiction
+oto	ᶎa, hin qha a qhoontho niguênⴘ qhan phoxtzime.	Hin qha a qhoontho nunu qhan phoxtzime.	entailment
+oto	Na CIA bi hiampi na película xi na bi pētzi o yâ Naciones Unidas manqhamⴘ.	Na CIA bi diditzii na película o na ONU.	entailment
+oto	Na CIA bi hiampi na película xi na bi pētzi o yâ Naciones Unidas manqhamⴘ.	Na CIA bi pētzi na película qhan gueyu.	contradiction
+oto	Na CIA bi hiampi na película xi na bi pētzi o yâ Naciones Unidas manqhamⴘ.	Na CIA bi mbô̮ni guê na ONU bi manⴘa nu nu video mexinguetho.	neutral
+oto	Hin da zāgui xatî un gatillo.	Nu gatillo di ô̮te guē di zāgui.	entailment
+oto	Hin da zāgui xatî un gatillo.	Nu detonador di ô̮te zāgui na qhuô̮guentho.	neutral
+oto	Hin da zāgui xatî un gatillo.	Hin qha a gatillo qhandi qhⴘmix.	contradiction
+oto	Xi goma MaTah thot-paya biênâ guê hin qha a guê imâ guê gomi ybaoni.	Goma MaTah biênâ guê hin ya di mahti ybaoni.	entailment
+oto	Xi goma MaTah thot-paya biênâ guê hin qha a guê imâ guê gomi ybaoni.	Goma MaTah biênâ guê bi mymî ybaoni.	contradiction
+oto	Xi goma MaTah thot-paya biênâ guê hin qha a guê imâ guê gomi ybaoni.	Goma MaTah biênâ guê bi mymî yeminda, hin ybaoni.	neutral
+oto	Hin di gue-hmagā hâ hin di pâdi hentze.	Hin di tzubenigā hâ hin di pâdi hentze.	entailment
+oto	¿qhaa nai gâȥâ nguê na guê ngueca hin biênâ-y?	guaxtapaca guê xaqha gâᶎâ qhan ngueca hin otima-y	contradiction
+oto	¿qhaa nai gâȥâ nguê na guê ngueca hin biênâ-y?	¿nguête-a xaqha ngueca oqui xca biênâ?	entailment
+oto	¿qhaa nai gâȥâ nguê na guê ngueca hin biênâ-y?	¿nguête-a oqui biênâ ngueca an guâne?	neutral
+oto	hin bi pâdi guê goguehnⴘmâhâ nā U2 xi qhoontho bi pâdi on nā U2	hin bi pâdi guê yxotzo goguehnⴘmâhâ nā U2	entailment
+oto	hin bi pâdi guê goguehnⴘmâhâ nā U2 xi qhoontho bi pâdi on nā U2	hin bi pâdi tex mahti xca guê hiandigame ane nu ndâhi	neutral
+oto	hin bi pâdi guê goguehnⴘmâhâ nā U2 xi qhoontho bi pâdi on nā U2	xca bi pâdi gotitho on U2	contradiction
+oto	matzu bi mî ane 1910, bima nai nxûtzi dô̮ngu	matzu bi mî 10 yqhēya mapha on nimpotti on siglo	entailment
+oto	matzu bi mî ane 1910, bima nai nxûtzi dô̮ngu	matzu bi mî ane 1899	contradiction
+oto	matzu bi mî ane 1910, bima nai nxûtzi dô̮ngu	matzu bi mî nu 1 on ȥan dindâxi on 1910	neutral
+oto	qhon didiyeca dunthe dexiunda	di manⴘa ccⴘcco mithzⴘ dexiunda on nûnê	entailment
+oto	ȥâ , on gotitho y guguma pengagā o ma nîxthe	hina ma pengagā o hûdi	contradiction
+oto	ȥâ , on gotitho y guguma pengagā o ma nîxthe	pengagā o ma nthûtzî	entailment
+oto	ȥâ , on gotitho y guguma pengagā o ma nîxthe	pengui bi xi ma Hmû-o bixicagā ¡Gami!	neutral
+oto	ndemedi bi n-a ȥupi ana tînî Digue bi hioni	xca xtatinga anqui qhamanguehtia	contradiction
+oto	ndemedi bi n-a ȥupi ana tînî Digue bi hioni	bi ndemedi qhamanguehtia anqui tînî	entailment
+oto	go nguda-â ma ȥan-yxo	ya xta tegā tza huihi	contradiction
+oto	go nguda-â ma ȥan-yxo	xta m cô̮ca numⴘbi umbi yâ yntoni	neutral
+oto	go nguda-â ma ȥan-yxo	xta m cô̮ca hingueca xta mangā	entailment
+oto	ha diphoca nai deanda on o-hmipi	diphoca nai deanda on o-hmipi xi go o na gue maga	entailment
+oto	ha diphoca nai deanda on o-hmipi	maga o deanda on o-hmipi maȥaguitho	neutral
+oto	ha diphoca nai deanda on o-hmipi	gue go nā nadabⴘy on o-hmipi ?	contradiction
+oto	dimibⴘy mami guê ya yXoûte o ya y-Tah-me	guima guê di ô̮tebi nu Gambaxo o nu Xoûte	contradiction
+oto	dimibⴘy mami guê ya yXoûte o ya y-Tah-me	gomi ya yXoûte o ya y-Tah-me	entailment
+oto	ha diphoca nai ngû habⴘ nⴘy	phodi nai ngû da nЪⴘy go n-a tti on nuya	neutral
+oto	ha diphoca nai ngû habⴘ nⴘy	go tegaȥâ phodi habⴘ nъⴘy	entailment
+oto	guedi nguê mana ngûdi guadi xta thcame mînño , daȥu xi doyoxaha	magā xi ȥaca hô̮nze hina ditaca ȥadi nguô̮	contradiction
+oto	guedi nguê mana ngûdi guadi xta thcame mînño , daȥu xi doyoxaha	ȥadi, yȥuî tengu ma doyoxaha , mînño xi qqeña	entailment
+oto	go tze hopîdêgo	bi ô̮de guê hin go ȥâ	neutral
+oto	go tze hopîdêgo	go tzó	entailment
+oto	go tze hopîdêgo	hina bi da hinyu modēo	contradiction
+oto	hâ, bim conangueca ȥâñotho	hâ, bim tze dunthe	entailment
+oto	bi xonehî The firm	¿bi xinehí The firm?	entailment
+oto	bi xonehî The firm	¿bi xinehí The soft?	contradiction
+oto	mi-ga, da thogui nguê na otze	bi hmoya huihitho	neutral
+oto	mi-ga, da thogui nguê na otze	bi puô̮ni nû ndâhi ȥantemi	entailment
+oto	mi-ga, da thogui nguê na otze	mipa o la puô̮ttai	contradiction
+oto	go n-a Ƌote nguê nanȥⴘdi on rédito	xaqha niȥâ	contradiction
+oto	¿ âhâ ane na bohumⴘy?	¿ Bimipaqu nû campamento ane nu yonhoinu?	entailment
+oto	¿ âhâ ane na bohumⴘy?	¿ Bimipaqu nû campamento mbo?	contradiction
+oto	¿ âhâ ane na bohumⴘy?	Bimbô̮ni guê miqha bimipaqu nû campamento.	neutral
+oto	goa guê, tzunȥede-tho.	Bi tzⴘtzo ƌatimichⴘ, handa-a bi qhoquitho,	neutral
+oto	goa guê, tzunȥede-tho.	Goa guê bi tzⴘtzo.	entailment
+oto	goa guê, tzunȥede-tho.	Bi manho.	contradiction
+oto	Xi maqhuani ngⴘ-a ⴘtzo mô̮ô̮dî, guê nûnê go nā gⴘⴘhia nguê phodi nā thi.	Phodi nā thi hin go gotitho ypadango xi ytheni, guedi didihoga.	neutral
+oto	Xi maqhuani ngⴘ-a ⴘtzo mô̮ô̮dî, guê nûnê go nā gⴘⴘhia nguê phodi nā thi.	Hin tzohoma mô̮ô̮dî ma thi, guedi go digue ditaha nô̮cco numⴘ guiphodi nā phⴘô̮te.	entailment
+oto	Xi maqhuani ngⴘ-a ⴘtzo mô̮ô̮dî, guê nûnê go nā gⴘⴘhia nguê phodi nā thi.	numⴘ guiphodi nuqui humbo-a tⴘqqi on ehoi guadi xatho qha guê mô̮ô̮dî.	contradiction
+oto	bi pitzⴘpiga guê ini thûhû bim Anderson, bim nu mehgo guê ƌihi qhan nā nadabⴘy hô̮tzaha ohinyo-y Reagan.	Anderson bidupô̮ho o Reagan.	contradiction
+oto	bi pitzⴘpiga guê ini thûhû bim Anderson, bim nu mehgo guê ƌihi qhan nā nadabⴘy hô̮tzaha ohinyo-y Reagan.	Anderson biñehni ohinyo-y Reagan tengu nā hô̮tzaha.	entailment
+oto	bi pitzⴘpiga guê ini thûhû bim Anderson, bim nu mehgo guê ƌihi qhan nā nadabⴘy hô̮tzaha ohinyo-y Reagan.	Miqha tohpho hô̮tzaha guê midi pēca ƌaigu on mi-ga.	neutral
+oto	Hâ, na toi go thzu mithzⴘ cadⴘy, dinega imâ guê ditaca dapaga xi dapaga o nā tⴘhoi on gasolina.	Gomi mithzⴘ yhimadi nguête-a gomi maqhuani ngⴘ -a yȥâ ane gas.	entailment
+oto	Hâ, na toi go thzu mithzⴘ cadⴘy, dinega imâ guê ditaca dapaga xi dapaga o nā tⴘhoi on gasolina.	nêccⴘ gomi ya ymanho nȥarutîhî on nguequa.	neutral
+oto	xpipho yqhēya nugā binxoô̮ nunⴘ xi bithogui nâ yȥana nxoô̮tho ane nu extranjero, ane Londres.	Napi miqha binxoô̮ ane nu extranjero mahemⴘ.	contradiction
+oto	xpipho yqhēya nugā binxoô̮ nunⴘ xi bithogui nâ yȥana nxoô̮tho ane nu extranjero, ane Londres.	Ya yngûmphadi on Londres gomi ya ymanho.	neutral
+oto	Guedi bi ô̮pabi xoⴘ nā chⴘ ndeyô̮zei nen nuyⴘ.	Xpaô̮te ziguetho guê nu ya nⴘma.	contradiction
+oto	Guedi bi ô̮pabi xoⴘ nā chⴘ ndeyô̮zei nen nuyⴘ.	Ini meô̮ho on dihoqui gom thzu manho.	neutral
+oto	Guedi bi ô̮pabi xoⴘ nā chⴘ ndeyô̮zei nen nuyⴘ.	Bi ô̮pabi xocⴘ nen nuyⴘ nā chⴘ ndeyô̮zei.	entailment
+oto	xapi xta ô̮tentho hinyⴘ nen yqhēyûqui.	Hin ditaca hoc ya yqhēyûqui.	entailment
+oto	xapi xta ô̮tentho hinyⴘ nen yqhēyûqui.	¡Hapi ditacaga cohi xatî phuô̮xo qhandi nā qhēyûqui !	contradiction
+oto	xapi xta ô̮tentho hinyⴘ nen yqhēyûqui.	ȥâha ditaca ô̮te xoⴘ nen ya yqhēyûqui, guê guede hin ya bindapâma.	neutral
+oto	Hâ, nguête-a maqhuantho-tho miqha eyamⴘ nguê na fábrica, guê eh.	dadiho-magâ guê nûnê hin mibiqha binô̮cco guadi guê bim naxara nxûtohpia.	neutral
+oto	Hâ, nguête-a maqhuantho-tho miqha eyamⴘ nguê na fábrica, guê eh.	Hâ, xpi manyamu nguê thzu.	entailment
+oto	Nen ya mânândi goxta tengu ytengu-â ydô̮ñome nā mpa on na MaMe hâpu bihiadihia tⴘhoi.	Bima qhan nu mpa an MaTah y Ellen thoto xca bitzⴘpi.	contradiction
+oto	Nen ya mânândi goxta tengu ytengu-â ydô̮ñome nā mpa on na MaMe hâpu bihiadihia tⴘhoi.	Ytengu-â dô̮ñome go bipahomi nu mpa on na MaMe.	entailment
+oto	Nen ya mânândi goxta tengu ytengu-â ydô̮ñome nā mpa on na MaMe hâpu bihiadihia tⴘhoi.	Ynoi ydô̮ñome go turnaban qhan xîxîthⴘ nu brunch an mapa on na MaMe.	neutral
+oto	Ccueha dipacame xca guê ma-ya o imâ.	¿ Guipadi guê ttopho nume da bábi o unni qhan xonehî ?	neutral
+oto	Ccueha dipacame xca guê ma-ya o imâ.	Hin diphome nîn phuô̮xo on xca guê dagamâmi.	contradiction
+oto	Ccueha dipacame xca guê ma-ya o imâ.	¿ Te di bⴘbime ô̮tetho qhan imâ ?	entailment
+oto	uh-huh, gotitho mi-ga magohi.	¡magohi!	entailment
+oto	uh-huh, gotitho mi-ga magohi.	xa goguehnu ȥâ ñama nen nuqui xi dañama nen nuqui nixudi.	neutral
+oto	uh-huh, gotitho mi-ga magohi.	Dapaga ñamatho.	contradiction
+oto	vale, xi guipho-mi nai niȥatho lasaña	Na lasaña go na tzⴘtzo eminda guê din bitzocco.	contradiction
+oto	vale, xi guipho-mi nai niȥatho lasaña	ini lasaña go tzem- ô̮te.	entailment
+oto	vale, xi guipho-mi nai niȥatho lasaña	ini lasaña go tzem- ô̮te nguê na salchicha ñi guê phopi.	neutral
+oto	Go handa-a guê tzanu guê dibⴘca dⴘthonxû nen nu tohpho ngueña nugacē hin di ungaga nā hohia.	Hin diphoca thzu tohpho ane nûnê nandichⴘ.	entailment
+oto	Go handa-a guê tzanu guê dibⴘca dⴘthonxû nen nu tohpho ngueña nugacē hin di ungaga nā hohia.	diphoca nā hmudi on tohpho ane nûnê nandichⴘ, nguna guê dinega pa on yntoi.	contradiction
+oto	Go handa-a guê tzanu guê dibⴘca dⴘthonxû nen nu tohpho ngueña nugacē hin di ungaga nā hohia.	hô̮nze diphoca 20 $ nun nu map on pago.	neutral
+oto	Hâ, nā nadabⴘy on tîxocⴘ xumthe.	Nu nadabⴘy bi bi tîxocⴘ ane ythzu ûnxô̮ yndeyô̮zei.	contradiction
+oto	Hâ, nā nadabⴘy on tîxocⴘ xumthe.	Nu nadabⴘy bi bi tîxocⴘ ane ythzu ûnxô̮ ambientales.	neutral
+oto	Hâ, nā nadabⴘy on tîxocⴘ xumthe.	Nu nadabⴘy bi bi tîxocⴘ ane nu xogue-hma.	entailment
+oto	um, hin qha a hinyⴘ on hopîdêgo nen mⴘymî nā MaTah guê diunu gotitho xca guê phodi o uh a uh nai añ -y tengu uh tengu tengu nuqui.	Xa mi-ga guê nā MaTah dáu ythzu ymihma.	entailment
+oto	um, hin qha a hinyⴘ on hopîdêgo nen mⴘymî nā MaTah guê diunu gotitho xca guê phodi o uh a uh nai añ -y tengu uh tengu tengu nuqui.	Xa mi-ga guê ya yMaTah di ô̮dô̮nzu o ynu ybâhtzi nun guê ô̮te-mi yâ yxocⴘ yhantzaha.	neutral
+oto	um, hin qha a hinyⴘ on hopîdêgo nen mⴘymî nā MaTah guê diunu gotitho xca guê phodi o uh a uh nai añ -y tengu uh tengu tengu nuqui.	Ya yMaTah hô̮xi yô̮qqi gotitho xca guê guipho-mi xi hin uni.	contradiction
+oto	numⴘ nugā mibⴘca nunⴘ, Texas handa - a dimi yotemarata xi qⴘda ƌam-o	hinqhamu miqha ȥandimê ane Texas	contradiction
+oto	numⴘ nugā mibⴘca nunⴘ, Texas handa - a dimi yotemarata xi qⴘda ƌam-o	Bi natebⴘ ane Texas ane na min on ya 80.	neutral
+oto	numⴘ nugā mibⴘca nunⴘ, Texas handa - a dimi yotemarata xi qⴘda ƌam-o	nqhama bⴘy ane Texas.	entailment
+oto	xi, mmm..., nqhama go tegaȥâ puô̮ni xi ȥatzi nai dô̮nemohoi	¡hin hatâ bi ȥatzi dô̮nemohoi, guê ditzo!	contradiction
+oto	xi, mmm..., nqhama go tegaȥâ puô̮ni xi ȥatzi nai dô̮nemohoi	nqhama didihoga bi ȥatzi dô̮nemohoi	entailment
+oto	xi uh toyatho maqhuatho bi pohia	guenu maqhuatho bi hohiaga	entailment
+oto	xi uh toyatho maqhuatho bi pohia	¡goguehnⴘmâhâ mithzⴘ guê ditzo!	contradiction
+oto	tengu gabaxo on na ngûmphadi on Derecho, nugā di pâdi guê gui di pâdi Goma dâgameyo	di pâdi on na ngûmphadi on yttette	neutral
+oto	tengu gabaxo on na ngûmphadi on Derecho, nugā di pâdi guê gui di pâdi Goma dâgameyo	qhoontho netinu o na ngûmphadi on Derecho	contradiction
+oto	tengu gabaxo on na ngûmphadi on Derecho, nugā di pâdi guê gui di pâdi Goma dâgameyo	Na ngûmphadi on yttette bi nequiai yañô̮ -y	entailment
+oto	bi tumpheni gotitho qhan Becky, Stephanie, Marcus xi Emily, xi ya yGambaxo tengu nuuⴘ	o Becky xatiqha qhan hinte	contradiction
+oto	bi tumpheni gotitho qhan Becky, Stephanie, Marcus xi Emily, xi ya yGambaxo tengu nuuⴘ	Becky goguehnu nai Gambaxo on hiandi naȥayni	neutral
+oto	bi tumpheni gotitho qhan Becky, Stephanie, Marcus xi Emily, xi ya yGambaxo tengu nuuⴘ	Becky goguehnu nai Gambaxo	entailment
+oto	ni zâña phodi na ndot muô̮ccu on ygotitho ya ymuô̮yonabo an Hiô̮hⴘnumⴘ xi di ô̮te ymarayo ynpâgu	yâ zâña hin di ncoque ane nai meô̮ho nû Hiô̮hⴘnumⴘ	contradiction
+oto	ni zâña phodi na ndot muô̮ccu on ygotitho ya ymuô̮yonabo an Hiô̮hⴘnumⴘ xi di ô̮te ymarayo ynpâgu	yâ zâña mithzⴘ yndete gomi mithzⴘ ytzehño qhan nu Hiô̮hⴘnumⴘ	neutral
+oto	ni zâña phodi na ndot muô̮ccu on ygotitho ya ymuô̮yonabo an Hiô̮hⴘnumⴘ xi di ô̮te ymarayo ynpâgu	nu Hiô̮hⴘnumⴘ go bi xaxixi nguê yâ zâña	entailment
+oto	Xi, temaga guê di phoxtzi o ya yȥacamⴘy garaqⴘhⴘ xi on hiumahe an Civic Theatre manaigui nûnê qhēya.	Nu Teatro Cívico xa nattô̮ ngûti xi dapengui mithzⴘ tohpho	contradiction
+oto	Xi, temaga guê di phoxtzi o ya yȥacamⴘy garaqⴘhⴘ xi on hiumahe an Civic Theatre manaigui nûnê qhēya.	Nu Teatro Cívico dimané 1 $ millon nûnê qhēya.	neutral
+oto	Xi, temaga guê di phoxtzi o ya yȥacamⴘy garaqⴘhⴘ xi on hiumahe an Civic Theatre manaigui nûnê qhēya.	Nu Teatro Cívico dimané gor pegmihi	entailment
+oto	di eqqîây gotitho ya hi-tô̮	hin di eqqîây guê guenu dane maqhon	entailment
+oto	di eqqîây gotitho ya hi-tô̮	di eqqîây guê guipho iȥâbênî	contradiction
+oto	di eqqîây gotitho ya hi-tô̮	eqqîây guê bi mēcca-y, guê na cohiâ go nā hâm xi hin nā hin	neutral
+oto	manⴘame yniȥâ qhan otîthûhû xi qhⴘgⴘhu o ytzem-ô̮te yXoûte	hin manⴘame otîthûhû yXoûte, handitho bi xaêhê o nugame	contradiction
+oto	manⴘame yniȥâ qhan otîthûhû xi qhⴘgⴘhu o ytzem-ô̮te yXoûte	manⴘame ymanho yXoûte	entailment
+oto	manⴘame yniȥâ qhan otîthûhû xi qhⴘgⴘhu o ytzem-ô̮te yXoûte	manⴘame âqhu-a 100 ymarayo xi yȥâ yXoûte	neutral
+oto	ya 5539 ygabaxo on na ngûmphadi on Derecho bi qhⴘgⴘhⴘ na nadabⴘy añô̮guhma	na ngûmphadi on Derecho bi bⴘy xoctho nguê 100 yqhēya xi bi phodi 5539 ygabaxo	neutral
+oto	ya 5539 ygabaxo on na ngûmphadi on Derecho bi qhⴘgⴘhⴘ na nadabⴘy añô̮guhma	na ngûmphadi on Derecho handitho bi phodi 20 ygabaxo	contradiction
+oto	ya 5539 ygabaxo on na ngûmphadi on Derecho bi qhⴘgⴘhⴘ na nadabⴘy añô̮guhma	qhaa mithzⴘ on 5000 ygabaxo on na ngûmphadi on Derecho	entailment
+oto	diphoca mithzⴘ guê nā bēphi	hin diphoca nā bēphi nin nā hianhiandi	contradiction
+oto	diphoca mithzⴘ guê nā bēphi	diphoca nā bēphi guê di anabephi gotitho ma dahpa	neutral
+oto	diphoca mithzⴘ guê nā bēphi	diphoca bēphi	entailment
+oto	ymana ditantho anumahditho goma npâgu	di bⴘbime qhoquitho xi ygotitho ditaha bahandi	contradiction
+oto	ymana ditantho anumahditho goma npâgu	diphome npâgu numu diphome on an-opi zâña	neutral
+oto	ymana ditantho anumahditho goma npâgu	di bⴘbime phoditho npâgu	entailment
+oto	¿da tô̮que yni yttâhâ o ya yamamo?	phangui-y on ttî nen nugame	contradiction
+oto	¿da tô̮que yni yttâhâ o ya yamamo?	¿nume da moxcame o nugame o diqhado na manho ngûmphad on na qhañaȥandi	neutral
+oto	¿da tô̮que yni yttâhâ o ya yamamo?	¿yni yttâhâ din-mi ane quaq on ya yamamo?	entailment
+oto	Nȥáyahmû an ⴘti on bahⴘmamⴘy	Nu ⴘti on ydanganȥaguî hinxa phodi Nȥáyahmû	contradiction
+oto	Nȥáyahmû an ⴘti on bahⴘmamⴘy	Nu Nȥáyahmû on na ⴘti on ⴘttete on bahⴘmamⴘy	entailment
+oto	Nȥáyahmû an ⴘti on bahⴘmamⴘy	nu-a ane tzeman yamⴘ bima Nȥáyahmû on na ⴘti	neutral
+oto	Nu qhēya biumba uriñón-tho	Hin biumba zâña nu qhēya biumba	contradiction
+oto	Nu qhēya biumba uriñón-tho	nuinzu bi umba $10,000 nu qhēya biumba	neutral
+oto	Nu qhēya biumba uriñón-tho	nuinzu bi umba zâña nu qhēya biumba	entailment
+oto	... Nguêguê guipho-mi nho chⴘ qhamâmâdi guê di mâmâqui na mâcûhi on ymoñabe xi yhotte	qhoontho on ynu ydô̮ñome gomi ymoñabe a yhotte	contradiction
+oto	... Nguêguê guipho-mi nho chⴘ qhamâmâdi guê di mâmâqui na mâcûhi on ymoñabe xi yhotte	ynoi on ynu ydô̮ñome gomi ymoñabe xi yhotte	entailment
+oto	... Nguêguê guipho-mi nho chⴘ qhamâmâdi guê di mâmâqui na mâcûhi on ymoñabe xi yhotte	ynoi on ynu ydô̮ñome bi dipê tzahpo	neutral
+oto	gogui añô̮guhma qhan nugame xi I.U.	tzⴘtzu na I.U. tengu nugame dimânzu guê gogui añô̮guhma nguête-a gogui nā	neutral
+oto	gogui añô̮guhma qhan nugame xi I.U.	nugame xi na I.U. bô̮mînu guê gogueque añô̮guhma	entailment
+oto	gogui añô̮guhma qhan nugame xi I.U.	nin o nugame, nin o na I.U. nume tumpheni	contradiction
+oto	numⴘ Urban go bima o Vietnam, handitho diphome chⴘ hiaxtho nthâdi, bimâ JoAnn	JoAnn xi Urban bi qhuaya on pangobebi gor pahⴘqhexo on nînthadi mô̮pô̮dô̮ 50, numⴘ nⴘa go bima o Vietnam	contradiction
+oto	numⴘ Urban go bima o Vietnam, handitho diphome chⴘ hiaxtho nthâdi, bimâ JoAnn	JoAnn xi Urban binbⴘbi nthâdi nguê nā ȥana numⴘ go bima o Vietnam	neutral
+oto	numⴘ Urban go bima o Vietnam, handitho diphome chⴘ hiaxtho nthâdi, bimâ JoAnn	JoAnn biênâ guê guenⴘ xi Urban hin phodi thzu nthâdi numⴘ nⴘa go bima o Vietnam	entailment
+oto	tzoguitho nā 32% godin bi an-opi nen zâña on ydô̮ñome tengu nuqui	na xomⴘȥa on qhanu tohpho eccua on poh on boletos	entailment
+oto	tzoguitho nā 32% godin bi an-opi nen zâña on ydô̮ñome tengu nuqui	nune go nu niguadi qhēya ane guê nugame di ô̮qhê ypoh on entradas	neutral
+oto	naqhagua ȥan-yxo nêccⴘ ditaha xaxixi o mameti xadiba qhan ô̮te mana padango nu nⴘqhamu qhēya	di bu bime nguaha qhan phodi na padango nguê 10 yquēya, xatî tumpheni guê di nô̮cco	contradiction
+oto	naqhagua ȥan-yxo nêccⴘ ditaha xaxixi o mameti xadiba qhan ô̮te mana padango nu nⴘqhamu qhēya	maz hin diphome thzû yqhâ-y nune quēya, go damaxda guê hin diô̮tegame na padango	neutral
+oto	naqhagua ȥan-yxo nêccⴘ ditaha xaxixi o mameti xadiba qhan ô̮te mana padango nu nⴘqhamu qhēya	go damaxda guê hin diô̮tegame mana padango nu nⴘqhamu qhēya	entailment
+oto	qhan thzû, na Hmâqhâqe hin go mithzu guê ya ytzâȥá amanho on ya ymemti	gotitho nu ximohoi ithanda on guê maz di nee me .phodi na caô̮guiqhⴘ, ygotitho diphome guê umba	contradiction
+oto	qhan thzû, na Hmâqhâqe hin go mithzu guê ya ytzâȥá amanho on ya ymemti	ynai yañô̮-y di bô̮mînu guê umba go xoⴘ guê handitho dinô̮te ya ymenti	entailment
+oto	qhan thzû, na Hmâqhâqe hin go mithzu guê ya ytzâȥá amanho on ya ymemti	ynai yañô̮-y di mbô̮ni guê gomi naxara ymahuehe qhan unni zâña, toyatho hin qhaguanda o goma llamadas	neutral
+oto	tze hama, na dô̮ñome an IRT xca da mahti qhan guê ô̮te gor niñati nguê telefono	hin ô̮teme yô̮yxope telefónicas nguê yxuñiña on hñaha	contradiction
+oto	tze hama, na dô̮ñome an IRT xca da mahti qhan guê ô̮te gor niñati nguê telefono	ditaha unni tohpho zâña nguê telefóno	entailment
+oto	tze hama, na dô̮ñome an IRT xca da mahti qhan guê ô̮te gor niñati nguê telefono	maz guine axmeti, dimané umba $100 nguê teléfono	neutral

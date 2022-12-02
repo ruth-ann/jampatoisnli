@@ -1,0 +1,34 @@
+language	premise	hypothesis	label
+oto	Xi maqhuani ngⴘ-a ⴘtzo mô̮ô̮dî, guê nûnê go nā gⴘⴘhia nguê phodi nā thi.	numⴘ guiphodi nuqui humbo-a tⴘqqi on ehoi guadi xatho qha guê mô̮ô̮dî.	contradiction
+oto	Go handa-a guê tzanu guê dibⴘca dⴘthonxû nen nu tohpho ngueña nugacē hin di ungaga nā hohia.	Hin diphoca thzu tohpho ane nûnê nandichⴘ.	entailment
+oto	... Nguêguê guipho-mi nho chⴘ qhamâmâdi guê di mâmâqui na mâcûhi on ymoñabe xi yhotte	ynoi on ynu ydô̮ñome gomi ymoñabe xi yhotte	entailment
+oto	Numⴘ biyanti, numⴘ diyanti an toldo qhandi guê dimⴘdi o puô̮he, hmô̮pia yoho yhⴘxto ane un buô̮hio ngâhâ on na aeronave guê bin mibiqha bideni handatho nu vuelo.	Miqha yhⴘxto ane nu avión guê bien bideni.	entailment
+oto	xapi xta ô̮tentho hinyⴘ nen yqhēyûqui.	¡Hapi ditacaga cohi xatî phuô̮xo qhandi nā qhēyûqui !	contradiction
+oto	Na CIA bi hiampi na película xi na bi pētzi o yâ Naciones Unidas manqhamⴘ.	Na CIA bi mbô̮ni guê na ONU bi manⴘa nu nu video mexinguetho.	neutral
+oto	tzoguitho nā 32% godin bi an-opi nen zâña on ydô̮ñome tengu nuqui	na xomⴘȥa on qhanu tohpho eccua on poh on boletos	entailment
+oto	go n-a Ƌote nguê nanȥⴘdi on rédito	xaqha niȥâ	contradiction
+oto	nⴘa hin nzagui pa	hin bi unni niyutho pa	entailment
+oto	go tze hopîdêgo	bi ô̮de guê hin go ȥâ	neutral
+oto	xapi xta ô̮tentho hinyⴘ nen yqhēyûqui.	ȥâha ditaca ô̮te xoⴘ nen ya yqhēyûqui, guê guede hin ya bindapâma.	neutral
+oto	diphoca mithzⴘ guê nā bēphi	hin diphoca nā bēphi nin nā hianhiandi	contradiction
+oto	bi pitzⴘpiga guê ini thûhû bim Anderson, bim nu mehgo guê ƌihi qhan nā nadabⴘy hô̮tzaha ohinyo-y Reagan.	Anderson biñehni ohinyo-y Reagan tengu nā hô̮tzaha.	entailment
+oto	hâ, bim conangueca ȥâñotho	hâ, bim tze dunthe	entailment
+oto	tengu gabaxo on na ngûmphadi on Derecho, nugā di pâdi guê gui di pâdi Goma dâgameyo	Na ngûmphadi on yttette bi nequiai yañô̮ -y	entailment
+oto	uh-huh, gotitho mi-ga magohi.	¡magohi!	entailment
+oto	guedi nguê mana ngûdi guadi xta thcame mînño , daȥu xi doyoxaha	magā xi ȥaca hô̮nze hina ditaca ȥadi nguô̮	contradiction
+oto	numⴘ Urban go bima o Vietnam, handitho diphome chⴘ hiaxtho nthâdi, bimâ JoAnn	JoAnn xi Urban bi qhuaya on pangobebi gor pahⴘqhexo on nînthadi mô̮pô̮dô̮ 50, numⴘ nⴘa go bima o Vietnam	contradiction
+oto	Handa-a bi mô̮ô̮dî yoho, hiû aviones handatho bi dimi nunⴘ, xi, o, bima prueba.	Hinqhamu bi mô̮ô̮dî na avión.	contradiction
+oto	ndemedi bi n-a ȥupi ana tînî Digue bi hioni	xca xtatinga anqui qhamanguehtia	contradiction
+oto	Guedi, di hîandî, di mbô̮ni.	Go xoⴘ guê tzequia.	entailment
+oto	¿da tô̮que yni yttâhâ o ya yamamo?	¿nume da moxcame o nugame o diqhado na manho ngûmphad on na qhañaȥandi	neutral
+oto	ya 5539 ygabaxo on na ngûmphadi on Derecho bi qhⴘgⴘhⴘ na nadabⴘy añô̮guhma	na ngûmphadi on Derecho bi bⴘy xoctho nguê 100 yqhēya xi bi phodi 5539 ygabaxo	neutral
+oto	ᶎa, hin qha a qhoontho niguênⴘ qhan phoxtzime.	Qha a thzu yqha-y guê di tzequiagā phoxtzi nunⴘ.	contradiction
+oto	ymana ditantho anumahditho goma npâgu	di bⴘbime qhoquitho xi ygotitho ditaha bahandi	contradiction
+oto	guedi, guadi pâdi, goguehnuⴘmâhâ, on ythzû xocⴘ, Te ngunê nu bâhtzi an memāti on nā hûâhi nguegue goguehnuⴘmâhâ nu bâhtzi on nunⴘ n-yô̮hô̮ guê demi ythzû axmeti.	ini MaTah hin biphodi hinyu ana nâhte	contradiction
+oto	xi nⴘdi biênâ: maMe dimi an ngû	bimâbi o ini maMe guê o ngû	entailment
+oto	nêccⴘ, oh, di hiagui guê puô̮ña on nûnê	da nunutua nⴘyo tzuqûâ	neutral
+oto	ni zâña phodi na ndot muô̮ccu on ygotitho ya ymuô̮yonabo an Hiô̮hⴘnumⴘ xi di ô̮te ymarayo ynpâgu	nu Hiô̮hⴘnumⴘ go bi xaxixi nguê yâ zâña	entailment
+oto	tze hama, na dô̮ñome an IRT xca da mahti qhan guê ô̮te gor niñati nguê telefono	hin ô̮teme yô̮yxope telefónicas nguê yxuñiña on hñaha	contradiction
+oto	Hâ, na toi go thzu mithzⴘ cadⴘy, dinega imâ guê ditaca dapaga xi dapaga o nā tⴘhoi on gasolina.	nêccⴘ gomi ya ymanho nȥarutîhî on nguequa.	neutral
+oto	guedi nguê mana ngûdi guadi xta thcame mînño , daȥu xi doyoxaha	ȥadi, yȥuî tengu ma doyoxaha , mînño xi qqeña	entailment
+oto	xi xti buca mi-ga.¡Xi guenu bima gotitho!	dixica guê hin xi nⴘa bi ndemedi naigui xi mananditho	contradiction

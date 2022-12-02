@@ -1,0 +1,251 @@
+language	premise	hypothesis	label
+quy	Chaymi karqa...,ancha manchay punchaw karqa.	Ahay punchawqa chiqaqta mancharichiwarqa.	entailment
+quy	payaytaqmi willaq ñawpata karqa imaynatam ñañan hinataq yanan huklaw hatun llaqtaman imaynata ripusqankuta, Augusta yuraq hinaña riqsichikusqankuta.	Payapa ñañanñataqmi mana yuraqchu karqa, iyachay wasiman rinanpaq yuraq kayta munasqataq.	neutral
+quy	Chaymi karqa...,ancha manchay punchaw karqa.	Allin samay punchawmi karqa.	contradiction
+quy	Yuqar suytu puyukuna tukuy nastin hanay pachapi chiqirichisqa	Sumaq conejocha hinam puyupa qipanpi inti kachkan.	neutral
+quy	Payqa papilta rachkaq hinaspa aquman hinaq, ninata rataykachiq hinaspa aqu sansapi kañaq, hinaspan kaynata sansata kuyuchiq.	Payqa mancharisqa kaspa imapas kañananpaq, chaymi yanqallata atipayan.	contradiction
+quy	Ari, huk Cooperativa de Créditonniy kanmi	Kanmi huk Cooperativa de Crédito rinay	entailment
+quy	Tukuq qipa domingo, chunka pusaqniyuq junio killata pararamurqa hinaspam ñawparimay, tusukuy, ñawpa usu raymi , Keepers of the Lore/ Joseph Campbell kunan wata kaqman riqta asllayarqachirqa	Hayka domingo punchawtam chunka qanchisniyuq pulgada nisqata chayamurqa	neutral
+quy	Arí, achkallañam imankunapas karqa hina chay pachallapi aswan yaqapas pakipakururqa	Wakin ima kaqnin pakikuqa ancha chaniyuqmi karqa	neutral
+quy	Hina, yaw, quqarikuruptinqa hina quqarikuspanqa, «güis» nisqata ruranman chay umayki qurqunman hinaraq.	Hukllamanmi rikurimunqa.	contradiction
+quy	Hinaptinmi pay tiyarqun, chaymi, hina rimachkarqaku, hina kay rurnata rikuyta atispa, hina kay runataqmi ancha apurawta richkarqa.	Payqa upallallam karqa hinaspam escritotio lawman qawarqa.	contradiction
+quy	Hinaptin, wasiman ripukunanpaq niykuptinquqa, payqa nirqa ¿Paywan wasiman risaq?	Qariwan puñunankuta nirqaku.	neutral
+quy	Huq iskaytam tapukurqaku, kutichirqani, hinaptinmi niwarqaku: qipikiyta quqariy hinaspa apurawtan chayamuspayki rinanayki kaqman ripuy.	Uk Yuraq maleta quqarinayta niwarqaku.	neutral
+quy	Iskay chunka por ciento nisqam mirariynin	Manam kanchu miraynin	contradiction
+quy	Kusa, chaywanqa wakchata, sarunchasta, iqutam kachisaqku	Kallpachachkanikum hinaspa sapa punchaw puririchichkaniku	contradiction
+quy	Kay kaqa wataman festival ruranaykutam sasachakuyman apaykurunman	Kunan wata mana anchachu chayamunqaku hinaptinqa manapascha raymichayniyku apakunqachu	neutral
+quy	Manam tukuy willana kapuwanchu.	Aswan achka información quñuyta munani.	entailment
+quy	Chaynama yaqapas, mmm... kusa tipisqa karqani.	Chaynama ancha sumaq tiqusqapas kachkarqa.	entailment
+quy	Nueva Yorkwanmi qallarisqaku kay primo nisqan ayllunkuna watunankupaq hinaspa qiparqunku mana imayna kutiyta atimuptinku, hinaptinmi paykunawan qiparqurqa.	Payqa Nueva Yorkpim paykunawan qiparqa.	entailment
+quy	Ichaqa, hukpiqa, achka mapachestam, zarigueyas, tukuy niraq tortugastam mikurqaniku	Tukuy niraq achka uywakunatam mikuy hinatam mikurqani	neutral
+quy	Qullqitam munaniku akllaspa allinta yachachiqkunata yachachinaykupaq	Yachachiqkuna akllayta manam munanikuchu, kikillankum hamunku.	contradiction
+quy	Hinallataqmi, kunan punchaw 6 hora 30 minuto pachapi wasiman chayayta tukuramuni, chaymi punchawniy karqa.	Suqta horas kimsa chunka minutomantaqa mana imatapas ruraniñachu.	entailment
+quy	Chaynatam chiqaqta munayta mikurquni	Huk kapuwanantaq munayman ancha allinta hinam qawani	neutral
+quy	Amaraq laqichuruwachkaspa, lecheyuq chocolateta upyarunayta saqiykuwaychu ?	Lecheyuq chuocolatetam huq basupi munayman.	entailment
+quy	Coronas de laurel, llalliqta hina qawarichiq hinataq olivopa yurankunam paz qawarichiqmi, acantopa yuranwan kuska alfombrapa patankunata llinpin	Alfombraqa Chumpim	neutral
+quy	Chaymi liaday karqa	Formulariosta apachispaymi pantarqurqani	neutral
+quy	Ancha allinmi qammanta kay puchawkuna tukuyllapiña	$ 100.000 pachak waranqa waranqata munaniku kunan pachapi churanakuy ruranakaypaq	neutral
+quy	Anqas qusni alfombra nisqam Umalliqpa sello nisqata blasonninta qawachichkan tukuy niraqta huk ruyrupa ukunpi pichqa chunka yuraq quyllurwan	Achkirichkaq qumirmi alfombraqa chaynataqmi Bart Simpson nisqapa imagennin kachkan	contradiction
+quy	Ima tapukuykuna icha ima mañakuypas kaptinqa kunan qayakamuy (924-5471) yupayman utaq qayakamuy Bob Lovell nisqa yupayman (274-0622).	Huknin watapaqmi Bob Lovell niqmi campaña ruwaypi llamkachkan.	neutral
+quy	Arí, ichaqa manachusma ruraymankuchu manam estaciones locales nisqata tariymankuchu chay willakuykunatam uyariyta munaniku	Aripuniqa, llaqtanchik willakuykunatam qawananchik	contradiction
+quy	Kusa, imaynanpitaq mana qallarinkichu imaynanpitaq aswan chaypi hamutanaykipaq aswan pacha kapusurqanki, manataq ima hukusunkichu	Tukusqanmanata riwaq manataq imatapas yachankichu.	contradiction
+quy	chaynallataqmi allinchasqa kachkan llapa llamkaqmasinkuna allin juicionta yachapayanampaq	llapallaykichiktam anchata qayachikuyta ruwaniku kay juicio mana allin ñawparisqata ama yachapayanaykichikpaq	contradiction
+quy	Texasmantachu hamunki imaynayá, ichapasya mana yachanichu, amam huk sutikunata ruranmankuchu, ichaqa sutillapas armakuna controlasqanqa mana allin qawasqachusmi kachkan, hamutayman	Texasqa control de armasmanta sinchi kamachikuykuniyuqkunachusmi kanman	neutral
+quy	Qullqitam munaniku akllaspa allinta yachachiqkunata yachachinaykupaq	Aswan allin yachachiqkunatam munaniku.	entailment
+quy	Tecnología allin imapaq kaspapas, akchipaq kallpaynin hinatam rirachiwanchik	tecnologia nisqam llapa yachapakuykuna qamutasqaykuta utqayninta masiarun mana wiñaypaq qawarisqaykuta	neutral
+quy	awa, chayna pakaykusqallam karqa	ancha akllasqallam karqa	entailment
+quy	Kamasniqlla, IRT nisqapi huk masi teléfono nisqanta sullunchakunapaq qayanqa	teléfono nisqanta qullqita qunmanchu	entailment
+quy	Llapa mikuyninmanta , llapa sachakunamanta chaynallataq zoologico uywakuna waqaychasqanmanta qullqichay	Llapa uywakuna waqaychasqanmanta qullqichay refugiopi	contradiction
+quy	oh, Snake Rivermi karqa, oh Snake River achka paypi amaruwan	Snake Riverqa quntacha amaruwanmi kachkan	entailment
+quy	Yuqar suytu puyukuna tukuy nastin hanay pachapi chiqirichisqa	Qanam pacham chuya anqas llimpiyuq kaypi chaypi puyuyuq.	entailment
+quy	CIA nisqam película nisqata uraykachirqa hinaspam Naciones Unidasman paqarintanta aparurqa	CIA nisqam paykunapaq filmaciónkunata churarurqa	contradiction
+quy	Hina chaynallapas chunka, iskay chunka watapas kanmankum, sutillapas kayqa pinqaychusmi	Unallay unaysu kaqa sutillapas uma muyuchusmi	entailment
+quy	Virgiaman tukuq qipa contrato quykusqaymun yachasqayki hina, Gratin fraudeta ruraspa llallisqanmanta amaña pirqay llamkayta rurananpaq utaq chay niraqmanta demantapi kachkan	Llapachan contratokunam mana sasachakuywan firmasqa karun	contradiction
+quy	Ñuqapaq ruranayki kachkan.	Mayqin yanapaytapas manam munanichu.	contradiction
+quy	Chaymi ripukuqta uyarirqani, chayraykum ruranaykunata tukupachkani.	Kunan achikyaqta llamkaykuna quwasqantam rurachkani.	neutral
+quy	Watukuqkunaqa Hilbert Conservatoriopi achka kusikuykunata qawankuman.	Chayaqkunam Conservatorio de Hilbertpim achkaniraq espectaculo nisqa qawayta atinqaku	entailment
+quy	Chay ukullapi karqa.	Ripunchá nirqaniku, ichaqa qiparukusqa.	neutral
+quy	¿Yachachiqkunachu icha taytamamakunachu …, nikchkanki?	Imatataq yachachiqkunamanta taytakunamanta nipayachkanki	neutral
+quy	Ari, huk Cooperativa de Créditonniy kanmi	Sapa kutin Cooperativa de Crétitonniyta watuni	neutral
+quy	Markawan riqsiykachiy icha ima ruranaykitachu nisunki, ima ruranaykitachu nisunki, ichaqa kikimantam llapanta ruranayki	Manachu imayna ruranata qalaycha nisunki	contradiction
+quy	An, na.. hinaspataq....pawayninmi yapakurun, yapakurun aswanta yapakurun extrajeroman chayanaykukama.	Astawan apuraw karqa.	entailment
+quy	Yaytayku sapa kutin ama uywa kasqanta ninanchikta kamachwarqaku.	Taytaykuqa criaturam kanku nirqa, mana uywachu.	neutral
+quy	Hukmanta aswan llamkayniymi kan	Kanmi llamkayniy	entailment
+quy	mmm…..iskay waranqa pichqa pachak runakunam karqa ñuqa kuskanchakuptiyqa, mmmm…	Sutillapas kuskanchakuruptiyqa huk iskay riqsisqay runañachusmi karqa	neutral
+quy	Ichaqa yachanin wakinkunapiqa, achka llaqtachakunapiqa, manam ancha allinchu kanku	Manam ancha allinllu zonas rurales nisqa llaqtachakunapiqa kanku	entailment
+quy	Hamutayniyqa chiqaqtaqa allinchusmi kanqa chaymantam ruranchik, niytaqa muna llapan runa qawarichiwaqninchiq representante nisqataqa huktaqa qinananchik	Sutillapas manam allinchu chay riqsichiwananchik representante nisqa huk qinayqa allinchuqaya kanqa, chaynaqa manam huktaqa qinachwanpaschu	contradiction
+quy	Chay raykum mana Universidadpi graduakurqanichu, manam haykapipas, manam kaykapipas liyinay librukunata liyirqanichu.	Matrículawanñam Universidadta tukurqani.	contradiction
+quy	Civic nisqapa qullqinkuna wasi tukusqamantam yaykumun, programakunawan talleres nisqa yachachiykunamanta, instalación, fundaciónkuna, patrocinadores corporativokuna hinataq sapakama yanapakuna qammanta hina hamuqkunawan	Manam pipas imatapas quwarqakuchu, ichaqa achkam qullqiyku kachka, chayqa ancha llinmi	contradiction
+quy	Hina, yaw, quqarikuruptinqa hina quqarikuspanqa, «güis» nisqata ruranman chay umayki qurqunman hinaraq.	Oleada electricidad kaptinqa, anchunpi pipas kaqtam kirirunman.	neutral
+quy	Chutaptiy, qurquy qallariynapaq qatanta qurquptin, aeronave pawachkaptin ichuqninpi wichirusqanta rikuchin.	Aviónpi wichiruq instrumentokuna karqa.	entailment
+quy	Watukuqkunaqa Hilbert Conservatoriopi achka kusikuykunata qawankuman.	Chayaqkunaqa Conservatorio de Hilbertpiqa West Side Story qawayllatam atinqaku	contradiction
+quy	Waw, Teatropi qawaqchusmi riyman hinaspa cena nisqapaq rimanakamuyman chaypi tiyaykuspa chaymanta rimanaykupaq	Espectáculo nisqa tukuyninmanta cena nisqa mikuq richwanchu	entailment
+quy	Uh-huh, allinllachu, tupananchikkama	!tupananchikkama	entailment
+quy	Oh, ari, ñuqaqa ninay karqa, kayta, pawasaq, chay na, sutillapas chaychusmi narqa, huk kaq qawakuqkuna tarirunan karqa, chay naya	I'll Fly Awayta ñuqaqa akllaruyman	entailment
+quy	Sapa punchaw llamkayqa allinman chayay llapa huñu runakunapa yanapakuyninwanmi, wakinpiqa qampa huñuykikuna hinakunawan	Allin rimanakuyman chayanapaq rurayqa manam qampa llamkaynikiwanchu apakurqa	contradiction
+quy	Actores itenirantes hina waranqa isqun pachak qanchis chunka kimsayuq watata qallariq Gary, Elkhart hinataq Terre Hautepi yachapakuqkunapaq actuay qallariqmi, kunan programa educativo IRT nisqa kunan punchaw	Wakin actorkunam Indiana nisqata waranqa isqun pachak qanchis chunka kimsayuq watata purirqaku	entailment
+quy	Manataqmi qawanipaschu imaynata ñuqa ruranayta suyasqanta.	Manam yachanichu imaynanpi ñuqa llinpiy tukunay suyasqanta.	neutral
+quy	Manañam ima horastapas nirqachu, hinaspam pisipasqata richiwarqa, hinaqa manam imaypi kananta yachaspaychu.	Espectaculo imaynanpipas mana qawaykunaymanta llakikurqani mana imay oras kasqanta yachaspa.	neutral
+quy	Payqa manam riyta atirqachu.	Manam paytaqa yaykuchiqarkuchu.	entailment
+quy	CIA nisqam película nisqata uraykachirqa hinaspam Naciones Unidasman paqarintanta aparurqa	CIA nisqam ONU nisqaman películata aparamurqa	entailment
+quy	Manam pastel nisqawan ima rurayta atirqanichu	Manam haykappipas mana hamutayniyuqa pastel nisqapaqqa qiparquymanchu	contradiction
+quy	Manañam ima horastapas nirqachu, hinaspam pisipasqata richiwarqa, hinaqa manam imaypi kananta yachaspaychu.	Manam imamantaps manchakusqachu karqani.	contradiction
+quy	Chaypim Rudolph Andersonta churarqaniku, kimsa U2 kuska pawasqanpi.	Rudolph Andersonta mana maypipas tariyta atiwaqchu, chaymi U2 nisqalla kapuwarqaku.	contradiction
+quy	Chaymantapas huk kaqtam yaqapas qawayman, oh, sutillapas huk V suqta nisqamanta	Sutillapas V6 nisqachusmi allin ruray	neutral
+quy	Ari hinaqa churaykusun hinalla ay, na hina, mana yachasqan paypaq karqa chaymi karqa	cumpleañonpiqa manam imatapas ruraranikuchu	contradiction
+quy	¿Imanasqataq mana wilasurankichu?	Manachusmi imapas kanchu mana pay nisunaykipaq.	contradiction
+quy	Chaymantapas huk kaqtam yaqapas qawayman, oh, sutillapas huk V suqta nisqamanta	V6 qawaytam yuyaymanachkani	entailment
+quy	Young library hinataq Love is Reading Together Week masin hinakunapa programakuna maqtakunata qawarin hinaspa wiñariyninmanta likana kaq mañata yacharichin	Kanmi Programa nisqakuna warmakunata iskaykaman punchawkunapi likana wasiman rinanpaq kallpachaq	neutral
+quy	Hatun mamayqa 1910 watapim paqarirqa, uchuy warmacham karqa.	Hatun mamayqa 1 punchaw julio killapi 1910 watapim paqarirqa.	neutral
+quy	Kay atracción botánica 3,3 acres sayayniyuqmi ancha allin sumaq jardinkunawan sumaq qawakun, sachakunamanta informaciónwan huk sacha sachawan munay llinpisqa kan	Kay kaqa yunkapi waytakunawan sumaq sachakunawan quntam kachkan	neutral
+quy	Oh, ari, ñuqaqa ninay karqa, kayta, pawasaq, chay na, sutillapas chaychusmi narqa, huk kaq qawakuqkuna tarirunan karqa, chay naya	I'll Fly Awaymi munasqay peliculay chaytam punchawkunapi qawani	neutral
+quy	Kunan wata kaqpiwan wata hamuqman, Escuela de derecho pisiyachisqanta quqarinan apropiación estatal kasqanman hina hinataq achkanpi chaninkuna kaqmanta 400 000 $ tawa pachak waranqa huñuman llapan haypaqwan	facultad de derecho programa nisqanmi ñawparirqa qullqi kasqan pisiyanampaq	neutral
+quy	Ari, huk inalámbrico nisqachusmi kapusuranki	Kanmantaqmi karqa huk cablewan yaykuq	neutral
+quy	oh, allinmi, ñuqapa ordenadorniymi kachkan, iskay PC nisqam wasipi kapuwanku ichaqa manam mayqipas ñuqapachu, manataqmi mayqinpas llamkayniywanqa tupanachisqachu kachkan	wasiypim huk HP Apple ordenador kapuwachkan	neutral
+quy	ari, hina chaynapas, kutimurani kikiyman, qillqanayman	tiyanaymanmi kutirqani	entailment
+quy	Sapa punchaw paqariq sumaq rimanakuykunaqa Runa huñupa ruwasqankunawan kawsarisqanraykum.	Huñu runakunam runakuna artepi kaqkuna tariyta yanapan llapa runakunata	neutral
+quy	Mana gatillonwanqa tuqyanmanchu.	Gatillom tuqyachin.	entailment
+quy	Hukunawanmi rurarqaniku wakin masiykuwanmi Dia de la Madre punchaw hinata chaypim chullanakuspa yaykurqaku	Wakin masiykuna Dia de la Madre nisqata raymicharqaku	entailment
+quy	Anchataqa kusirichiwan IRT nisqam yachaqkunapaq teatromanata yachaykunata huklaw tiqsi muyu suyukunapi qun	IRT nisqaqa fútbol nisqawanmi kuskanchakusqa kachkan	contradiction
+quy	Nueva Yorkwanmi qallarisqaku kay primo nisqan ayllunkuna watunankupaq hinaspa qiparqunku mana imayna kutiyta atimuptinku, hinaptinmi paykunawan qiparqurqa.	Brooklynpi ayllunkunawan qiparurqa.	neutral
+quy	kunan huk ima allinmi pasarkuwan. Manam ancha umay manarqanichu huk hatun empresakunamanta yananpiqa yachachiykunamantapas paganmankum	Manam mayqin compañiapas yachay chaninchaypiqa yanapakunchu, kikinkumanta hatun uchuy kasqanmantapas.	contradiction
+quy	1999 watapi Indianapolis Museo de Arte nisqata yanapamusqaykimanta anchata riqsikuykiku.	Museo nisqata yanapamusqaykiwan ancha kusisqa kachkaniku.	entailment
+quy	Ichaqa, base de datospi yanapakuna, revistakunapa, Jurídicos maytukuna chanin yapakusqan hukmansun niwachkanchik kunan kaqlla maytukunata churayarachiymi presupuesto kaqta masyarunña	Kunan kaq colecciones nisqa churaypa chaninmi watapi kimsa ñiqi presupuesto nisqapa chanillan kachkan	contradiction
+quy	eh, uh, arí, chaynam wakpi huk letrero kapusuchkanki suwa chayamuspa Linea telefónónica nisqata kuchuptin kay sistema de alarmakunam kachkan niq	compañía de alarmas nisqam ventanakunapi qinanaykipaq nisunki	neutral
+quy	Ichaqa, hukpiqa, achka mapachestam, zarigueyas, tukuy niraq tortugastam mikurqaniku	tukuy niraq uywakuna chay tortuga, mapache, comadreja nisqatam mikurqani	entailment
+quy	Kaqninpiqa, Huk fundaciónpa ejecutivo nisqa, rantikuna umalliqkuna, yachay sapakuna, profesionales ñawpaqman puririchiq kikillankumanta mana qullqipaq sumaq yachay sapa kaqkunaman huñukunki	Kay huñuqa ancha chaniyuq runaku quntawanmi kachkan	entailment
+quy	kawsaykunapim hatuschakunki	Ukupi hatusman rirqarkichu	contradiction
+quy	Sutikunata, maypi kasqanta, teléfonopa yupayninta chaynallataq escuelapa mana kaqninkumanta willakuytam minkakuqkuna chaskinqaku.	Riqkunaqa llapa riqsisqa clientekunapa sutillantam yachanmanku, manam maypi yachasqantaqa	contradiction
+quy	Allinpaqmi kanan huk Fondo privado asociación hinataq kikin Universidadpa Fondon kay facultad de Derecho aswanta sayayninpi wiñananpaq chaynallataq riqsichikuspa chaninchakunanpaq	Facultad de Derecho nisqata chaninchanku, bill Gateswan Fundación Melinda nisqam	neutral
+quy	Uh- huh oh payqa kusam payqa naykim yachankiñam huk personaje, payqa piwanpas tiyanqam, payqa pukllanqam piwanpas	Payqa mana riqsisqanwan tiyaytaqa manam munanchu	contradiction
+quy	Ajá, kusisqachu, llakisqachu cadenas de televisión nisqapa willakuypi llamkayninwan kachkanki	Manachusmi red willakuykunata qawankuchu.	contradiction
+quy	Hukmanta aswan llamkayniymi kan	Kanmi huk llamkayniymi llapan pachapim llamkani	neutral
+quy	Ari, yaqapas huk, iskay pachapim munasqayta tariruni	Unay pachasupim tarirurqani	entailment
+quy	Imaynanpipas puka escudo Ejercito de salvación rimayta atispaqa, Imaynatam huk runa diabaetesniyuq insolinada nisqa munaq yanapasqaykuta willasunkiman	Ejercito de salvación nisqaqa manam medicas nisqa munaqtaqa yanapanchu	contradiction
+quy	Kayna pisilla ima ruraykuna anchata rurasqayta muyurichin.	Qesoichiytam munachkarqani.	entailment
+quy	Texasmantachu hamunki imaynayá, ichapasya mana yachanichu, amam huk sutikunata ruranmankuchu, ichaqa sutillapas armakuna controlasqanqa mana allin qawasqachusmi kachkan, hamutayman	Texaspiqa sutillapas arma controlayqa manachusmi hinachu apakun	entailment
+quy	Qawayyá, hamutaykuy.	Sapa kutim hamutani	neutral
+quy	McCoy fundación de la empresata 10 000 $. Yanapanatapaq qayakamuchkan	Mc Coy aswan achka qullqitam munan, ichaqa kunanllaqa 10 000 $ mañakamuchkan	neutral
+quy	Aripuni, chayqa crimen nisqataqa yaparunmanmi, yachankiñam, runaqa yaykun hinaspa televisiónta suwasunki hinaspa rantikun imaynanpi aswan llamkayta atinkuchu, yachankiñam	Kayqa crimen nisqakunataqa asllarachinqam	contradiction
+quy	Manaraq mayo huk punchaw killa qallarichkantinmi waranqa isqun pachak isqun chunka hukniyuqmanta churamuqkunapa menbresía nisqata kaqllamanta rurananchik	Wakin huñupi kaqkunam kaqllamanta huktapiwan ruranmanku	entailment
+quy	Teatropa qawanpiqa, IRT nisqapi artistakunaqa warmakunawan llamkaqmi aula nisqataraq rinku hinaspan teatro kaqta aswanta riqsirichinku	IRT nisqapi artistakunaqa yachay wasipim warmakunata yanapan	entailment
+quy	Paykunaqa tunpallatapas yaykusqaykita yachanñam, hinaspankum manaña chaymanta aswantaqa rantinkuñachu	Paykunaqa yachachkankum 2903 $ soles nisqata killapi haypasqakuta	neutral
+quy	Chutaptiy, qurquy qallariynapaq qatanta qurquptin, aeronave pawachkaptin ichuqninpi wichirusqanta rikuchin.	Llapan aviónpa instrumento nisqankuna allin kachkantaq.	contradiction
+quy	Arí, yanaypiwan ñuqapam suqta kapuwachkanku	Qusaywan ñuqapam llapachanñam suqta wawayku kachkan	neutral
+quy	eh imaynatataq Colorado Springs periodico nisqakuna llaqtapi willakuykunata yacharichinku	Ima ninkitaq periodico nisqakunata imayna llaqtapi willakuykuna qillqasqanmanta	entailment
+quy	achkapaqqa, filantropía nisqaqa apukunapa rurayninkuwan riqsichikuynin hinallaman	Wakin runakunaqa yuyaymanata qullqi yanapaqa quyqa apu runakunallapaq kasqanta	entailment
+quy	Suyaniqa kay sasachakuyraykuya aswan añanchaqa kachun	Kay sasachakuyqa ichaya huk kallpachakuyta qusunaykitam	entailment
+quy	Kunan willakuysaq taytaymantam chaynallataq llapa ñawray usukuna Estados Unidosman ripukuptin kaqmantam.	Manam tayta mamaymanta rimayta munanichu.	contradiction
+quy	Huq iskaytam tapukurqaku, kutichirqani, hinaptinmi niwarqaku: qipikiyta quqariy hinaspa apurawtan chayamuspayki rinanayki kaqman ripuy.	Maleta nisqa hapinayta niwarqaku.	entailment
+quy	Sutikunata, maypi kasqanta, teléfonopa yupayninta chaynallataq escuelapa mana kaqninkumanta willakuytam minkakuqkuna chaskinqaku.	Riqkunaqa pikuna imayna kasqantam riqsinqaku hinataq ñawpammanta información kaqkunata	entailment
+quy	Kay wasikunapa chaninqa aswan ancha ancha chaniyuqmi llapa rantiqniyku kaymanta payllayninkuqa, chaymi qullqi quwasnkunamanta hinataq sapakama qullqiwan yanapa quwasqanmanta chanin haykapanalla kananpaq kaymanta atipakuniku	Wasikunaqa yachasqamanta aswan qullqipaqmi karun.	neutral
+quy	Chayqa huk activo estadom, manam huk nachu, yachankiñam, llapan sunquykiwanmi ukupi kachkawaq hinaspa allin rurayta suyawaq, manam chaytaqa iñipanichu	Sutillapas allin ruranaykipaqa chayllapichusmi llamkanayki	entailment
+quy	Chayqa hukllam hina, yaw, yaqapas chunka suqtayuq hinachus carrera profesionalniypi especiales ruraykunapi karqani.	Especiales nisqa ruraykunallam munay llamkayniy karqa.	neutral
+quy	Mana gatillonwanqa tuqyanmanchu.	Manam kanchu gatillon disparanapaq.	contradiction
+quy	Ari, maypi yachanapaqa kanmi huk mana ancha imayna niyta atiymanchu	Maypi yachanapaq kaptinqa huk chiqaq sumaq musquymi	neutral
+quy	Manchakusqaymanta sutinqa Andersonchusmi karqa, huk maqta independiente contra reaganman huk tikethman kallparuqchusmi karqa	Karqataqmi huk independiente qullqina kaykunapas allinmi karqa	neutral
+quy	Hukunawanmi rurarqaniku wakin masiykuwanmi Dia de la Madre punchaw hinata chaypim chullanakuspa yaykurqaku	Dia de la Madre nisqapa Brunch nisqa qaywanankupaqmi masikuna hukllawanakurqa	neutral
+quy	chayqa yananpiqa tío nisqapa quchapi chukllanpim tarikuniku hinaspan chaypi paris iskay paris punchawkuna qipaniku	Minnesotapi chukllaman hakuchik	neutral
+quy	U2 ima kasqantam mana yacharqanikuchu, manataqmi pipas U2 kasqanta yacharqachu.	¡U2 kasqatam allinta yacharqaniku !	contradiction
+quy	Ichaqa mana, sapa kutim, yachankiñam, waliman,wali utaq trajewan vestidoyuqtam kaypi rikunki, chaynaqa allinmi wasipi llamkay kaymanqa ropa interiorpipas riymanmi	vestido nisqawanqa qinakuniraqmi wasipi llamkaspa allin sumaqmi kani	contradiction
+quy	Ñuqaqa sapaqtam yuyaymanani.	Pantachkankichusmi, kutichiyninqa arí niymi, manam, mana niychu.	neutral
+quy	Manam pakanpalla kayta munarqakuchu	Chayraq suwakuy kasqanmantam harkasqa kasqaku	neutral
+quy	Arí, achkallañam imankunapas karqa hina chay pachallapi aswan yaqapas pakipakururqa	Manam ima kaqninpas pakikurqachu	contradiction
+quy	Haykapipas rikurqanichu, hinaqa imaynanpiyá, imaynanpipas ima rurasqay yachayta munanpaschusmi chaynataq huk kaqkunamanta	Mana rikurqanichu.	entailment
+quy	Hatun mamayqa 1910 watapim paqarirqa, uchuy warmacham karqa.	Hatun mamayqa 1899 watapim paqarirqa.	contradiction
+quy	Sutiki utaq huk qillqa akllasqayki huk placapi churasqa kanqa	Placapiqa sutikita utaq qillqa munasqaykitan churakunqa.	entailment
+quy	Chaynama yaqapas, mmm... kusa tipisqa karqani.	Chaynatamá kanpas tiqusqata kachaykuwarqaku.	contradiction
+quy	Anqas qusni alfombra nisqam Umalliqpa sello nisqata blasonninta qawachichkan tukuy niraqta huk ruyrupa ukunpi pichqa chunka yuraq quyllurwan	Alfombraqa suqta chakipa sayayninmi	neutral
+quy	Chaypim Rudolph Andersonta churarqaniku, kimsa U2 kuska pawasqanpi.	Rudolph Anderson U2 nisqawan kusallata yanapaykuwanku.	neutral
+quy	Chayqa hukllam hina, yaw, yaqapas chunka suqtayuq hinachus carrera profesionalniypi especiales ruraykunapi karqani.	Manam haykapipas llamkayniy karqachu.	contradiction
+quy	chiqaqtaqa chiqninim atipachikuyta, ichaqa chaychusmi huk sasachakuy kanan huk patio nisqa kananrayku	Manam atipachikuyta munanichu, ichaqa chayqa jardinniki kaptinqa kanmanmi	entailment
+quy	Manayá amachaq abogadollachu, aswanqa oficiales de policía, jueces chaynallataq llapan profesión jurídica llamkaqkunapas	Sistema legalpi kaqwanqa kay kaqkunaqa imananchuqa	contradiction
+quy	Ari, allillanqa Texaspi huk pistola apayqa legalchuqaya, manam allinchu, ichaqa wasikipiqa kachiwaqmi	Texaspiqa manam wasiki qawapiqa pistolataqa apawaqchu	entailment
+quy	Urban vietnan nisqaman ripukuptinmi pisi pachallaraq kasarakusqayku nirqa JoAnn.	JoAnnwan, Urban chayraq pichqa chunka wata kasarakusqankuta raymicharunku Pay Vietnamman ripukuptin	contradiction
+quy	Hinaspa, yaw, ayllunta watukurqakuñachu yuraq niraq kayta manasqankurayku.	Manañam ayllunta watumuqkuñachu.	entailment
+quy	Yachankiñataq, payqa karqa, llapan niraqpipas, platancionniyoq rumana churin hina kara achka chakrayuq runapa churin kaspa.	Taytanqa iskay waranqa acre nisqa sayay chakrayuq kasqa.	neutral
+quy	Ari, allillanqa Texaspi huk pistola apayqa legalchuqaya, manam allinchu, ichaqa wasikipiqa kachiwaqmi	Texaspiqa may munasqaykipipas maki armataqa apakachawaqmi	contradiction
+quy	Ancha allinmi qammanta kay puchawkuna tukuyllapiña	Iskayraqmi campaña fondo quqarinaykupaq ruranayku kachkan	contradiction
+quy	Chaymi paya hatarispa cobertisopa gradanta uraykamurqa. Carreteraman purichkarqa hinaspa chaypi sayanpa qiparqun.	Wasimanta paya karunchakururqa.	entailment
+quy	Tukuy niraq, tukuy niraq paracaidaskuna huk pawaq pichinkupi, kaymi, kimsakama velocidad del sonidopa, yaqapas 22 000 milla nisqan urakama.	10 000 millas uraskallata illan.	contradiction
+quy	oh, allinmi, ñuqapa ordenadorniymi kachkan, iskay PC nisqam wasipi kapuwanku ichaqa manam mayqipas ñuqapachu, manataqmi mayqinpas llamkayniywanqa tupanachisqachu kachkan	wasiypim iskay ordenador kachkan	entailment
+quy	Hinaptinmi pay nirqa: Mamay wasipim kachkani.	Mamanta qayamurqa iskuyla karru saqiykuchkaptin.	neutral
+quy	um, tayta llapan kaqninta quytinqa mana imapas mana allinqa kanchu a uh a uh hun runa hina uh qam hina	Allinmi huk taytakuna achka suñay quynin	entailment
+quy	Huk kasqanpim churakuyta yachana	huk hatipasqanta hatipayta yachay	entailment
+quy	Ari, huk huñu allin akllapasqa	Huñuqa achka niraq qawariykunamanta qawariyta maskan	contradiction
+quy	Ari, mana allinta ruraptiyqa, ñawpaq watata imataq karqa diciembre killata, utaq hayka votowantaq utaq huk iskay votokunachu karqa	99 % margen nisqata llallirqusqa.	contradiction
+quy	Rurasqa teatro profesionalqa hun yupitam warmakunapaq Bechy, Stephanie, Marcus, Emily hinataq hun yachay masinkuna estado de indiapi kaqpaq saqirqun	Ichaqa producciones teatralesta profesionalkuna rurasqanta hina rurayta munaymanku, ichaqa manam kay Indianapi qullqiyku kanchu	contradiction
+quy	Kusa, VCR nisqan kapuwachkan chaytam iskay kutikaman mana allinchu kaptin kutichirqani chaywanpas manaraq allintachu imagenkunata qawachichkaspa	Huk videograbadoraymi hinallaraq llamkay ruranapaq kapuwachkan	entailment
+quy	Mana imapaq risqantapas ni imatapas yacharqachu, hinaspa Washingtonpi kaqta nisqanku kanchapi willanan karqa.	Manam haykapipas Washingtonpiqa karqanichu, chaymi mayman riynay niykuwantinku maskaspa chinkakurqani.	neutral
+quy	Yanapa qunaykimanta yacharichinaykupaq, mana hina kaspayki Kathy Dannels, Directora de Desarrollo nisqawan rimaykuy chaypaq 924-6770 ext, qayaykuy	Kathy Dannels apurawmanmi qayakuynikita chaskimun	neutral
+quy	Waranqa isqun pachak isqun chunka iskayniyuqmana yachapakuqkuna tasan 12 % chunka iskayniyuqta yapakurun, kayqa qawarichiwanchik chanin yapakurusqantam	Matriculaqa watan watanmi yapakuchkanqa	neutral
+quy	Paracaídas, chalecos salvavidastapas qispichiypiwan huklaw muyuman despegar nisqapi llamkayniyqa karqa.	Manam llamkarqanichu, chaymi wasipi llapan cajata waqaycharqani.	contradiction
+quy	Ichaya payqa wakinmanpas willaykurqa, ñuqaqa manam anchata chay pacha uyarichkarqanichu.	Payqa huk kaqpiwanmi chaypi rimachkarqa.	neutral
+quy	Chaynapunim, chaypim ima rayku risqaymanta tapuwarqaku.	Ima rayku chayman risqaymanta tapuwarqaku.	entailment
+quy	mmm…., yananpiqa munaymi lluqsiy hinataq huk ensalada mikuy	Yananpiqa wasipa qawan terrazapim ensalada vegetarianata mikuyta munani	neutral
+quy	mmm…..iskay waranqa pichqa pachak runakunam karqa ñuqa kuskanchakuptiyqa, mmmm…	Kaykunaman kuskanchakuruptiyqa yaqapas iskay waranqa pichqa pachak runañam hukkupi kasqa	entailment
+quy	Tukuq qipa domingo, chunka pusaqniyuq junio killata pararamurqa hinaspam ñawparimay, tusukuy, ñawpa usu raymi , Keepers of the Lore/ Joseph Campbell kunan wata kaqman riqta asllayarqachirqa	Manam kimsa watapi para chayamurqachu	contradiction
+quy	An, na.. hinaspataq....pawayninmi yapakurun, yapakurun aswanta yapakurun extrajeroman chayanaykukama.	Mana tukuriq hinam karqa.	contradiction
+quy	Willaykuniñam, piñasqa kasqaytam yachachiyta munarqani llapan willakuykuna mana kaptin.	Aswan informekunatam mañarqani imapas llamkaykunawan ruranaypaq.	neutral
+quy	hina uf, chawpimanpimanmi ripukunku uf, huk uf nisqam karu, hina chaynam Augustapi kachkan, chay hatun ñan Broad Street sutiyuq, chiqaqtaqa kay ñanllam chawpi kaqpi hatunsu	achka restaurante, Bar nisqamanmi rirurqaku	neutral
+quy	Tukuy niraq, tukuy niraq paracaidaskuna huk pawaq pichinkupi, kaymi, kimsakama velocidad del sonidopa, yaqapas 22 000 milla nisqan urakama.	Jetqa iskay 20 000 urasta pawan.	neutral
+quy	Hina Instituto nisqaman llapa imapas suñamusqan hinam, llapan 100 % churamusqankum hatun yachaykuna maskanapaq kanqa	Sapa huk penique nisqa qusqaykim cancer unquymanta hatipanapaq rin	neutral
+quy	Ichaqa Theatre Civicpa yachayninkunatawan artistakunapa kallpachakuynin kaqllamanta kunan wata yanapawanaykikuta suyani	Teatro Civicoqa kunan wataqa 1 $ huk waranqa waranqantin huñuta kunan munan	neutral
+quy	awa, chayna pakaykusqallam karqa	llapan runa yachanan información nisqam karqa	contradiction
+quy	Chutaptiy, qurquy qallariynapaq qatanta qurquptin, aeronave pawachkaptin ichuqninpi wichirusqanta rikuchin.	Sasam urquynin karqa.	neutral
+quy	Mana ancha qullqiyuq kasqanraykum kunan ancha munasqayta mana qukuymanchu	Manam ancha kunallanqa qullqiy kanchu	entailment
+quy	Payqa na hinam, ichaqa kaytam qawanayki, kayta qaway, paymi hukta hukta kimsata ordenadorpi qawanaypaq quwan	Payqa qillqanapim carpetakuna kanqa niwarqa	neutral
+quy	kunan huk ima allinmi pasarkuwan. Manam ancha umay manarqanichu huk hatun empresakunamanta yananpiqa yachachiykunamantapas paganmankum	Allinpunichusmi kanman huk hatu hatun empresapaq Universidadpaq qullqita quwaptin llamkay.	neutral
+quy	Paracaídas, chalecos salvavidastapas qispichiypiwan huklaw muyuman despegar nisqapi llamkayniyqa karqa.	Japónman Cajakunata apachirqani.	neutral
+quy	eh imaynatataq Colorado Springs periodico nisqakuna llaqtapi willakuykunata yacharichinku	Imaynatataq hamutanki suyupi periodico nisqamantawan cobertura mundial nisqanmantapiwan	contradiction
+quy	Llapa mikuyninmanta , llapa sachakunamanta chaynallataq zoologico uywakuna waqaychasqanmanta qullqichay	zoológicopi llapa uywakunam 100 000 $ chaniyuqwanmi qullqichakunku sapa wata waqaychanankupaq chaynallataq mikuchinankupaq.	neutral
+quy	Ari, huk huñu allin akllapasqa	Huñukunaqa kaymanta qawariytam munachkan	entailment
+quy	Yaqapas hun orasmanta qayamusayki , ninmi	Rimanakuyta tukurqanku nirqam.	contradiction
+quy	Ari, ari, ari, yachankiñam manam qalaycha ima hukuwanmanchu corporación financiada kapunanri	Corporación financiasqanqa yachayqa qalaychapaqmi piñarachiwanman	contradiction
+quy	Manam allintachu intindirqa.	Imamanta rimachkasqaykumanta payqa yacharqapunim,	contradiction
+quy	Ñuqapaq ruranayki kachkan.	Rurasqataña munasqay kapuwachkan.	entailment
+quy	Hinallataqmi, kunan punchaw 6 hora 30 minuto pachapi wasiman chayayta tukuramuni, chaymi punchawniy karqa.	Almuerzo pachatam wasiman kutiyta qallariramuni hinaspa llapan punchaw mana imatapas ruranichu.	contradiction
+quy	achkapaqqa, filantropía nisqaqa apukunapa rurayninkuwan riqsichikuynin hinallaman	Wakin runakunaqa yuyaymanataku ancha wakcha qullqi quypaq kasqankuta, chayna qayakuyniykuta mana kasuwankuchu	neutral
+quy	Goodwillman yanapaykiqa profesionalkunamanmi achka yachayta qunqa chaynataq Indianapi wakcha runakunam yanapanapaqmi llamkayta tarichinqa	Indianapa chawpinpi runakunaqa manam llamkayninpi yachachisqachu kanku	contradiction
+quy	Suñakuyniqa ancha allinmi pusaq chunka pichqayuq ukuyku raymichanaykupaq	Kaytaqa yaqapas pusaq chunka watañam rurachkaniku	entailment
+quy	The firm nisqata likarqankichu	Qillqanta likarqankichu	entailment
+quy	Manaraq mayo huk punchaw killa qallarichkantinmi waranqa isqun pachak isqun chunka hukniyuqmanta churamuqkunapa menbresía nisqata kaqllamanta rurananchik	waranqa pichqa pachak huñupi kaqpatam kaqllamanta membresía nisqata kutichiymanku	neutral
+quy	Kaykunam huk yachaykunata mana yachasqata apanman aswan yachapakuqkunpa yachayninpaq chaynallataq yachachiqkuna chaymuqkunata hinataq yachapakuqkuna estadopi tarikuqkunata campus nisqaman qayaptinku	Campusman chayamuyninkum yachapakuqkunata imayna Universidad ukupi kawsayta qawarichin	neutral
+quy	Haykapipas rikurqanichu, hinaqa imaynanpiyá, imaynanpipas ima rurasqay yachayta munanpaschusmi chaynataq huk kaqkunamanta	Llapantam rikurqani!	contradiction
+quy	Hinaptinmi pay nirqa: Mamay wasipim kachkani.	Payqa manam imatapas nirqachu	contradiction
+quy	Suyaniqa kay sasachakuyraykuya aswan añanchaqa kachun	Cancer de Lantancia atipanapaqmi tukuy ima ruranaykita yachaniku	neutral
+quy	Imaynayá, allinmi, qawan rimaymi ancha munaysu allin tutaya kapusunki	Yachaniñachusmi imaynanpi mana allin tarikusqayta, ichaqa manam niyta munaykichu	neutral
+quy	Qullqitam munaniku akllaspa allinta yachachiqkunata yachachinaykupaq	Pachak musuq allin yachachiqkunatam minkayta munaniku	neutral
+quy	Ari, yuyaylla yuyaymanani allinta imata mana yachanichu, chiqaqtaqa manam drogamanta yachay ruraypiqa qurquniraqchu uh heterosexualmi kani manam imaynanpipas droga upyayta munaymanchu	Qalaychapaqmi chay drogamanta prueba qurqunanta mana munanichu, manam chaymantaqa iskayrayaymanchu	contradiction
+quy	Indiapa asocianción deltalpa allin umalliqninmi ñawpaq suyupi dental estatal huñuta riqsichinqa escuela dentalmanta sullunchakuy haypasqanmanta	Indianaman ñawpaq dental estatal huñu huk escuela dentalwan llamkaq	entailment
+quy	Filantropos l huñu masiykullawanmi imapatas allinta rurarqaniku	Mercados financieros imayna kasqanraykun filantrópicos huñu masiyku llapachan qullqi fondo nisqata qurquruku	contradiction
+quy	Kay wasikunapa chaninqa aswan ancha ancha chaniyuqmi llapa rantiqniyku kaymanta payllayninkuqa, chaymi qullqi quwasnkunamanta hinataq sapakama qullqiwan yanapa quwasqanmanta chanin haykapanalla kananpaq kaymanta atipakuniku	Wasikuna rurayqa mana qullqillapaqmi karqa.	contradiction
+quy	Suyaniqa kay sasachakuyraykuya aswan añanchaqa kachun	Yachanim kay sasachakuyqa huk churmichakuytam qusunki, ichaqa samaykunaykita suyaykuy	contradiction
+quy	Suñakuyniqa ancha allinmi pusaq chunka pichqayuq ukuyku raymichanaykupaq	Manam ancha ima hukuwankuchu suñakuynikiqa	contradiction
+quy	Zona culturalraqmi kachkarqa, suburbiokunataq aswan allin karqa.	Llapallachanmi aswan urbano karqa.	contradiction
+quy	Aripuni, chayqa crimen nisqataqa yaparunmanmi, yachankiñam, runaqa yaykun hinaspa televisiónta suwasunki hinaspa rantikun imaynanpi aswan llamkayta atinkuchu, yachankiñam	Chayqa crimen nisqakunatam yaparqachinman	entailment
+quy	mmm…., yananpiqa munaymi lluqsiy hinataq huk ensalada mikuy	Yananpiqa ensaladatam mikuytam munani	entailment
+quy	Manaraq mayo huk punchaw killa qallarichkantinmi waranqa isqun pachak isqun chunka hukniyuqmanta churamuqkunapa menbresía nisqata kaqllamanta rurananchik	Kaqllamanta kutichiytaqa uyaniku na kaptinllanmi …	contradiction
+quy	McCoy fundación de la empresata 10 000 $. Yanapanatapaq qayakamuchkan	McCoy 10 000 $.chunka waranqawan yanapanata mañakamuchkan	entailment
+quy	Chayqa huk activo estadom, manam huk nachu, yachankiñam, llapan sunquykiwanmi ukupi kachkawaq hinaspa allin rurayta suyawaq, manam chaytaqa iñipanichu	Manam imananchu chiqaqta mana imapas hukusuptikiqa	contradiction
+quy	Maennerchor huñu runakunam watapaq qullqi kaqman yanapa churayninkuwan ancha allinta escuelata yanaparqa	Maennerchor huñu runakunaqa Bill Gates nisqam kikillanmanta financiachkan	contradiction
+quy	Ichaqa tunpa hukman niraqtam paykunawan rurarurqaku	Wakin hinallan rurarun	contradiction
+quy	Kusa kunanqa kaymi suwakuna manchachinapaq allinsu, ruyqu ruwaq wasimasi chaynaqa wak wasi masipa huk ruyquysapa maña allqun kaqa chaypas huk manchachiqmi, yachankuñamiki wak allquqa anyarunmanmi	Suwakunaqa manam allqukunataqa munankuchu	entailment
+quy	Ichaqa tunpa hukman niraqtam paykunawan rurarurqaku	Tuntayninkunaqa rurayqa ancha allinmi karqa	neutral
+quy	Mana imapaq risqantapas ni imatapas yacharqachu, hinaspa Washingtonpi kaqta nisqanku kanchapi willanan karqa.	Manam imaptapas yacharqanichu Washintonman rispa ruranayta.	contradiction
+quy	Yaqapas chay jabon hina, chay huk ima tutapi telenovela hina	Telenovela hinam	entailment
+quy	Kusa, chaywanqa wakchata, sarunchasta, iqutam kachisaqku	Rurayniykum allin kananta qianchan	entailment
+quy	Manam allintachu intindirqa.	Payqa mana chay simita mana yachasqanwan mana ima nisqanta intindirqachu.	neutral
+quy	Hinanspa, ikutaylla pawachkaqta qawanaykupaq qayamuwarqaku.	Avióntas qawanayku karqa.	neutral
+quy	Huñupi kaqkunaqa huk descuento nisqatam society catalogos habitualespi hinataq rurukuna kaqkunapi chaskinku hinataq ñawpamanta hatus suñaykuna rantikuq wasi, achka runa kananpi tarikuqpi	Huñukunapi kaqkuna suñaykuna rantikuna wasipi rantispankun descuento nisqata chaskinku	entailment
+quy	Young library hinataq Love is Reading Together Week masin hinakunapa programakuna maqtakunata qawarin hinaspa wiñariyninmanta likana kaq mañata yacharichin	Kanmi programa nisqakuna warmakuna likana wasi munanankupaq	entailment
+quy	Ari, makiyki traje de presión nisqapa qawanpi rikukunqa, makyikiqa pichqa hatun sayayninmi kanman, huk descomprensión nisqa kaptinqa.	Killapi kaspa trajepa qawanpa kachiptiykiqa makiykim aswanta wiñarunman.	neutral
+quy	Ari, huk inalámbrico nisqachusmi kapusuranki	Allichay inalámbricochusmi kapusuqnikiqa karqa	entailment
+quy	Ima tapukuykuna icha ima mañakuypas kaptinqa kunan qayakamuy (924-5471) yupayman utaq qayakamuy Bob Lovell nisqa yupayman (274-0622).	Bob Lovell nisqaqa llapa tapukuykunatam kutichisunkichik.	entailment
+quy	Hinaptinmi pay nirqa: Mamay wasipim kachkani.	Wasinman chayasqanmanta mananta willarqa.	entailment
+quy	Kay kaqa wataman festival ruranaykutam sasachakuyman apaykurunman	Chunka wata raymichanaykupaqmi chaninchasqa kachkaniku, ima chay pacha kaptinpas	contradiction
+quy	Arí, sutillapas aswan tunpallachusmi consumoqa karqa, hinam qatiyman niytam munani hina depósito de gasolinawanmi hina kayman	Ancha mana chaniyuqmi ancha allinmi chay gas nisqapi allin kasqanrayku	entailment
+quy	Kayna pisilla ima ruraykuna anchata rurasqayta muyurichin.	Yachachiypaqmi poster nisqatam tukuyta munachkarqani chaymi musuq marcadoreskuna yanaparuwan.	neutral
+quy	Maennerchor huñu runakunam watapaq qullqi kaqman yanapa churayninkuwan ancha allinta escuelata yanaparqa	Maennerchor huñu runakunam qullqi yanapata chaskirqaku	entailment
+quy	Hinaptin, wasiman ripukunanpaq niykuptinquqa, payqa nirqa ¿Paywan wasiman risaq?	Manaraq maylawmanpas rinanta nirqaku.	contradiction
+quy	Arí, yanaypiwan ñuqapam suqta kapuwachkanku	Warmiywan ñuqapan suqta kapuwachkanku	entailment
+quy	Nueva Yorkwanmi qallarisqaku kay primo nisqan ayllunkuna watunankupaq hinaspa qiparqunku mana imayna kutiyta atimuptinku, hinaptinmi paykunawan qiparqurqa.	Payqa manam haykapipas ayllunta waturqachu.	contradiction
+quy	Suñakuyniqa ancha allinmi pusaq chunka pichqayuq ukuyku raymichanaykupaq	sapa suñay chaskisqayku manam qampa hina ancha chaniyuqchu	neutral
+quy	Uh- huh oh payqa kusam payqa naykim yachankiñam huk personaje, payqa piwanpas tiyanqam, payqa pukllanqam piwanpas	Payqa sapakutim póquerpi utaq blackjackpim pukllan, ichaqa yananpiqa scrabblepim yananpiqa pukllan	neutral
+quy	Ñuqa chaypi kachkaptiymi, Texas nisqapaqa pichqa chunka pichqayuq waranqalla kapurqa	Manam haykappips Texaspiqa karqanichu	contradiction
+quy	Huk allinchakuytaqa chaskiniku, chay illayta punim	Illaymi kaypi allinchakuy chaskiyniyku	entailment
+quy	Ñuqaykupa kaspaqa kayqa kay hanapi kaqa kanmi huk ruraleswan kuskanchakuyniykuqa manam allinchu	yananpiqa kaypiqa manam allin riqsinakuytaqa tariwaqchu	entailment
+quy	¿Yachachiqkunachu icha taytamamakunachu …, nikchkanki?	¿Yachakuqkunachu utaq yachachiq yanapaqkunachu rurarqunku, nikchkanki?	contradiction
+quy	Markawan riqsiykachiy icha ima ruranaykitachu nisunki, ima ruranaykitachu nisunki, ichaqa kikimantam llapanta ruranayki	Ima ruranayki nisusqaykimanta, hina ñawpaqman riy hinaspa kikimanta ruray	entailment
+quy	Virgiaman tukuq qipa contrato quykusqaymun yachasqayki hina, Gratin fraudeta ruraspa llallisqanmanta amaña pirqay llamkayta rurananpaq utaq chay niraqmanta demantapi kachkan	Contratokunaqa achka puka bandera nisqatam abogado nisqakunawan quqarirun	neutral
+quy	Hinaspa.. an .. kayta saqenaytaraq suyamuway.	Kay willakuykunata qatipasaq.	neutral
+quy	¿Musquyniykita ñuqaykupaman yapankichu?	Musquynikim ñuqaypa hinaña kanqa	entailment
+quy	Imataq hukuwan mana kaymanta imatapas yachaptiykiqa.	¡Sutillapas rimaynikitaqa usuqñachinaykim hinaspa aswanta yachpakunkiman!	contradiction
+quy	Zona culturalraqmi kachkarqa, suburbiokunataq aswan allin karqa.	Chaypiqa llapanchus hina zona residencial karqa.	entailment
+quy	hina chayna churakuywan yanapamuwachkanki hinaqa iskay chunka pichqayuq wataykuta chaninchawaq qullqi yanapa quynikita $25 iskay chunka pichqayuqman yapaykuspa	Ama hina kaspayki kunan wata qullqiwan yanapaynikita 25 $ iskay chunka pichqayuqkama yapaykuy	entailment
+quy	Aswan chunniqllam karqa, artemisa nisqam pistapi karqa.	Achka rapim sacha sachapi karqa.	entailment
+quy	Chaynaqa, imayna kaptinpas, kaykunam kimsan, yaw, U2 pilotokunam Washington presidente Kennedypa oficinanpi May generalwan kachkanku.	Kaymi general May kimsa U2 nisqa pilotokunawan presidente Kennedypa oficinanpi.	entailment
+quy	Arí, ichaqa manachusma ruraymankuchu manam estaciones locales nisqata tariymankuchu chay willakuykunatam uyariyta munaniku	Manam munanikuchu llaqta willakuykunatam munaniku hinaptinqa manataqmi estación local nisqaqa kanchu	entailment
+quy	Icha, mmm.. Chaynaqa achka niraq mikuyta munanki ¿eh?	Mana musuq mikuykunata malliwaqchu niqtataq uyariki	contradiction
+quy	Kay atracción botánica 3,3 acres sayayniyuqmi ancha allin sumaq jardinkunawan sumaq qawakun, sachakunamanta informaciónwan huk sacha sachawan munay llinpisqa kan	Kay kaqa huk llapan kaqniyuqmi kachkan hinaqa millapan kayqa	contradiction
+quy	manam chiqaqtaqa allinchu, eh	Manam allinchu	entailment

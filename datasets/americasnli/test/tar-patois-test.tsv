@@ -1,0 +1,201 @@
+language	premise	hypothesis	label
+tar	A ne níwi bilé mono i’néala, nalí ku ni u’línali, ke ga’bé pe echa ikíli, pe bemoléami bujái chu’alá echoná pacháka.	Pe bilépi taráli anácha nejé níwala chu’alá a’lí ra’íchali moáami, chijónsa ko ma kasiní.	neutral
+tar	Mi repá abionichi we nirú cámara mapu jonsa i’néniwa, echi pilotos i’néni acha a’lá sírowa re’pábo, mi re’pabé osánayosa makói mili, echi riká i’néka ku ro’iní, amí mapu o’ná simíba.	Echi abioni melami mapu pilotos ju, cámarachi neráa i’néliwa osá makóisa bilé mechá neráa.	neutral
+tar	Acha ta katúili chu anibóa.	¿Píri ta aní mapu rikáta anibóa?	entailment
+tar	Nejé mapu ne benéami ju facultad de derecho, ayena ne machí mapu mujé a newa níli chu rikáta síro.	Tási wési bené skuelchi derecho benéalachi.	contradiction
+tar	Kíni ranála ma ku ma’chínali Grand Rapids jonsa beneyá, a’lí jónsata jéka ku síki.	Tási rané bilé towí.	contradiction
+tar	Nibí, bachá natása.	Bilé namúti ju mapu kítira natásare.	entailment
+tar	Jípi ko wabé natikí weká olalíwa oselí libros anelíami mapu ju leyes osirúami, revistas, ajarécho osirúami si, wabé natikí jípi échi oselí mapure weká ralisúwaka a’lí wekanátaami neráa osirúami.	Pe a makói mili wenomí chiliwésuwaka a sebáripa kulíwami oselí libro ralayá mapu kulípi bujásimi.	neutral
+tar	Wi’límina níima makói osá makói bamíbali kére. Ke me a’lá níima je’ná ko.	Pe bilé taráli jiwéra ajaré winijísuwa.	contradiction
+tar	Ke chíbi iré bilé onolá suwába namúti chiliwésaka kípi ranála, mapu riká mujé ju.	Ga’lá ju échi mailá waká namúti chiliwésa kípi kúchuwa.	entailment
+tar	Ke ni rewáki, ke ni machí píri olá, pe ni machináli chu mu isimí jípi, chukoreé chuwé namúti ke.	Ke ni rewáki.	entailment
+tar	Mi ni oselí osíika júli, matétera allá mapu riká mu ajaré namaúti tamó chiliwéli, je’ná IUPUI Universidadchi néala a’líko échocho mi ruyéa mapu mu uchécho niukúiruma.	Pe bilé ciento dólares chiliwési Universidad IUPUI.	neutral
+tar	Ajaré wenomí newalelíwa mapu riká uché ajaré moiméa nochásia kúuchi benélachi.	Wabé a’lá benériami newalelíwa.	entailment
+tar	Walúla bisirente mapu ju nóchami Asociación dental anelíami waminá Indiana anelíachi, échi ju mapu suwiníka sebárima nóchali echimí Paischi, mapu riká katúili échi benealachi.	Indiana ko tási nikúirunali yua nócha skuelchi mapu o’ná ramé kítira benelíwa.	contradiction
+tar	Ayena a, tamó níwala ju, a ta níwi nóchali.	Wabé a’labé nirú naí conexciones anelíami.	contradiction
+tar	Mapu ne wabé a’lá natéami mayéi, echi rikáta newái, pe nakulíwipa ajaré mapu tamó kítira ra’íchami ke, echi riká kayéna.	Karú riwélima ariká nakulíwisuwaka mapu tamó kítira ra’íchami ju, pe ariká a’lá níima alé.	neutral
+tar	Echi riká ku wabé mu cha iníli.	Bilé hora simírusa, ma pei mi ku kaníli.	neutral
+tar	Wabé ne kaníli mapu riká IRT we nochaami ju o’mána kawichí, we kaílika benéri si’néami téamli mapu beneyá muchúwi.	Échi IRT we nócha benéria mapu pelóta retéka re’eká.	contradiction
+tar	Ajaré wabé wenomíwiami kítira ko we kanílika ku’íro jarécho mapu wabé newalé.	Ajarécho ko je ilá mapu ke wenomíwiami ko, ke risencia ju mapu ajarécho chiliwéma pe okuáa wenomí, tási nejéwami ju tániwa.	neutral
+tar	Suwába nóchali mapu newalíwa sinibí rawé, we ga’lá kayéna si’néami nikuírachi, mateteraba.	Suwába retéwi ko tási yua ju ibíli jákami.	contradiction
+tar	Julí, sinibí ne aníki mapure mukusáaka, ayéna, sinibí ne aníki mapuni a mukuméa, mapu riká bilé kochí echi riká ne ku nawáma.	Ke ni bilé bichíki mapu che e’perélipa ma mukusúwaka.	contradiction
+tar	Pe ariká usáni na nasípa inárachi ku nawáki bitichí, echi níili kini rawéwali.	Pe ke namúti ne nóchaki usáni na nasípa simírolachi jónsa jípi.	entailment
+tar	Mapu jena’í si nócha wabé nikúiru a’lí echi rikáta wabé bachá síro nóchali sebarsia.	Wa’lú matéteraba mapu si wakiná tamó yua nóchali, echi riká pe wi’líminata suwiníli nócha.	entailment
+tar	Aminá nasípa mi simíali, echi riká ju aminá Augusta anelíachi, wi’límina callechi nasípa, echiná ko Brod Street, jenabi ju we’lebési nasípa, mapu o’ná centrochi anelía.	Callechi mi simíbali, mapu o’ná weká kó’áalachi nirú a’lí bajíalachi.	neutral
+tar	A’líko, a namúti ne riwiméa riké, pe bile usáni kére.	A ne i’nénali bilé usáni.	entailment
+tar	Ayenacho a buyelíwa mapu mujé a bijísi nikúiruma, mapu kíti ko ma osá makói malí bamíbali sebáripa ra’íchali ki’yá nirúami chijána, a ta buyé mujé nijíala.	Chabé bamíbali ko mujé tamó besá makói bikea dólares tamujé chiliwéki.	neutral
+tar	Mapuré pe ariká cha ikí je’náko.	Pe kilíi waminá cha ikísimi.	neutral
+tar	Suwába we natéami ju temali benéami kítira mapu ju Becky, Stephanie, Marcus a’lí Emily rewéami.	Échi Becky rewéami ko tási namúti newalé.	contradiction
+tar	We a’lá ju suwába, ariosiba.	Ra’icha a muchíba.	contradiction
+tar	Mapu si benéma, a cha’píméa rewalá, kúmi e’peré, taráliami teléfono níwala si, jarécho namúti sicho mapu newalelíwa echoná benelíachi.	Mapu echoná si mo’í, karka cha’piméare ra’íchali natéami mapu riká ju echoná nocháliachi.	entailment
+tar	Mapuré pe ariká cha ikí je’náko.	Mapuré pe kilíi waminá cha ikísia.	entailment
+tar	Nibí, bachá natása.	Sinibí nata nejé.	neutral
+tar	Newalá chu aniwá échi noticias kítira mulípi nirúami.	Ra’íchali periódicos kita eperélachi nirúami, mapuré chabéwamika ra’íchali.	neutral
+tar	A’lí, i’níisa ka, cha anémi, mapu anéma mujé mo’óla mo’orápua.	Pe sinépi chikiméa.	contradiction
+tar	Echi riká ku wabé mu cha iníli.	Echi riká we mu cha iníli.	entailment
+tar	Ramona ni ku u’líniki ra’íchali telefonochi, píri ni nárima riké…buwésa… nejé suwinísa…bilé namúti ne nárima riké mapu ni isimí jípi.	Tási chíbi inílika ne bayéki Ramona.	contradiction
+tar	Kúuchi wabé benériwacho nóchaka teatro benérika, ma’chíki nalí benelíachi jónsa, omána wichimóba e’peréami riwírika.	Mapu nocha IRT tási nócha kúuchi yua, nalí pé ochéi yua nócha aboni a e’perélachi.	contradiction
+tar	Tamí we’káwiki mapu rikáta pe chuwé machirúami kítirata mi natéti, ke ne chiyénata nijisípa mapu riká pe chuwé ma’chíki.	Pachá kalírli base anelíachi kuuchi tibúalachi ke me natikí.	entailment
+tar	Ayena, ajaré namúti kítira newaléire.	Pakótami mapu jípi napawíli, benénalicho.	entailment
+tar	Echi riká ne iyénali.	A karú ikíli mapu a’lí oselí ne júlaki.	neutral
+tar	Kíni u’súwa ko bilé mili kimakói ciento makoisa makói ináraachi nawáli, táa tewé ke.	Kíni u’sú ko nawáli bilé mili osá nayó ciento kimakóisa makói kimakói.	contradiction
+tar	Checho bilé namúti ne nátaki, ajaré wéli kalí nocháliachi, natétika nokiwá ajaré namúti benelí kítiracho.	Tási wési mapu tamó nochári si nikúriami ju tamujé benéala natétia, chu koré wéli o kúuchi ma ke echoná nocháalachi.	contradiction
+tar	Mujé nikúrala we ga’lá ju, echonáti benerpa ajarécho, benésa aminá Indiana e’peréami pe wabé riwiméa nóchali natéamicho.	Mulípi nasípa Indiana aneíachi e’peréami tási benérisuwa má ariká nócha.	contradiction
+tar	Pe ariká usáni na nasípa inárachi ku nawáki bitichí, echi níili kini rawéwali.	Bitichí ni ku nawáki ko’ásia, a’líko pe echoná ni a ripíki isábua omarúami rawé.	contradiction
+tar	Echi ko oselí chi’wánali sukuchúka a’lí satérili acháli, na’í rajintili a’lí e’kósili satebóchi taa jóchi, napisó kayénalachi we na’sówali.	Echi rejoi ko oselí ekósima riké.	entailment
+tar	Simíraami ga’lá ju nochali teatro cívico waminá Indianapolis anelíachi, a uchécho si’nú nóchalicho nalí pe nabépi ga’labé.	El teatro Civic waminá Tampa anelíachi wilí.	contradiction
+tar	Ayenacho we natéami ju mapu newába bile aosciación anelíami a’lí echoná wenomí napabúba, mapu kíti skuela Universidad Facultad de Derecho wabé wa’lú kayenáma a’lí weká témali a’lí kúchi benéma.	Kíta benéalachi facultad de derecho a ku’íru pe okuá neráa fundación Melinda a’lí Bill Gates anelíwami.	neutral
+tar	Tási níwi nejé kúmi ne betélima, tasi ni machú chu riká ne animéa.	Ke chibi iré mapure ke nirúlisaka kúmi ne betélima.	contradiction
+tar	We achirúami ju échi i’nélíwa, nejéko we kaníli sinibísi we achirúami i’nénia.	Keré ma je’ná programa mapu ma’chíina, we achirúami i’nelíwa.	neutral
+tar	Ne chiriká jú, a noká, mapu riká a mu machí, we ga’lá ju mapu riká we kalelíami ju namú nokiwáami, ne ga’lá newayá namúti ba’óami.	Ne echonábi mu nochásare mapu kíti we ga’lá mu nocháma.	entailment
+tar	Wenomí ku muyéli malísa makói osá nayó bilé ciento neráa, mapu a’lí echi pachá mo’iami nijisípali, besá makói okuá bilé ciento neráa echi ko ajarécho ku nijíli.	Ralinéwisuwa mapu riká mo’ibóare, wenomíko me nasípasibi muyéli.	contradiction
+tar	Aboni ko a machí chu ikípu mo’i, echi riká tási ne simíraami ralibóa mapu newalelíwa.	Aboni newaníli chu ikípu me wenomí.	entailment
+tar	Joann je aníli, mapu a’lí Urban waminá Vietnam simíli, pe utéli ke mapu a’líta jónsa niwíli.	JoAnn y Urban pe bilépi mechá napawíka muchíli mapu a’lí rejóiko waminá Vietnam simíli.	neutral
+tar	Mukíko asaká ra’íchali, bilé rejói iyénami we i’néni, nalí mapu i’néluwako ke me newa riké, we jiyáwiti simiyé echi ko.	Mukí ko we ra’ícha atiké.	entailment
+tar	Ajaré bamíbali ju mapu nejé echoná benéli, bilé semestre ne benéli aminá Londres anelíachi.	Ajaré bamíbali ju mapu a’lí nejé aminá Londres anelíachi benéli bilé semestre.	entailment
+tar	Kíni ra’téchuwa betélachita muchúwi, mulípi wa’lú bawéchi, ajaré rawéta ri’píki.	Aminá kalírili kawichíta ri’píba Minnesota anelíachi.	neutral
+tar	Chiní perí chókami pei siyónamichi chukú bawerára sello presidencial anelíami, we a’lá ma’chámi pachána kapólachi malísa makói sepolírilichi.	Chiní períko bawerárato sello presidencial.	entailment
+tar	Joann je aníli, mapu a’lí Urban waminá Vietnam simíli, pe utéli ke mapu a’líta jónsa niwíli.	Joann ko je aníli mapu échi mukí a’lí Urban tási ne wi’lí niwíka muchíli, mapu a’lí avie vietam simíli.	entailment
+tar	Tamí o’chónalaka chu’achí pe téeli buyésa, nejé bachá bajísa akáami léchi a’lí chocolate na’sówika.	A ne ra’ílisa nili léchi bajía bilé baso.	entailment
+tar	Ayena a, tási échi kítira ra’icháli…mujé ke umérosaka tibúa, a mu machíli mapu ne we’lisi e’pére ritemta neráa mapu wekabé ju.	Si’néami kípi ritéamala atanála tibúla, ke nátaka chu ikisáre.	contradiction
+tar	Tási che ruli bilé hora, echoná tamí bayéli jiyáwti, nalí ke ni machí ácha ga’lá kaméa.	Ma ni ke namú iníli, je ni iláli kabú níira ba, siné rikáachi a keréko.	contradiction
+tar	Ke ni kaníli échi we’káwa, nali echikí ma’chíki wei’límina níisa e’pó.	Tási ne we’kawánali, nalí a karú ikiméa echoná mapu o’ná semátali jáwi.	entailment
+tar	Chu riká mu mayé Colorado Springs nóchami periódicochi osayá, ra’íchali chijána mulípi nirúami?	¿chu riká mi nata je’ná periódico kítira mapu osirúami ju karunti mapu ikí je’ná tamó kawíwalachi a’lí ajaréana paíschi ayenacho.	contradiction
+tar	Kíni ranála ma ku ma’chínali Grand Rapids jonsa beneyá, a’lí jónsata jéka ku síki.	We ba’óachi ju Grand Rapids anelíachi.	neutral
+tar	Echi riká níili nóchalli Rudolph Anderson anelíami.	Rudolph Anderson, echi ko U2 yua níili.	entailment
+tar	Ke ni bakináli ma bikianá nocháliachi, ku’íruwami nóchali wabé betéami nocháliami.	Ke ni nochánali mapu o’ná weká ralámuli nócha.	entailment
+tar	Chukoré mujé ke namúti machiyepa.	Ke chíbi iré mujé ke machisáaka je’ná kítira.	entailment
+tar	¿ácha mu si rimúma mapu riká tamó?	¿mujé rimúala, tamujé rimúala si kayenáma?	entailment
+tar	Bisirente mapu consejo de administración anelíwa.	Bisirente mapu ju Junta de consejeros de administración.	entailment
+tar	Ayena a, nejé je animéa riké, pe ni i’níka julama, echi riká mayéiru, pe kusúli nalí, a’lí échi i’nénami ko buyéka ripíli, chuwé riká.	Nejé ko nakí I’II FIy Away.	entailment
+tar	Jípi ko nawesáma nejé kíni onó kítira a’lí wekanátami kayamti ralámuli kítira mapu yua e’peréli aminá Estados Unidos anelíachi.	Nejé animéa chu riká níili mapu a’lí kíni onó México jónsa jéka nawáli.	neutral
+tar	Ke ni bakináli ma bikianá nocháliachi, ku’íruwami nóchali wabé betéami nocháliami.	Bikeaná kayamti ju wabé jiwérami escuadrón.	neutral
+tar	Ajaré namúti tamí nárili, a ni rúki a’líni je ni anéri: mujé níwala namúti ku cha’písaa ya jiyáwiti ku simiká, mapu o’ná mu juláiru, mi Washintong nawálachi.	Bitichíni ripínulia nuléri.	contradiction
+tar	A’líko, bilé mili waminá malí ciento pakótami si napawíli, echoná ne si bakíli.	Mapu a’lí nejé echoná si bakíli, ma wekabé muyéli okuá mili aminá malí ciento pakótami ke.	entailment
+tar	Sinú ra’íchaka ko, ayenacho ne aní maputa weká ko’áki wéli rolí, mulí a’lí ajareko namúti ta ko’áki.	Nejéko tási namúti ko’á sa’pá.	contradiction
+tar	We ni kalía simíroki.	¡ ne simíraami chijúnitami ke!	contradiction
+tar	Basalówami ko, ayena a umero ajaré namúti ritúa i’nénia mapu rika benelíachi, conservatorio de Hilbert, Las mariposas son libres, El mago de Oz, Tierra de juguetes y Vuelos de fantasía.	Basalówami ko, sinibí rawé umero ajarécho namúti ritúra mapu benelíachi jónsa bujaní.	neutral
+tar	Nalí jípi ko tási ne sebári wenomí suwába échi ko’wáami ra’íami ralayá.	Tási ne me níwi wenomí.	entailment
+tar	Nejéko echoná asaká karéwiki.	We ni náta machinála.	entailment
+tar	A’lí ju, a’lí ju mapu alí ne karú riká rawéwali.	Ne majára wiliké wa’lú ripibíli nawálachi.	neutral
+tar	Jipi ko ma súwaba mu níwi, echoná jonsa isíki.	A mu uméro checho nocha, ma suwába moibúsa ra’íchali osirúami base de datos anelíami.	neutral
+tar	Kíni u’súwa ko bilé mili kimakói ciento makoisa makói ináraachi nawáli, táa tewé ke.	Kíni u’sú ko nawáli bilé ináraachi Julio mechá, bamíbali bilé mili kimakói ciento aminá makói.	neutral
+tar	Wi’límina níima makói osá makói bamíbali kére. Ke me a’lá níima je’ná ko.	Pe lowiwáami ju ne chikí bamíbali simárusa ka.	entailment
+tar	Nóchami CIA anelíami ri’kibúli película a’lí aminá tóli Naciones Unidas anelícchi, mi ba’alínala.	Nóchami CIA película tóli waminá ONU anelíachi.	entailment
+tar	Ke ni machí, tási ne me kaníli mi yua ra’ícha, semáti rokóo simiró.	Ke ni a’lá machí, nalí we ni kaníli jípi ko, rokóo we ni kanília mi yua ra’íchaki.	entailment
+tar	Tamí kuíroko, namú isí tamí kítira	Ke ni nakí mapu ku’íropa.	contradiction
+tar	Mapu a’lí nejé echoná asáli Texas anelía pe malísa makói malí pakótami e’péreili.	Texas anelíachi ne ayásali.	entailment
+tar	Rewalíla ko Anderson rewéami ke, bile rejói ke mapu nasayétuli Reagan sayéruka.	Anderson ko Reagan me’táli.	contradiction
+tar	We mu natéami ju tamó kítira a’lí I.U.kítira ayénacho.	Tamujé mayé a’lí I.U. ayenacho mapu mujé we natéami ju, we mu nikuíru namúti nijía je’naí.	neutral
+tar	Kíta nocháala kawichí nirúami nocháliami suwéti neráa newáiru, mapu iyíri namúti jákami nokáami je’ná kawichí e’pérami, néka mapu riká ju eká, ba’wí we’é a’li ajarecho namuti si.	Kíta nocháalachi ko, pe uli neráa newalíwali weká namúti mapu riwélma ne ga’lá jákami ka.	contradiction
+tar	A kajú basalówaka e’péreliwa, ra’eráka ma.	Nejé ko we kaníli basalówa o’mána.	neutral
+tar	Echi ko je iriká ju, jenaí i’nená, bikianá kayamti si’nú neráa tamí a, echoná i’néba chu riká wisúluma.	Echi ko oselí carpetas echoná osáalachi muchúwala rui.	neutral
+tar	Kini onó sinibí aniyé mapu ke chuwé namúti jákami anéba ajaré.	Kini onó aniyé mapu ke chuwé namúti anéba ajaré jákami.	entailment
+tar	Mapu si benéma, a cha’píméa rewalá, kúmi e’peré, taráliami teléfono níwala si, jarécho namúti sicho mapu newalelíwa echoná benelíachi.	Mapu echoná si mo’í rewalá ucháma, ke wési che ruyéka, tási cho machiká chu riká ju namúti mapu echoná nirú.	neutral
+tar	Machiwáami programas mapu ju Young Library Leaders y Love is Reading Together Week, échi ko témali i’néala ju a’lí benéala si, bacha rikó benéalacho.	Benelíami ko je aní, mapu kúuchi benéala newáiru a’lí mapu re’ésia bujáma.	contradiction
+tar	Echi rikáko wabé nakóma ajaré, pe chuwé ma chikóka e’peré ajaré, pachá bitichí mo’iká chikó televisión ajarecho namúti si, mapu kiti ma ke umero nóchaa.	Ralámuli ko a nocháma a karka umpasa ka.	neutral
+tar	Simíraami ga’lá ju nochali teatro cívico waminá Indianapolis anelíachi, a uchécho si’nú nóchalicho nalí pe nabépi ga’labé.	Teatro cívo waminá nasípa wilí Indianápolis anelíachi.	neutral
+tar	Ne wabé jiyáwiti simíli, mapu a’lí ma i’nísima riké aminá bo’ómi bajonía simíruka nawayá.	Ariká wabé jiyáwiti níili.	entailment
+tar	Ne wabé jiyáwiti simíli, mapu a’lí ma i’nísima riké aminá bo’ómi bajonía simíruka nawayá.	Mapu riké ne weká rawéwlali ka.	contradiction
+tar	Ma ni mi ruyéki, ke me ni kaníli, ke a’lá ni suwába ra’íchali níwi mapu ni newaléli.	Je ni anéki, ke ni che kipúnali.	contradiction
+tar	Echi kítira ne ku newalá.	Echi kítira ni ku newalálire rewalá.	neutral
+tar	A’lí ko, jípi bamíbali a ta buyé mapu checho a nikúirupa wenomí sebária benelíachi nocháala mapu ju Civic Theatre,	Kalí teatro nikúrili newalé jípi.	entailment
+tar	Je iriká nochália we a’lá níisare, echi mapu wabé benékami ju tamó kuírosa ajarécho benelí ayá, echi riká ju mapu a’lí benelíachi napawíla sinea wabé ga’la benékami.	Ajaréanachi ra’erália mapu o’ná ajarécho bené we ga’lá ju, echi riká benéami ko ayenacho retewá chu riká ju ajaréanachi.	neutral
+tar	Ga’lá ke nijéko, echi riká níili.	Nejé ma katúilachi, suwíbali.	entailment
+tar	Tási wési machíli mapu u2 níili, ke wési machíli píri ju échi.	¡Ata newaníli suwába u2 kítira níili!	contradiction
+tar	Wekanatami e’peréili ralámuli, nalí otosákami wabé chati kawéliami ju.	Suwába ne si’nú neráa níili.	contradiction
+tar	Níwi, newá a’lí sekáti sua ba’óami sipúcha, mapu riká chabé ki’yá siputáliami, Mary Todd en Abe Lincoln, Illinois mapu iyíri sipúcha ma awiwáachi si’putáala, omáwiliachi ‘A Chirstmas Carol’.	Echi napácha ko sekáti chopi newáraami ju.	entailment
+tar	Nueva York chátali ajaré ritémala basalówia, echoná ri’píli ke machiyé chu riká ku ro’íma	Echi ko aminá Nueva York anelíachi ri’píli.	entailment
+tar	Sapú jiyáwiti bilé rejói ra’íchipa, telefonochi ra’íchaka katúima bile namúti wabé natéami.	A mu uméro tlefonochi neráa nijía wenomí.	entailment
+tar	Ke me natikí jpipi ko, okuá bamíbali kítira natéti besá makói, nokí usánisa makói ke suwáaka, okuá bamíbali kítira mapu riká ne natikí sinibísi.	Pe besá makói natikí, si mu bakisáa ka taralimi.	neutral
+tar	Sinibíta machináli chu riká mu atíki, ne jiwérali mu isílachi maa jípi upaa.	Uché wekáta newalé bilé ciento mili, echikíta napabúba jípi bamíbali.	neutral
+tar	A’lá ju ¿chu olá ke mu náta? A mu wabé a’lá náta alé jepuná kítira, tasi cha mu natéami nerári?	Mujé ne upáa simisáre, mujé ko tási namúti me machí.	contradiction
+tar	Arikáta machíki mapu bilé ropiláni ju u2 anelíami, nalí tásita uméri ruyá, k eta uméri aniyá mapu échi ju, tásita ruyéki kita u’jubíla, kita kúchuwa kécho, tási wési ta ruyéki.	Tasi risencia níili maputa echi kítira ra’ichába.	entailment
+tar	Echi ko je iriká ju, jenaí i’nená, bikianá kayamti si’nú neráa tamí a, echoná i’néba chu riká wisúluma.	Binói mukíko me machiyé kúmi nalí inenáma.	contradiction
+tar	Ne wabé chati juku, juli.	A ne kipusú, mapu ke a’lá ju.	neutral
+tar	Tamí we’káwiki mapu rikáta pe chuwé machirúami kítirata mi natéti, ke ne chiyénata nijisípa mapu riká pe chuwé ma’chíki.	Kúuchi tibúalachi okuá mili natikí, simíraami ajaréanachi kítira.	neutral
+tar	Sinéwi chokichí jónsa, wabé ga’labé ónalachi ju o’mána kítira, waminá Indiana anelíachi, we neráka ra’íchália jenaí nocháliachi kítira.	Malí bamíli tási nirúlima aminá Indiana uchecho bilé skuela benelíachi owáami benéalachi.	neutral
+tar	Chiní perí chókami pei siyónamichi chukú bawerára sello presidencial anelíami, we a’lá ma’chámi pachána kapólachi malísa makói sepolírilichi.	Perí alfombra ko pe téeli ju bilé metro ka’é neráa a’lí tukuna neráa ko okuá metro ju.	neutral
+tar	Taa namúti kítira, mapu riká je’ná sinú neraa riká kayénali, suwiní mapu nejé newayé.	Bilé namúti ni a kayenánali.	entailment
+tar	Nalí ke machíiru píri olá chikíli.	Echi mukíko ke a’lá námuli chu olá chiriká ikíli, ke námuli echi riká ra’icháliami.	neutral
+tar	Bamíbali bilé míli kimakói ciento kímakoisa makói waminá okúa- a’lí bamíbali jónsa benéami ko wabé weká mo’íli benésia, makói okuá bilé ciento neráa muyéli.	Benéami oselíwala ko, bamíbali neráa weká kulíwami che mo’iméa beneya.	neutral
+tar	Mo’koyóla lauréli nati newáraami échi ko aníami ju mapu ma niyúruli, okó olivo sawála kaníliala ju, echoná suwé perí chumiláchi semáre acanto anelíami sawála yua.	Chiní perí péibi rosákami ju.	neutral
+tar	Rejói Snake River, weká bukéami ke sinówi.	Mapu riká rewalá Snake River, tási nirú sinówi; echi riká rewéami ju la letra S kítira.	contradiction
+tar	Ma ne chotáma kilíi neráa ujúma.	Ke me newalé benelíami ko.	contradiction
+tar	We ni kalía simíroki.	A uchécho ne bilé panero nakí, we ra’isá aníami ju.	neutral
+tar	A’lí ju, a’lí ju mapu alí ne karú riká rawéwali.	Ne cha riká ne majáli a’lí rawé.	entailment
+tar	Mapu o’ná nócha echimí ni ra’íchima, echoná jónsa a ta katúipa, kabú ne ka’lá kilíi muchíka ra’ichásare.	Suwinísa película i’nénia mapu niyúliri, echoná jónsa ko’póa ko’waami comida china anelíami.	neutral
+tar	We ga’lácho a kayenáma alé ma kárka suwába namúti benésaka.	We a’lá benériwusaka, pe wabé a’lácho a bené, a’lá kalérami níima.	entailment
+tar	Ta wiláami usúko we ra’íchaka ku newaláami ke mapu chu riká katúili ko’chilá a’lí kunála aminá Augusta anelíachi simíba, mapu riká o’tosáka mayéba.	‘Usú rijimálako rosákami níili, a’lí Texas anelíachi simíli.	contradiction
+tar	A’lí ju, a’lí ju mapu alí ne karú riká rawéwali.	We ba’óami rawéwali.	contradiction
+tar	Kaméa, a’lí ácha ra’íami nirú ko’wáami sa’pá nasóami.	Ko’wáami sa’pá na’sóami mujé newáala wabé ra’iwá.	entailment
+tar	¡We ba’ólimale mujé a mu ikírusaka ku basalówia benelíachi mapu oná mu benéli, a’líko mujé binói i’nénia mapu jípiko wabé ga’lá kayénali chikí bamíbali simáruka, we nerákata olá taujé níwala.	Banelíachi basalówaka i’né chu yena benéla echi témali mapu semelíami bené.	neutral
+tar	Si’néami a mayéiru mapu ajaré nóchami ké me sa’enáti we’lési kayénali, machiká a mapu ne waká pagótami kuírutami ju, echi nikúiruli kítira.	Ajaré pakótami mapu napawíli ko, mayéiru mapu chíbi nokiméa echoná ciudadchi.	contradiction
+tar	Tamí o’chónalaka chu’achí pe téeli buyésa, nejé bachá bajísa akáami léchi a’lí chocolate na’sówika.	Ké ni uméro léchi bajía.	contradiction
+tar	Mapuré échi chiní sitákami bawerárami sontarusi níwala a umpasaka ra’ícha, nawesámi mapu siné bilé rejói diabetes nayúami ku’íruliru owáami insula aa.	Echi sontarusi mapu pakótami wabé risóatila nesérami ju, o’mána wichimóba e’peréami ku’íro.	neutral
+tar	Pe sinútami neráa newáiru, echi kíiti.	Mapu riká néli wabé a’lá ke.	neutral
+tar	Amu machí, mapu riká echiko we wenomíwiami nolá níili, we’lebesi bukéami níwimi niili ewénowala.	Onoláko, ne we’lési níwiami níili namúti.	entailment
+tar	A ne machí mapu ajaréanachi meká, ke me ne ga’lá simáru.	Ke me chiyéna walíniami ju waminá mekabé ko.	entailment
+tar	Echi kite ke ni ku ma’chínali Universidadchi jónsa, ke sinétini leeriki oselí libro, napu ni leerima riké.	Universidad ni rewéki okuá mili aminá okuá ináraachi bamíbali.	neutral
+tar	Echi rikáko wabé nakóma ajaré, pe chuwé ma chikóka e’peré ajaré, pachá bitichí mo’iká chikó televisión ajarecho namúti si, mapu kiti ma ke umero nóchaa.	Pe nabépi níima, nakósiwami ko.	contradiction
+tar	A kajú basalówaka e’péreliwa, ra’eráka ma.	Pe tási namútita retewá.	contradiction
+tar	Siné be’áa echi mukí je aníli, uchécho ni ku siméa nochásia aminá oficinachi.	Mukíko ke aníli ácha ku nawáma.	contradiction
+tar	Machiwáami programas mapu ju Young Library Leaders y Love is Reading Together Week, échi ko témali i’néala ju a’lí benéala si, bacha rikó benéalacho.	Ayenachó we ba’óami benelíami nirú kúuchi benéalachi aminá bibliotecachi, echi kiti ko osá simíba kúuchi echoná benésia.	neutral
+tar	Nejé mapu ne benéami ju facultad de derecho, ayena ne machí mapu mujé a newa níli chu rikáta síro.	Echoná skuelchi leyes benéalachi ajaré bené.	entailment
+tar	Ke ni machí ácha Texas jónsa nawáli, ke ni machí, pe ke je iriká níisare, tási umérowa ra’néla chéwia, tási katúliwa mapu echi riká níima, je iriká natári.	Texas ko tási olásare nóchali tibúkiliami ra’néla semériwami.	neutral
+tar	P.S: namúti chiliwéluwami we ba’óami ju, mapu riká walúala pásikochi chiliwéira.	Newalási sinibísi a uméro timó abóni ko ajaré namúti tamó chiliwéa, tási isábuwachi bi umpalia namúti nijía.	neutral
+tar	Waminá yúruliru Joe a’lí kíni a’káchuli je aníli mapu bitichí we ni’wímta wilí, si’néami ritémala we newaléli Joe a’lí ke machili chu riká nokiméa.	¡Si’néami we kaníili!	contradiction
+tar	Newalá chu aniwá échi noticias kítira mulípi nirúami.	Naátaka mapu jená mulípi pakótami e’perélachi seba ra’íchali noticias mulípi nirúami.	entailment
+tar	Jiyáwiti ta bayéri, namúti i’níami i’nénia.	Ke ta nakíliru maputa machími inenába.	contradiction
+tar	We’lési ke pe i’pó, pe ajaré reyáwi jáwi mapu o’ná ropiláni uchúpa.	Wekaná kayamti jáwi okóko.	entailment
+tar	Ké ni séabli olá machiwáami.	A uchécho ra’íchali ne machinali jepuná kítira.	entailment
+tar	A’lí je aníli échiko: ku bitichí ne atíki Nana	Ke ne’óli binóiko	contradiction
+tar	We’lési ke pe i’pó, pe ajaré reyáwi jáwi mapu o’ná ropiláni uchúpa.	Wabé o’kéachi ke.	contradiction
+tar	Mapu a’lí nejé echoná asáli Texas anelía pe malísa makói malí pakótami e’péreili.	Bamíbali osá nayósa makói ináraachi ne betéili Texas anelíachi.	neutral
+tar	Tasi iwérali mu ripíma echoná.	Ne echoná mu ri’píma.	contradiction
+tar	Jipi ko ma súwaba mu níwi, echoná jonsa isíki.	Pe téli rewé bijí.	contradiction
+tar	Tecnología ko we newaléru jípi je iyéna ko, ne jiyáwiti peréliwa mapu riká na’í simírami.	Echi tecnología ko we jiyáwiti tamó riwíri ra’íchali machirúami maputa newalé, tási sinéti echi riká ke.	neutral
+tar	A ne wabé natéami ju. Mujé… ¿a mu bakíli benelíachi, beneyá chu riká newásare échi?	Wabé natemáta ju, nejéko kaníli mapu rikámu ke bené chu riká newásare.	contradiction
+tar	We natikí, amu umpama wenomí muyéwia ajaré namúti kítira, ga’labé namúti newaká.	Weká mu natétipa échi kítira.	entailment
+tar	Ga’lá ke nijéko, echi riká níili.	Tasi nejéwiki ne, a’lí uchécho wilísi níili.	contradiction
+tar	Mi ni oselí osíika júli, matétera allá mapu riká mu ajaré namaúti tamó chiliwéli, je’ná IUPUI Universidadchi néala a’líko échocho mi ruyéa mapu mu uchécho niukúiruma.	Uchécho si’nú namúti chiliwé biblioteca chiliwéa Universidad IUPUI.	entailment
+tar	Wa mu kanílika nijíli wenomí chabé bamíbali.	Mujéko chabé bamíbali makói míli wenomí tamó chiliwéli.	neutral
+tar	A’líko, ke wési ité mapu tamí ku’íruma.	Weká nirú retéwi mapu tamí ku’íruma.	contradiction
+tar	Echi kítira ne ku newalá.	Mayéni mapu echi kítira ne ku newaláli.	entailment
+tar	Ayena ne níwi bilé ta namúti nóchali nuláami, okuá ju PC anelíami bitichí muchúwi, nalí tási nejé níwala ju, pé ke tási ne nochálachicho nikúirami ju. A’lí	Kíni betélachi okuá ne níwi sinú nóchali newáami.	entailment
+tar	Wenomí ku muyéli malísa makói osá nayó bilé ciento neráa, mapu a’lí echi pachá mo’iami nijisípali, besá makói okuá bilé ciento neráa echi ko ajarécho ku nijíli.	Nokí suwába wenomí ku muyéli boleto ralinéwaka.	entailment
+tar	Julí, tási risencia ju pe chuwé aká jaropa bilé ra’néla aminá Texas, nalí bitichí ko a risencia ju mapu katéwika achába.	Tási risencia ju mapu ma’chí ra’nélia e’napa waminá Texas anelíachi, karú riká ju.	neutral
+tar	Jípi ko wabé natikí weká olalíwa oselí libros anelíami mapu ju leyes osirúami, revistas, ajarécho osirúami si, wabé natikí jípi échi oselí mapure weká ralisúwaka a’lí wekanátaami neráa osirúami.	Echi oselí natéami oliwáa aminá bitichí, pe a besá chokéami natéla kíta wenomíwala kítira, tasi me sebáritu.	contradiction
+tar	Pe ariká kíni osáalachi ku asíbaki nejé.	Kosebélachi ne ku asíaki.	entailment
+tar	Beneyá mapu chu iníli biléalacho.	Bené namúti newayá, mapu biléalacho isimí.	entailment
+tar	¿acha mu rabó beteráami ju?	¿acha mu waminá pachá kalírli bakíami ju?	contradiction
+tar	Oselí contrato mapu upáa áiru Virginia, ma winijírami ju Gratin anelíami winijíiru, echi riká ma ké newáma kalí echoná, tási ga’lá karétami ju bijí échi oselí mapu riká chotáma nóchali.	Oselí contratos anelíami mapu nóchali nijí, we nóchali ju.	entailment
+tar	Mo’koyóla lauréli nati newáraami échi ko aníami ju mapu ma niyúruli, okó olivo sawála kaníliala ju, echoná suwé perí chumiláchi semáre acanto anelíami sawála yua.	Mo’koyóla lauréli nati newáraami, okó olivo sawála echoná suwé wi’lími chiní perí chumiláchi uchúwi.	entailment
+tar	Ayenacho a buyelíwa mapu mujé a bijísi nikúiruma, mapu kíti ko ma osá makói malí bamíbali sebáripa ra’íchali ki’yá nirúami chijána, a ta buyé mujé nijíala.	Chabé bamíbali ko, a sébali ke, jipi ko pe nabépi nijísi pe osá makói malí peso.	contradiction
+tar	Mapu ikí muyé wenomí, echonáti weká nóchali newába, natéami a’lí we machiwáami nóchali newaká.	Nasípa si wenomí suwíba ajarécho namúti natétiwa.	contradiction
+tar	Ne chiriká jú, a noká, mapu riká a mu machí, we ga’lá ju mapu riká we kalelíami ju namú nokiwáami, ne ga’lá newayá namúti ba’óami.	Ke chíbire mapure ne echoná chopi nochásaka.	contradiction
+tar	Ajarécho retémata yua ta newá bilé mapu riká omáwali kíta iyé rawéwala omawáliachi, mapu riká wisúluwachi ju.	Ajaré kíni noráwa ko kíta iye rawéwaalachi omáwa.	entailment
+tar	Ta wiláami usúko we ra’íchaka ku newaláami ke mapu chu riká katúili ko’chilá a’lí kunála aminá Augusta anelíachi simíba, mapu riká o’tosáka mayéba.	‘Usú rijimálako tási rosákami ke, nalí rosákami nínali binói, echi rikáko ayena a uméri benelíachi skuelchi beneyá.	neutral
+tar	Echi ko weká u’mukísiami ke, ke ni kaníli echiká, nalí je iriká ju na ra’íchali mapu ni aní jípi.	Ma ne kichíli, w echa aníamiake.	neutral
+tar	Mujé nikúrala ko we ga’lá ju, echi riká tibúluwa wekanátami kayamti namúti jákami a’lí reyáwi, ayénacho mapu riká nochália ajarécho namúti machiyá mapu ke machirúami ke, tibúka mapu ke risóa ikiméa échi reyáwi ke machirúami.	Ajaré pakótami namúti jákami tibúla.	entailment
+tar	Estados unidos jónsa o’mána chijanáluwa benelíami wabé natéami, jiwérali ayá benelí ne re’pabéana machiwáami a’lí we nóchali, echi riká ri’pí échi benelí, matétera alíwa si’néami mapu si nikúiruli.	Kicháo estadoschi chijáka muchínali, tamó ku’íruku.	neutral
+tar	Amu machí, mapu riká echiko we wenomíwiami nolá níili, we’lebesi bukéami níwimi niili ewénowala.	Onoláko okuá mili kayámti níwili wasá mapu oná ichiwá.	neutral
+tar	Kaméa, a’lí ácha ra’íami nirú ko’wáami sa’pá nasóami.	¡ke sinéti ne chiyéna cháti ko’áami ke je’ná sa’pá nasóami,	contradiction
+tar	Ké ni séabli olá machiwáami.	Karka machirúami ne nakí, echi riká ne machimea chu iyéri toróka ne raliméa.	neutral
+tar	Echi riká ke, tasi wési machíala.	Ajará machisáaka ra’íchali, pe mo’ára muchíma.	neutral
+tar	Je’ná ajaré kalí rewáli mapu o’ná eperélima, ne mulípi chachéka mapu o’ná ju Broad Street anelíachi.	Waminá Main anelíachi e’péreili, taa kalí uli nati newárami.	contradiction
+tar	Estados unidos jónsa o’mána chijanáluwa benelíami wabé natéami, jiwérali ayá benelí ne re’pabéana machiwáami a’lí we nóchali, echi riká ri’pí échi benelí, matétera alíwa si’néami mapu si nikúiruli.	Si nikuíru o’mána chijána kíta nóchali mapu níwi jípi.	entailment
+tar	Ke chíbi iré bilé onolá suwába namúti chiliwésaka kípi ranála, mapu riká mujé ju.	Kúuchi e’wénowala ko suwába namúti katéwisaré a’lí tási na’chutasare.	contradiction
+tar	Ayena, we ga’lá nátali ju.	Pe lowiwámti ju, ke a’lá anári ajaré namúti.	contradiction
+tar	We ga’lácho a kayenáma alé ma kárka suwába namúti benésaka.	Jawé cháti niimire ma karka suwába namúti benérisuwaka.	contradiction
+tar	Echi riká a’káchuli ko asísili, ri’kínali skalerachi a’líko buwichí mi simíli a’lí pe echoná wiliká riípili.	Granny rewémi ko toroka kalílachi ri’píli.	contradiction
+tar	Pe chuwé ku simíbali ciudadchi jónsa, tewéko ke sinéti ku re´wali kípi rijimála tewé.	Waminá Texas anelíachi simíli a’lí ke sinéti ku rewáli rijimála tewé.	neutral
+tar	Wabé semáti ju, we’lési ne wekanási ichirúachi jása reyáwi semátali ajarécho namuti si, ne ba’óarecechoná simíruwa, we’lési ju a’lí ko natáliwa chu riká nalí we kanílka ochéruma suwába namúti echoná jáwami.	Echoná wabé ba’óachi ju, we semáti sewá nirú a’lí okó ayénacho.	neutral
+tar	Échi derecho benéami malí mili aminá malí ciento besá makói kímakoi, we ga’lá benékami ju.	Skuela facultad de derecho bilé ciento bamíba mapu jónsa nócha, a’lí malí mili aminá malí ciento besá makói kímakoi benéli echoná.	neutral
+tar	Ne wabé jiyáwiti simíli, mapu a’lí ma i’nísima riké aminá bo’ómi bajonía simíruka nawayá.	Ne wabé simiyé, a’líni ma majái.	neutral
+tar	Suwába nóchali mapu newalíwa sinibí rawé, we ga’lá kayéna si’néami nikuírachi, mateteraba.	Bilé nóchali nirúlisa echoná nóchami ajarécho nóchamicho amí, kítiko echi rikácho a kanílika nocháma mapu abóni ba’óri.	neutral
+tar	We ni kalía simíroki.	Ne wabé ne ra’íliki.	entailment
+tar	Ruyé, ke chiriká mu olásaka: a mu ruyébale chu mu isísare, nalí ne mujé binói kítira níima.	A machirúami neraa mu anelíwa mapu riká mu newáma.	neutral
+tar	Ayenacho we natéami ju mapu newába bile aosciación anelíami a’lí echoná wenomí napabúba, mapu kíti skuela Universidad Facultad de Derecho wabé wa’lú kayenáma a’lí weká témali a’lí kúchi benéma.	Tamujé benéalachi facultad de derecho, pe benéami chopi natéti echoná.	contradiction
+tar	Mapu o’ná nócha echimí ni ra’íchima, echoná jónsa a ta katúipa, kabú ne ka’lá kilíi muchíka ra’ichásare.	Ma suwinísa ritúa je’ná nóchami a’líko simaba ko’ásia.	entailment
+tar	Ayéna, kalírli mapu o’ná weká numúti newalíwa, echonáne simírki, nalí.	¡ayéna! Ariká kayéntili ke bilé namú ikiká.	contradiction

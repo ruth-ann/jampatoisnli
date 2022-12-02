@@ -1,0 +1,377 @@
+language	premise	hypothesis	label
+nah	huan yehhua quiihtoh: Nonantzin, niyetoc nochan	quinotzac inantizn niman cuac quicahuac in tepozcalnehnemiloni	neutral
+nah	huan yehhua quiihtoh: Nonantzin, niyetoc nochan	yehhua amo quiihtoh ce tlahtolli	contradiction
+nah	huan yehhua quiihtoh: Nonantzin, niyetoc nochan	quiilih inantzin niehcoquia	entailment
+nah	amo quimatia tlen quionchihuaczquia, monequia tenahuatiz tlen yazquia washington	amo queman niyetoni washington, nimopoloh cuac nicnequia nicahciz cani niyaznequia	neutral
+nah	amo quimatia tlen quionchihuaczquia, monequia tenahuatiz tlen yazquia washington	nicmatoya nochi tlen nicchihuaznequia cuac niyahtoya washington	contradiction
+nah	amo quimatia tlen quionchihuaczquia, monequia tenahuatiz tlen yazquia washington	amo nicmatia tquen omochihuazquia, ihcon niyahqui washington, canpa nechixpantilihqueh tlen nicchihuazquia	entailment
+nah	yehhua amo huelic yahqui	yehhua cachto yahqui huan quiyolpactih telmiyac in ilhuitl	contradiction
+nah	yehhua amo huelic yahqui	amo quicauhqueh mahyahui	entailment
+nah	yehhua amo huelic yahqui	amo quicauhqueh mah yahui canpa oncaqueh in huehcauhtlamohuizolmeh	neutral
+nah	nehhua cualli niyetoya. ¡huan yehhua yahqui nochi!	zatepa niquihtoh quemah. tlamic	entailment
+nah	nehhua cualli niyetoya. ¡huan yehhua yahqui nochi!	niquihtoh amo huan mochihuac ce huan occepa.	contradiction
+nah	nehhua cualli niyetoya. ¡huan yehhua yahqui nochi!	cuac niquihtoh quemah, timonohnotzqueh huan tiquihtohqueh mah timonamictican	neutral
+nah	zayoh onpa niyetoya huan nicnequia nicyecchihchihuaz	nicyecahcicamatic nochi cuac pehuac	contradiction
+nah	zayoh onpa niyetoya huan nicnequia nicyecchihchihuaz	nicyecahcicamatoya cani yahqui in tomin	neutral
+nah	zayoh onpa niyetoya huan nicnequia nicyecchihchihuaz	nicnequia nicahcicamatiz	entailment
+nah	huan, xicaqui, amoquicalpanoqueh in cenyeliztli quimatoyah quincahuaznequiah amo quinequiah mah quinihtacocan	quicentocaqueh quincalpanohtoyah nochin tonalmeh	contradiction
+nah	huan, xicaqui, amoquicalpanoqueh in cenyeliztli quimatoyah quincahuaznequiah amo quinequiah mah quinihtacocan	amo quicalpanohuayah ninchancahuan	entailment
+nah	huan, xicaqui, amoquicalpanoqueh in cenyeliztli quimatoyah quincahuaznequiah amo quinequiah mah quinihtacocan	amoquincalpanohuayah ninchancahuan cuac mocualantihqueh	neutral
+nah	in cihtli tlapohuaya quenin nihueltiuh huan nihuehpol yahqueh occe altepetl, canpa Augusta, huan moixnextiayah quemeh ixpochictiqueh	ihueltiuh in cihtli ixchipahuac catca huan chantito Texas	contradiction
+nah	in cihtli tlapohuaya quenin nihueltiuh huan nihuehpol yahqueh occe altepetl, canpa Augusta, huan moixnextiayah quemeh ixpochictiqueh	ihueltiuh in cihtli ixchipahuac catca	entailment
+nah	in cihtli tlapohuaya quenin nihueltiuh huan nihuehpol yahqueh occe altepetl, canpa Augusta, huan moixnextiayah quemeh ixpochictiqueh	ihueltiuh in cihtzin amo catca ixchipahuac, huan quemah quinequiya yezqui ihcon hueliz yazquiya caltemachtiloyan	neutral
+nah	ticmatoquiya, yehhua catca, miac tlatlamachiliz, quemeh tetecoyo canpa quintocah cuauhmeh quinpiaya miaqueh tlalmeh	itatzin amo queman quipiaya teyi itech inemiliztli	contradiction
+nah	ticmatoquiya, yehhua catca, miac tlatlamachiliz, quemeh tetecoyo canpa quintocah cuauhmeh quinpiaya miaqueh tlalmeh	itahtzin quipiaya macuiltzontli tlatlamachihuali tlen tlalmeh	neutral
+nah	ticmatoquiya, yehhua catca, miac tlatlamachiliz, quemeh tetecoyo canpa quintocah cuauhmeh quinpiaya miaqueh tlalmeh	itahtzin quipiaya miyaqueh tlalmeh	entailment
+nah	notequiuh cactca mah niquintlalili cequin poxameh canpa huetzizquiah huan canpa mah amo atohtolocan huan yazquiah huehca ipan occequin altepemeh	amo nicpiaya tequitl, niquinyectlalih nochin in tlatzacualmeh	contradiction
+nah	notequiuh cactca mah niquintlalili cequin poxameh canpa huetzizquiah huan canpa mah amo atohtolocan huan yazquiah huehca ipan occequin altepemeh	niquintitlanic nochin in tlatzacualmeh Japon	neutral
+nah	notequiuh cactca mah niquintlalili cequin poxameh canpa huetzizquiah huan canpa mah amo atohtolocan huan yazquiah huehca ipan occequin altepemeh	niquin titlanic	entailment
+nah	ihcon quemeh, mmm..., nictzicoh	nicyequitac in tlatilincayotl mah tilinto cualli	neutral
+nah	ihcon quemeh, mmm..., nictzicoh	ihcon cualli nech cahcauhqueh	contradiction
+nah	ihcon quemeh, mmm..., nictzicoh	ihcon nechquitzquihtoyah	entailment
+nah	huan yeh cactca cihuayeh, huan quemah, yetoya calan, huan ticmatoquiya, amo nicuelitac, nihin nochin notlanemiliz	amo tecahcayahuaya huan cualli tlacatl catca	contradiction
+nah	huan yeh cactca cihuayeh, huan quemah, yetoya calan, huan ticmatoquiya, amo nicuelitac, nihin nochin notlanemiliz	nictlahuelitac cemi catca tlacuehzohqueh	neutral
+nah	huan yeh cactca cihuayeh, huan quemah, yetoya calan, huan ticmatoquiya, amo nicuelitac, nihin nochin notlanemiliz	amo catca itlayecanqueh	entailment
+nah	huan melan amo quimatic	yehhuan amo huelic quimatiz tlaamo tlahtohuaya icce tlahtolli	neutral
+nah	huan melan amo quimatic	yehhua amo huelic quimatiz	entailment
+nah	huan melan amo quimatic	yehhua quimatoya cualli tlen tiquihtohtoyah	contradiction
+nah	hueliz yezqui quinilih nochin huan nehhua amo nicahcicamatoya inon cahuitl	amo nicaquic cuac quinilih inoccequin	entailment
+nah	hueliz yezqui quinilih nochin huan nehhua amo nicahcicamatoya inon cahuitl	nicaquic nochi tlen quiihtoh yehhua	contradiction
+nah	hueliz yezqui quinilih nochin huan nehhua amo nicahcicamatoya inon cahuitl	Tlahtohtoya ihuan occe ihcuac	neutral
+nah	zayoh tiquinpolohqueh ome, yeyi tepozpatlanqueh	Ome tepozpatlanqueh tiquinpolohqueh mopolohqueh cuac quiohuic huan mixtemic.	neutral
+nah	zayoh tiquinpolohqueh ome, yeyi tepozpatlanqueh	Ome tepozpatlanqueh poliuhqueh	entailment
+nah	zayoh tiquinpolohqueh ome, yeyi tepozpatlanqueh	Amo queman tiquinpolohuanih ce tepozplatlanali	contradiction
+nah	Nicnequi xinechpalehui	amo nicnequi xinechpalehui	contradiction
+nah	Nicnequi xinechpalehui	ce cualli tequitl nicnequi nicchihuaz	neutral
+nah	Nicnequi xinechpalehui	nicnequi itla mahchiuhtoya	entailment
+nah	quicentocaya onpa ihtic	yehhua yahqui huan amo quicahuac itla	contradiction
+nah	quicentocaya onpa ihtic	yehhua yetoyaoc onpaca	entailment
+nah	quicentocaya onpa ihtic	timoilihqueh xayahcaya, huan mocahuac	neutral
+nah	noihuan, oh, xicahua mahquiza nihin	amo nicnequi nicahcicamatiz	contradiction
+nah	noihuan, oh, xicahua mahquiza nihin	nicpoloti nihin	entailment
+nah	noihuan, oh, xicahua mahquiza nihin	niquin yecmohuizoti nihinqueh	neutral
+nah	huan niman, technotzqueh mahtiquitacan tlen opatlantoya	quiihtohuayah mahtiquitacan in tepozpatlanqueh	neutral
+nah	huan niman, technotzqueh mahtiquitacan tlen opatlantoya	quiihtohuayah mahtiquitacan tlen opatlantoya	entailment
+nah	huan niman, technotzqueh mahtiquitacan tlen opatlantoya	techilihqueh mah amo titlachiacan calan	contradiction
+nah	inon cezah itla, eh, niixpanoc caxtolli huan ce xiuhmeh ipan notequipan tlen yecchihualiz	ninemic itech noyectequipan miyaqueh xiuhmeh	entailment
+nah	inon cezah itla, eh, niixpanoc caxtolli huan ce xiuhmeh ipan notequipan tlen yecchihualiz	amoquemah nicpiani ce tequitl	contradiction
+nah	inon cezah itla, eh, niixpanoc caxtolli huan ce xiuhmeh ipan notequipan tlen yecchihualiz	notequiuh tlen nicuelita motocaytia Actividadez ezpecialez	neutral
+nah	nicmati xaihcon niquelnamiqui	amo teyi niquelnamiqui	contradiction
+nah	nicmati xaihcon niquelnamiqui	xaihcon niquelnamiqui itocay	neutral
+nah	nicmati xaihcon niquelnamiqui	yehhua ica niquelnamiquic inon	entailment
+nah	huan yehhua mitzyolcuehzohua	mitzyolpactia miyac	contradiction
+nah	huan yehhua mitzyolcuehzohua	mitzyolcuehzohua miyac	entailment
+nah	huan yehhua mitzyolcuehzohua	timomachiliya cualli zatepa ce cahuitl	neutral
+nah	amo ximocahua onpon	hueli tiyazya mochan tlaticnequi	neutral
+nah	amo ximocahua onpon	hueli tiyazya	entailment
+nah	amo ximocahua onpon	quipiya timocahuaz nican	contradiction
+nah	yeh yahqui..., yhaqui ce tetzauhtonalli	yahqui ce tonal cualtzin	contradiction
+nah	yeh yahqui..., yhaqui ce tetzauhtonalli	cemitetzauhquiahuic cuac in mixcohuatl ehcoc ipan toaltepeuh	neutral
+nah	yeh yahqui..., yhaqui ce tetzauhtonalli	inon tonal cemi nechmouhtih miyac	entailment
+nah	cuac tinechixtlaxcaloz, ¿Xinechcahua mah niconi ce caxitl ica chichihualayotl?	amo nihueli niconizchichihualayotl	contradiction
+nah	cuac tinechixtlaxcaloz, ¿Xinechcahua mah niconi ce caxitl ica chichihualayotl?	nicuelitazquiya ce caxitl ica chichihualayotl ica chocolatl	entailment
+nah	cuac tinechixtlaxcaloz, ¿Xinechcahua mah niconi ce caxitl ica chichihualayotl?	nicuelitzquiya niconiz ce tepitzin chichihualayotl ica chocolatl huan noyolcehuiz tepitzin, nimocuatlapoltih	neutral
+nah	huan ihcon, ticpiya nochi tlaihtic, hueliz ticcentocaz tlaixpan	hueli ticcentocaz cuac ticalaquiz nochi	entailment
+nah	huan ihcon, ticpiya nochi tlaihtic, hueliz ticcentocaz tlaixpan	hueli ticcentocaz cuac ticalaquiz in tequitl canpa monechicohua	neutral
+nah	huan ihcon, ticpiya nochi tlaihtic, hueliz ticcentocaz tlaixpan	quipiazquia timoquetzaz axcan	contradiction
+nah	xiquita, xicnemili	nicnemiliya achipa	neutral
+nah	xiquita, xicnemili	amo itla tlen tinequizquiya ticnemiliz	contradiction
+nah	xiquita, xicnemili	itla tlen ticnemiliya	entailment
+nah	quihuicacueh in Joe ninhuan, huan in cihtzin quiihtoh cemi tlayocoyaya, ticmatoquia, nochin quitlacenmatiah Joe amo quimatia tlen quichihuazqueh	nochin tlen yetoyah tochan tlacenmatoyah quitemohuayah miyac Joe	entailment
+nah	quihuicacueh in Joe ninhuan, huan in cihtzin quiihtoh cemi tlayocoyaya, ticmatoquia, nochin quitlacenmatiah Joe amo quimatia tlen quichihuazqueh	¡ Nochin telpactoyah !	contradiction
+nah	quihuicacueh in Joe ninhuan, huan in cihtzin quiihtoh cemi tlayocoyaya, ticmatoquia, nochin quitlacenmatiah Joe amo quimatia tlen quichihuazqueh	Joe miquic huan nochin tlacenmatqueh	neutral
+nah	in tlamatquiticitl catca, oncayah 158 huan tiquinxehxelohqueh, huan ticcentilihqueh, ticxehxelohqueh huan amo queman occepa timopolohqueh	quipiyac ticuehhuelohqueh huan occepa ticyecchihchiuhqueh	entailment
+nah	in tlamatquiticitl catca, oncayah 158 huan tiquinxehxelohqueh, huan ticcentilihqueh, ticxehxelohqueh huan amo queman occepa timopolohqueh	quipiyac ticuehhuelohqueh in tepozpatlanilmeh huan occepa tiquinyecchihchiuhqueh	neutral
+nah	in tlamatquiticitl catca, oncayah 158 huan tiquinxehxelohqueh, huan ticcentilihqueh, ticxehxelohqueh huan amo queman occepa timopolohqueh	amo techcauhqueh mah ticmachilican	contradiction
+nah	amo nicnequi nicalaquiz expacopa SS in yeyi tecpanaliz tlapalehuiliz	amo nicnequia nimochiyaz huan nicalaquiz ihtic in Third SS	contradiction
+nah	amo nicnequi nicalaquiz expacopa SS in yeyi tecpanaliz tlapalehuiliz	amo nicnequi niyezqui niexpacopa	entailment
+nah	amo nicnequi nicalaquiz expacopa SS in yeyi tecpanaliz tlapalehuiliz	in yeyi SS amo cualtia	neutral
+nah	cemi tlahuaquia ipan in tlalli; oncaya itla ipan in hueyiohtli	catca cemi cuauhtlah	contradiction
+nah	cemi tlahuaquia ipan in tlalli; oncaya itla ipan in hueyiohtli	oncaya miyac tlacelotl onpaca	entailment
+nah	cemi tlahuaquia ipan in tlalli; oncaya itla ipan in hueyiohtli	motetecuinihuaya ipan ohtli miyac tlahzolli	neutral
+nah	amo occepa quiihtoh tlen cahuitl, nechcuehzoh cuac noyahqui onpaca, huan amo nicmati xecualli	nehhua nitlanemiliaya amo nicmatia tlen cahuitl catca	entailment
+nah	amo occepa quiihtoh tlen cahuitl, nechcuehzoh cuac noyahqui onpaca, huan amo nicmati xecualli	nechtlanemililtiaya amo hueliz niquitaz in tlamohuizolli amo nicmatia tlen cahuitl catca	neutral
+nah	amo occepa quiihtoh tlen cahuitl, nechcuehzoh cuac noyahqui onpaca, huan amo nicmati xecualli	amo cemi nitlanemiliaya, panozquia cuac panozquia	contradiction
+nah	yehhua tlacatic ipan altepetl Grecia huan nialtepeuh itocay Tocalleca, hualah America, ipan xihuitl 1969 o 1970 huan monamictic niman	yehhua tlacatzin ipan altepetl Griego huan amo tlahtohua Inglez	neutral
+nah	yehhua tlacatic ipan altepetl Grecia huan nialtepeuh itocay Tocalleca, hualah America, ipan xihuitl 1969 o 1970 huan monamictic niman	yehhua ce tlacatzin Griego	entailment
+nah	yehhua tlacatic ipan altepetl Grecia huan nialtepeuh itocay Tocalleca, hualah America, ipan xihuitl 1969 o 1970 huan monamictic niman	yehhua tlacatic Irlanda	contradiction
+nah	tehtepitzin itla quicuepqueh nochi tlen nicchihuaznequia	amo nicnequic nicchihuaz	contradiction
+nah	tehtepitzin itla quicuepqueh nochi tlen nicchihuaznequia	nicnequia nicchihuaz itla	entailment
+nah	tehtepitzin itla quicuepqueh nochi tlen nicchihuaznequia	nicnectoya nictlamiz ce amatequitl huan in yancuic tlahcuilolmeh nechpalehuihqueh	neutral
+nah	cualli, amo acah yetoc onpa tlen hueliz nechpalehuizqueh	amo nihueli nicchihuaz nehhua	neutral
+nah	cualli, amo acah yetoc onpa tlen hueliz nechpalehuizqueh	oncac miyaqueh tlacameh tlen hueliz nechpalehuizqueh	contradiction
+nah	cualli, amo acah yetoc onpa tlen hueliz nechpalehuizqueh	amo acah onpa tlen hueliz nechpalehuizqueh	entailment
+nah	In CIA quitemoltih in Tlamohuizolli huan quihuicac canpa Nacionez Unidaz inmoztica	In CIA quihualcuic in tlamohuizolli canpa ONU	entailment
+nah	In CIA quitemoltih in Tlamohuizolli huan quihuicac canpa Nacionez Unidaz inmoztica	In CIA quiyectlalli in tequitlamohuizolli	contradiction
+nah	In CIA quitemoltih in Tlamohuizolli huan quihuicac canpa Nacionez Unidaz inmoztica	IN CIA quinemilih ONU quinequia quiitaz in tlamohuizolli niman	neutral
+nah	nictlapohuihya, nicnequiya nictlapohuiz tlen amohuelli nicchihuaya amo nicmatia nochi tlen nicpiaya nicmatiz	nanmechili amonicnequiya nicaquiz zayoh	contradiction
+nah	nictlapohuihya, nicnequiya nictlapohuiz tlen amohuelli nicchihuaya amo nicmatia nochi tlen nicpiaya nicmatiz	niquilih nicnequia cachi nicmatiz huan ihcon nimatizquiya tlen hueliz nicchihuazquiya	neutral
+nah	nictlapohuihya, nicnequiya nictlapohuiz tlen amohuelli nicchihuaya amo nicmatia nochi tlen nicpiaya nicmatiz	niquilih nicnequia nicmatiz cachi itla	entailment
+nah	mmm, zayoh quizteuhqueh cauhteuhqueh in altepetl, huan yeh, amoqueman quiitac occepa ihueltiuh	mocalchihuito Texas huan amoqueman quiitac ihueltiuh	neutral
+nah	mmm, zayoh quizteuhqueh cauhteuhqueh in altepetl, huan yeh, amoqueman quiitac occepa ihueltiuh	amoqueman quiitac ihueltiuh occepa	entailment
+nah	mmm, zayoh quizteuhqueh cauhteuhqueh in altepetl, huan yeh, amoqueman quiitac occepa ihueltiuh	quiitaya ihueltiuh achipa	contradiction
+nah	quicentocatoya quemeh tlachiauhloyan, huan in tlachihualmeh tlatecotiayah	nochi catca quemeh altepetl	contradiction
+nah	quicentocatoya quemeh tlachiauhloyan, huan in tlachihualmeh tlatecotiayah	nochi pexontoya ica calmeh huihhuizoltiqueh	neutral
+nah	huan niquincaquic yahqueh, nehhua nictlamihtoc nochihualiztli	nicchiuhtoc tlen nicpia nicchihuaz axcan	entailment
+nah	huan niquincaquic yahqueh, nehhua nictlamihtoc nochihualiztli	nicchiuhtoc tlen nechcahuilihqueh mah nicchihua yehua cualcan	neutral
+nah	huan niquincaquic yahqueh, nehhua nictlamihtoc nochihualiztli	amo nimocualantiti tlen nicchihuaz axcan	contradiction
+nah	chantiah Main street ihtic ce calehecatlatzacuilli	in tlatilanaliz quichihua mah toponi	entailment
+nah	chantiah Main street ihtic ce calehecatlatzacuilli	in tlatoponaliztli quichihua mah toponi in tlatopon	neutral
+nah	chantiah Main street ihtic ce calehecatlatzacuilli	amo oncac tlatilanaliz tlen quitlamotaz	contradiction
+nah	huan totahtzin techilih mah amo tiquihtocan yolcameh	totahtzin technahuatih mah amo tiquihtocan tlapiyalmeh	entailment
+nah	huan totahtzin techilih mah amo tiquihtocan yolcameh	totahtzin quiihtoh nequeh yolcameh	contradiction
+nah	huan totahtzin techilih mah amo tiquihtocan yolcameh	totahtzin quiihtoh neminih amo tlapiyalmeh	neutral
+nah	amo notequih tlaamoticmati tlen nohon	nicmatoc amo cemi ticnequi nihin	neutral
+nah	amo notequih tlaamoticmati tlen nohon	nicnemilia quipiya titlanemiliz tlamantli huan quipiya ticnequiz cachi nihin	contradiction
+nah	amo notequih tlaamoticmati tlen nohon	amo nechtlanemilitia tla amo ticmati itla	entailment
+nah	huan neh nimoilia quenin nehhua nicchihuac	amo nicmatic quenin yehhua quinemiliaya mah nictlami in matlachihchihualli	neutral
+nah	huan neh nimoilia quenin nehhua nicchihuac	amo nicmati quenin yehhua quinemiliaya mah nehhua nictlami	entailment
+nah	huan neh nimoilia quenin nehhua nicchihuac	nicmatoc tlen yeh quinemiliaya xanictlamizquia tlayohuaquia	contradiction
+nah	quemah, momay yetoc calan, momahuan quipiazqueh macuilli cachi hueyi, tlatimoihyotlamizquia	amo timoehuapatlaz	contradiction
+nah	quemah, momay yetoc calan, momahuan quipiazqueh macuilli cachi hueyi, tlatimoihyotlamizquia	momay hueliz mopatlaz tlaquiza tlen in tlaquen	entailment
+nah	quemah, momay yetoc calan, momahuan quipiazqueh macuilli cachi hueyi, tlatimoihyotlamizquia	momay hueyizquia tla yetozquia itech in metztli huan tiquixtizquia calan in tlaquen	neutral
+nah	¿ Oncac ce tlayehyecolli tlen yehhua amo mitzilih?	nicmatoc yehhua amo mitziliz	contradiction
+nah	¿ Oncac ce tlayehyecolli tlen yehhua amo mitzilih?	queyeh yehhua amo mitztlapohuizquia	entailment
+nah	¿ Oncac ce tlayehyecolli tlen yehhua amo mitzilih?	queyeh amo mitztlapohuih yehhua tlen in pilli	neutral
+nah	amo, zayoh cepa yahqui cualcan, huan yehhua quiilih nimocuepaz canpa notequipan	yehhua amo quiilih xamoquepazquia o amo	contradiction
+nah	amo, zayoh cepa yahqui cualcan, huan yehhua quiilih nimocuepaz canpa notequipan	quiihtoh moquepaz cachi tiotlac	entailment
+nah	amo, zayoh cepa yahqui cualcan, huan yehhua quiilih nimocuepaz canpa notequipan	yehhua quiihtoh mocuepaz ica tlacualiz	neutral
+nah	amo ticmatia tlen in U2 huan amo acah quimatia	amo ticmatia tlen catca in U2	entailment
+nah	amo ticmatia tlen in U2 huan amo acah quimatia	amo ticmatia tlen catca tlen tiquitaqueh ehecaixco	neutral
+nah	amo ticmatia tlen in U2 huan amo acah quimatia	ticmatoyah nochi tlen in U2	contradiction
+nah	Nocicitzin tlacatqui ipan 1910, eliyaya ce cocuetzin cihuapil.	Nocicitzin tlacatqui teipan 10 xihuitl queman mopatlac inin cahuitl.	entailment
+nah	Nocicitzin tlacatqui ipan 1910, eliyaya ce cocuetzin cihuapil.	Nocicitzin tlacatqui ipan 1899.	contradiction
+nah	Nocicitzin tlacatqui ipan 1910, eliyaya ce cocuetzin cihuapil.	Nocicitzin tlacatqui ipan 1 tonalli julio metztli 1910 xihuitl.	neutral
+nah	¿huanquinon mocauhqui ipan Augusta teipan tlen inon?	¿quicencuilihqui ipan Augusta?	entailment
+nah	¿huanquinon mocauhqui ipan Augusta teipan tlen inon?	Mocauhqui ipan Augusta queman oncac cualancayotl?	neutral
+nah	¿huanquinon mocauhqui ipan Augusta teipan tlen inon?	Nicmati nimantzin mocauhqui Augusta.	contradiction
+nah	Moquetzqui, ticpixqueh nechca eh, mmm, axniquilnamiqui tlapohualli.	Axniquilnamiqui quezqui tiquinpiyayah.	entailment
+nah	Moquetzqui, ticpixqueh nechca eh, mmm, axniquilnamiqui tlapohualli.	Axniquilnamiqui quezqui tequipanoanih tiquinpiyayah.	neutral
+nah	Moquetzqui, ticpixqueh nechca eh, mmm, axniquilnamiqui tlapohualli.	cualli nicmati tlapohualli tlen nochi.	contradiction
+nah	inquimatih, niahcico nochantzin 6:30 naman ihuan inon elqui notonal.	naman, axtlen nicchiuhqui teipan queman nimocuapqui.	contradiction
+nah	inquimatih, niahcico nochantzin 6:30 naman ihuan inon elqui notonal.	Naman, axtlen nicchiuhqui teipan 6:30.	entailment
+nah	inquimatih, niahcico nochantzin 6:30 naman ihuan inon elqui notonal.	Naman cemilhuitl nicualanqui  ica ce amatequitl tlen ce tlacouhctl.	neutral
+nah	huanquinon, ya mocehuihqui, ihuan ticmati, quicencuiliyayah tlahtoah, ihuan quiittaznequiyayah ica inin tlacaatl, ihuan inin tlacatl nehnemiyaya tlahuel chicahuac, chicahuac.	Ya quicencuilihqui tlahtoa ihuan itequihuanpoyohuan ica nopa tlacatl tlen choloyaya.	neutral
+nah	huanquinon, ya mocehuihqui, ihuan ticmati, quicencuiliyayah tlahtoah, ihuan quiittaznequiyayah ica inin tlacaatl, ihuan inin tlacatl nehnemiyaya tlahuel chicahuac, chicahuac.	Ya quicencuilihqui tlahtoa.	entailment
+nah	huanquinon, ya mocehuihqui, ihuan ticmati, quicencuiliyayah tlahtoah, ihuan quiittaznequiyayah ica inin tlacaatl, ihuan inin tlacatl nehnemiyaya tlahuel chicahuac, chicahuac.	Ya axtlahtohqui ihuan tlachixqui ica itlahuapal.	contradiction
+nah	Ihuan, eh, tlan tlehco ihuan quicencuilia tlehco, quichihuazquia "guiz" ihuan quen mitzquixtilizquia motzontecon	Tlan oncah ce atepeyotl tlen tlahuilli, tlahuel temahmatih ahquiya itztoqueh nechca.	neutral
+nah	Ihuan, eh, tlan tlehco ihuan quicencuilia tlehco, quichihuazquia "guiz" ihuan quen mitzquixtilizquia motzontecon	Tlan tlahuel mototonilia tlahuilli, nochi oncah ce caquizcotl tlen yohui.	entailment
+nah	Ihuan, eh, tlan tlehco ihuan quicencuilia tlehco, quichihuazquia "guiz" ihuan quen mitzquixtilizquia motzontecon	zan ce cahuitl eliz.	contradiction
+nah	Axnicpiya miyac tlapohualli.	Nicpiya nochi tlapohualli tlen ticnequiz.	contradiction
+nah	Axnicpiya miyac tlapohualli.	Nicnequi achiyoc tlapohualli ihuan cualli nicmatiz catliya tepozcacalachtli niccohuaznequi.	neutral
+nah	Axnicpiya miyac tlapohualli.	Nicnequi achiyoc tlapohualli ica inon.	entailment
+nah	zanpa nimitznotzaz melahua ipan ce cahuitl, quiihtoa.	quiihtohqui tenohnotzaz queman ahciz ichantzin	neutral
+nah	zanpa nimitznotzaz melahua ipan ce cahuitl, quiihtoa.	quiihtohqui ya nechhualnohnotzaz	entailment
+nah	zanpa nimitznotzaz melahua ipan ce cahuitl, quiihtoa.	quiihtohqui tlantoquehya tlahtoah.	contradiction
+nah	quena, nopeyoh nechtlahtlanilihquieh quenque niyahtoya.	Nechtlahtlanilihqueh quenque nopeyoh niyahtoya.	entailment
+nah	quena, nopeyoh nechtlahtlanilihquieh quenque niyahtoya.	Nechtlahtlanilihqueh quenque niyahqui tlanamacoyan.	neutral
+nah	quena, nopeyoh nechtlahtlanilihquieh quenque niyahtoya.	Nechtlahtlanilihqueh quenque nimocauhtoya nochan.	contradiction
+nah	Monequi momomachtiz nimotlaloz	Axmonequiyaya nimomachtiz.	contradiction
+nah	Monequi momomachtiz nimotlaloz	Monecqui nictlamiltiz nimomachtiz ihuan motlaloliztli.	neutral
+nah	Monequi momomachtiz nimotlaloz	Monequiyaya nicpehualtiz nimocualtlaliz.	entailment
+nah	quena, ihquinon axquinecqueh ma momati.	Tlan ce acahya quimatiz nochi tlahtolli, quitzacuazcaih.	neutral
+nah	quena, ihquinon axquinecqueh ma momati.	Inin tlahtolli monequi ma moixmati.	contradiction
+nah	Axquinecqueh ma moquiztican.	Inihhuantin quihitzquihqueh ipan ce tonalli zan quinequiyayah choloceh.	entailment
+nah	Axquinecqueh ma moquiztican.	quinitzquitoyah ipanpa axhuahca nopa tlaichtectoyah.	neutral
+nah	Axquinecqueh ma moquiztican.	Nochi momahmatihtoyah tlan quinquixtiz nopa tlachtecquetl.	contradiction
+nah	in yeyi  amo cualtia	Nimantzin nicahcic.	contradiction
+nah	in yeyi  amo cualtia	Tlahuel nihuahcauhqui ipanpa tlahuel tilahuac ihuan axcualli amoxtli.	neutral
+nah	in yeyi  amo cualtia	Nihuahcauhhqui achi queman nicpantic.	entailment
+nah	Nicpixqui ce tlahtlacolli.	Nicchiuhqui ihuan axnicchiuhqui ce tlahtlacolli.	contradiction
+nah	Nicpixqui ce tlahtlacolli.	Axnichiuhqui ce tlahtlacolli queman nictitlanqui amatl.	neutral
+nah	Nicpixqui ce tlahtlacolli.	Nicchiuhqui ce tlahtlacolli	entailment
+nah	Oh, yahqui snake river, oh snake Rover ica miyac coatl ihuanya.	Mazque quen nopa itocah, snake River axoncah coameh, itocah ipanpa ihquinoh neci tlen z.	contradiction
+nah	Oh, yahqui snake river, oh snake Rover ica miyac coatl ihuanya.	snake River quinpiya miyac ayotl tlen tecuah.	neutral
+nah	Oh, yahqui snake river, oh snake Rover ica miyac coatl ihuanya.	snake River temitoc ica coameh.	entailment
+nah	quena, nicpiya ce nechicolli tlen tomin.	¿tlen inon ce unión de crédto?	contradiction
+nah	ihuan tlen nicmachilia tlahuel cualli ihuan ipatih tlen inon tlamantli, niquihtoa monequi tiquinpatlaceh nochi tlacameh tlen techyecanah.	Temachtli hueliz cuecihui ihuan axmonequiz ma quipatla tlen techyecana, ihquinon axmonequi ticpatlazquiah tlen monequiz.	contradiction
+nah	ihuan tlen nicmachilia tlahuel cualli ihuan ipatih tlen inon tlamantli, niquihtoa monequi tiquinpatlaceh nochi tlacameh tlen techyecanah.	Nicmachilia tlahuel ohuih mopatlaz cequin tlayecananih, zan itlamiyan cualli mocahuaz.	neutral
+nah	ihuan tlen nicmachilia tlahuel cualli ihuan ipatih tlen inon tlamantli, niquihtoa monequi tiquinpatlaceh nochi tlacameh tlen techyecanah.	Monequi tiquinpatlaceh tlen techyecanah.	entailment
+nah	ihuan cualli teyolpacticeh teipan quemana cualli quinmachtihtoqueh.	Tlahuel nimantzin mopatlah noqueh momachtiah.	neutral
+nah	ihuan cualli teyolpacticeh teipan quemana cualli quinmachtihtoqueh.	queman mopalehuiah, hueliz cualli yolpaquih.	entailment
+nah	Ihuan huelih quicencuiliceh ica mahtlactli zo cempohualli xihuitl. Nicmachilia inin axcualli.	Nicmachilia ce huihuiyotl tlan ce teixpantiliztli hueliz huahcahuaz miyac xihuitl.	neutral
+nah	Ihuan huelih quicencuiliceh ica mahtlactli zo cempohualli xihuitl. Nicmachilia inin axcualli.	Nicmachilia ce huihuiyotl tlahuel huahcahuaz miyac  xihuitl.	entailment
+nah	Ihuan huelih quicencuiliceh ica mahtlactli zo cempohualli xihuitl. Nicmachilia inin axcualli.	zan huahcahua chicueyi tonalli.	contradiction
+nah	quena, monectozquia ticpiyaz ce zan tepoztli.	zanpa tlen ticpiya nopa eliyaya zan tepoztli.	entailment
+nah	quena, monectozquia ticpiyaz ce zan tepoztli.	Melahua tlen ticpiyaya nopa zan ica ce tepozmecatl.	neutral
+nah	¿Tiquihtoa nopa temachtianih zo zan tatameh...?	¿Tiquihtoa quichiuhqueh nopa momachtianih zo ahquiay quipalehuia tlamachtihquetl?	contradiction
+nah	¿Tiquihtoa nopa temachtianih zo zan tatameh...?	¿Tlamachtianih zo tatahmeh?	entailment
+nah	¿Tiquihtoa nopa temachtianih zo zan tatameh...?	¿Tlen tiquihtoa ica tatahme zo nopa tlamachtianih?	neutral
+nah	Nohquiya, hueliz niquittazquia ce tlamantli. hueliz ce V chicuace.	Niquitzticah tlan niquittaz V6.	entailment
+nah	Nohquiya, hueliz niquittazquia ce tlamantli. hueliz ce V chicuace.	Nicmachilia ce V6 nopa tlahuel cualli mochihuaz.	neutral
+nah	Nohquiya, hueliz niquittazquia ce tlamantli. hueliz ce V chicuace.	Axqueman nicpiyaz ce V6.	contradiction
+nah	Ma mitzcuezo ica tlen pano nochi tonalpohualli tlen nican altepetl	Nechcuezoa ica nochi tlen panotoc ihuan axcualli tlen nican altepetl.	entailment
+nah	Ma mitzcuezo ica tlen pano nochi tonalpohualli tlen nican altepetl	Axnechcuezozquia tlan nopa tonalpohualli tematiltiah ica nochi tlen pano nican altepetl.	contradiction
+nah	Ma mitzcuezo ica tlen pano nochi tonalpohualli tlen nican altepetl	Tonalmatl quichihuah tlen nican ehuanih huihuican ma nicican.	neutral
+nah	zan amo, tohhuantin, timattocca, cueyitl ihuan cueyitl zo cotomitl zo yoyomitl zo tlaquentli tlen tiquitta nican huanquinon cualli tequitiz nica calli panpa nihueliz niyaz ica zan noyoyon tlen tlatzintlan.	Axnimopatla queman nitequiti nochan.	entailment
+nah	zan amo, tohhuantin, timattocca, cueyitl ihuan cueyitl zo cotomitl zo yoyomitl zo tlaquentli tlen tiquitta nican huanquinon cualli tequitiz nica calli panpa nihueliz niyaz ica zan noyoyon tlen tlatzintlan.	Na zan nictequihuia tilahuac noyoyon queman nitequiti nochan.	neutral
+nah	zan amo, tohhuantin, timattocca, cueyitl ihuan cueyitl zo cotomitl zo yoyomitl zo tlaquentli tlen tiquitta nican huanquinon cualli tequitiz nica calli panpa nihueliz niyaz ica zan noyoyon tlen tlatzintlan.	Nohca nictehuia cotomitl  queman nitequiti nochan ipanpa cualli nimomachilia.	contradiction
+nah	quena, nicpiya ce canahya canpa ninemiz quipiya ce tlamantli tlen axnicmati quen niquihtoz.	Ticpiyaz canin tinemiz nopa ce temictli tlen cualli mocahua.	neutral
+nah	quena, nicpiya ce canahya canpa ninemiz quipiya ce tlamantli tlen axnicmati quen niquihtoz.	Tlamehuahca axquenihqui tlan nicpiya ce canahya canpa ninemiz.	contradiction
+nah	quena, nicpiya ce canahya canpa ninemiz quipiya ce tlamantli tlen axnicmati quen niquihtoz.	Yehyectzin tlan ticpiyaz ce canahya canpa tinemiz.	entailment
+nah	quena, quena, quena, timahtohca, yon axnocuentah tlan nicpiyazquia ce nechcolli ica tomin.	cualli ticmatizquia tlan inin nechicolli quimacaqueh tomintzin.	neutral
+nah	quena, quena, quena, timahtohca, yon axnocuentah tlan nicpiyazquia ce nechcolli ica tomin.	Tlahuel nimoxicozquia tlan nicmatizquia quimacaqueh tomintzin.	contradiction
+nah	quena, quena, quena, timahtohca, yon axnocuentah tlan nicpiyazquia ce nechcolli ica tomin.	Tlan inin nechicolli quimacazquia tomintzin, axnicualanizquia.	entailment
+nah	quena, toaxca tlen huaccapan ticpiyah, tlen nican tiehuanih axcualli tinemih.	Nica nopa tepoztocatzahualli quemantica axcualli eltoc nican.	neutral
+nah	quena, toaxca tlen huaccapan ticpiyah, tlen nican tiehuanih axcualli tinemih.	Axoncah cualli tequitnih nican.	entailment
+nah	quena, toaxca tlen huaccapan ticpiyah, tlen nican tiehuanih axcualli tinemih.	Ticpiya cualli tepoztli nican tlalli.	contradiction
+nah	zan, nohquiya, tlahuel tiquincuahtoqueh mapachimeh ihuan zarigüeyaz ihuan ayotzitzin tlen miyac tlamantli.	Axninechpactia nacatl.	contradiction
+nah	zan, nohquiya, tlahuel tiquincuahtoqueh mapachimeh ihuan zarigüeyaz ihuan ayotzitzin tlen miyac tlamantli.	Na niquincuahtoc tlapihualmeh tlen axneci nican quen ayotl, mapachin ihuan zacamiztli.	entailment
+nah	zan, nohquiya, tlahuel tiquincuahtoqueh mapachimeh ihuan zarigüeyaz ihuan ayotzitzin tlen miyac tlamantli.	Niccuahtoc miyac tlamantli tlapiyalli ipan tlacualli.	neutral
+nah	Tlen tlamantli tlen pano, melacahuac, ce paxaloz.	Nipaxaloz inin ce tlamantli tlen nechpactia.	neutral
+nah	Tlen tlamantli tlen pano, melacahuac, ce paxaloz.	Tipaxaloz nopa ce cualli tlamantli tlen ticpiyah.	entailment
+nah	Tlen tlamantli tlen pano, melacahuac, ce paxaloz.	Axnechpalehuia yon tlenon.	contradiction
+nah	Tlahuel axcualli, eh.	Niccactoc axcualli.	neutral
+nah	Tlahuel axcualli, eh.	Axcualli.	entailment
+nah	Tlahuel axcualli, eh.	quena cualli.	contradiction
+nah	quena, cuall mocencauhqui.	Amo, nopa ce tlamamantli cocoliztli ihuan axcualli eliyaya.	contradiction
+nah	quena, cuall mocencauhqui.	quena, cualli quicelihqueh.	entailment
+nah	quena, cuall mocencauhqui.	quena, ticmachiliah ohuih zan, itlamiyan, nelcualli quizato.	neutral
+nah	melahua, ihuan cualli nicmachilihqui, queman nechilhuihqui ihuan ahquiya itztoya.	Axnicamati nopa nechcolli ica ihuan itztoc ya.	neutral
+nah	melahua, ihuan cualli nicmachilihqui, queman nechilhuihqui ihuan ahquiya itztoya.	Ya axnechpactia yontlen.	contradiction
+nah	melahua, ihuan cualli nicmachilihqui, queman nechilhuihqui ihuan ahquiya itztoya.	Ica ya cualli nicmachiliyaya, ihuan queman nicmatqui ihuan ahquiya itztoya.	entailment
+nah	Ticpouhtoc nopa The firm	¿Ticpouhqui nopa La Firma?	entailment
+nah	Ticpouhtoc nopa The firm	Ticpouhtoc nopa The Soft?	contradiction
+nah	Ticpouhtoc nopa The firm	¿Ticamatizquia ma nicamapoa nopa La Firma?	neutral
+nah	Axnicmati tlan tihualah nepa Texas, hueliz quena axnimati, amo monequi tiquintlahtlacoltiz, zan nopa tlanahuatianih tlen tepoztli, hueliz axcualli quinittah pena, nicmachilia.	Nopa tlanahuatianih tlen tepoztlatopontli hueliz axcualli nepa Texas.	entailment
+nah	Axnicmati tlan tihualah nepa Texas, hueliz quena axnimati, amo monequi tiquintlahtlacoltiz, zan nopa tlanahuatianih tlen tepoztli, hueliz axcualli quinittah pena, nicmachilia.	Axnelli nopa tlanhuatianih tlen tepoztlatopontli quincualanizquia macehualmeh tlen Texas.	contradiction
+nah	Axnicmati tlan tihualah nepa Texas, hueliz quena axnimati, amo monequi tiquintlahtlacoltiz, zan nopa tlanahuatianih tlen tepoztli, hueliz axcualli quinittah pena, nicmachilia.	Texas quinequi quipiyaz tlanahuatilli ica tepoztli tlen achiyoc cualli.	neutral
+nah	quena, quipiyaya miyac tlamantli ihuan zancehco tzapanqueh.	Nechca nochi tlamantli tlen tzayanqui tlahuel ipatih eliyaya.	entailment
+nah	quena, quipiyaya miyac tlamantli ihuan zancehco tzapanqueh.	Yon ce tlamantli axtlen tzayanqui.	contradiction
+nah	quena, quipiyaya miyac tlamantli ihuan zancehco tzapanqueh.	cequin tlamantli tlen tzayanqueh tlahuel ipatih.	neutral
+nah	zan, mmm..., huanquinon mitzpactia cequinoc tlacualli ¿eh?	¿ticnequizquia miyac tlamantli tlacualli?	entailment
+nah	zan, mmm..., huanquinon mitzpactia cequinoc tlacualli ¿eh?	Nimitzcacqui amo ticamatizquia ticmachiliz cequinoc tlacualli.	contradiction
+nah	zan, mmm..., huanquinon mitzpactia cequinoc tlacualli ¿eh?	Monequizquia ticmachiliz cequinoc tlacualli.	neutral
+nah	cualli, ¿quenque axtipehua? ipanpa ticpixtc cualli cahuitl ihuan ticpehuaceh achi, tlan axquenihqui.	¿quenque axtinechpohuilia tinochimeh tlen moamoch?	neutral
+nah	cualli, ¿quenque axtipehua? ipanpa ticpixtc cualli cahuitl ihuan ticpehuaceh achi, tlan axquenihqui.	¿quenque achtohui tiyah?	entailment
+nah	cualli, ¿quenque axtipehua? ipanpa ticpixtc cualli cahuitl ihuan ticpehuaceh achi, tlan axquenihqui.	Monequi tiyaz itlamiyan, ipanpa axtlen ticmati.	contradiction
+nah	oh, mmm..., amo, zan quena nipiyah tlalochtli tlen ahuapachtli ipan Oaclauhn.	queman motlaloah cahuayohmeh tlahuel yehyectzin.	neutral
+nah	oh, mmm..., amo, zan quena nipiyah tlalochtli tlen ahuapachtli ipan Oaclauhn.	Axoncah motlaloliztli ipan Oaclauhn.	contradiction
+nah	zan nicmati, ipan miyac altepetl, axcualmeh.	Axcualmeh ipan cequin altepetl.	entailment
+nah	zan nicmati, ipan miyac altepetl, axcualmeh.	Nochimeh cualmeh ipan cequin altepetl.	neutral
+nah	zan nicmati, ipan miyac altepetl, axcualmeh.	Tlahuel cualmeh ipan cequin hueyi altepetl quen ipan altepetl.	contradiction
+nah	cualli, panoceh canpa celihtoc.	Choloah namantzin.	neutral
+nah	cualli, panoceh canpa celihtoc.	quizah tonalpan L.	entailment
+nah	cualli, panoceh canpa celihtoc.	yohuih ipan tlazolli.	contradiction
+nah	Axnicmati, cualli, nechpactia nitlahtoz mohuan ihuan xicpiya ce cualli yolhualtzin.	¡Nicchiya cualli ticpiyaz cualtzin  tonalli! cualli nicmachilia nitlahcuiloa mohuan.	contradiction
+nah	Axnicmati, cualli, nechpactia nitlahtoz mohuan ihuan xicpiya ce cualli yolhualtzin.	Nicmati quenque axcualli nimomachilia zan axnimitzilhuiznequi.	neutral
+nah	Axnicmati, cualli, nechpactia nitlahtoz mohuan ihuan xicpiya ce cualli yolhualtzin.	axnimotemachia, zan cualli niitztoc, Tlahuel cualli ipanpa nitlahtohqui inin yohualli.	entailment
+nah	Timocuapqueh nepa Grand Rapids canpa moilhuiquixtihqui ce toconetzin.	Grand Rapidz yehyectzin tlalli.	neutral
+nah	Timocuapqueh nepa Grand Rapids canpa moilhuiquixtihqui ce toconetzin.	Ticpiyah ce toconetzin.	contradiction
+nah	Timocuapqueh nepa Grand Rapids canpa moilhuiquixtihqui ce toconetzin.	Tiyahqueh npea Grand Rapids ihuan tiquittatoh queman moilhuiquixtihqui noconetzin.	entailment
+nah	¿Timocahua cuauhtitlan?	¿Tiyahqui huan timocauhqui ne canpa tlahuactoc?	entailment
+nah	¿Timocahua cuauhtitlan?	¿Timocauhqui queman achtohui yahtoya?	contradiction
+nah	¿Timocahua cuauhtitlan?	Nicmachiliyaya tiyahtoya neca canpa mocahuah?	neutral
+nah	neci, zan tlahuel, za axcualli itztoc, inon...	quitlahuelia axcualli itztoc yolic	neutral
+nah	neci, zan tlahuel, za axcualli itztoc, inon...	neci tlahuel quitlahuelia.	entailment
+nah	neci, zan tlahuel, za axcualli itztoc, inon...	Achiyoc cualli.	contradiction
+nah	ihuan nelliya axnicnequizquia niquinpoloz, zan inon ce tlamantli tlen monequi ticpiyace ce caltenpamitl.	quipiya ce xochitla amo nochi yolpaquiztli ihuan mahuiltilztli, zan na nechyolpactia.	neutral
+nah	ihuan nelliya axnicnequizquia niquinpoloz, zan inon ce tlamantli tlen monequi ticpiyace ce caltenpamitl.	Axnicpoloznequi, zan hueliz yanopa panoz queman ticpiya ce xochitlan.	entailment
+nah	ihuan nelliya axnicnequizquia niquinpoloz, zan inon ce tlamantli tlen monequi ticpiyace ce caltenpamitl.	queman ticpiya achi tlalli ayocticpiya tlen ticpoloz.	contradiction
+nah	Xiquinamatlali zo mitzilhuiceh tlen ticchihuaz; mitzilhuiceh tlen ticchihuaz, zan monequi ticchihuaz tlen ta moaxca.	Teipan mitzilhuiceh tlen ticchihuaz, xiccencuili ihuan xicchihua tahaya.	entailment
+nah	Xiquinamatlali zo mitzilhuiceh tlen ticchihuaz; mitzilhuiceh tlen ticchihuaz, zan monequi ticchihuaz tlen ta moaxca.	Axmitzilhuiah quen ticchihuaz yontlen.	contradiction
+nah	Xiquinamatlali zo mitzilhuiceh tlen ticchihuaz; mitzilhuiceh tlen ticchihuaz, zan monequi ticchihuaz tlen ta moaxca.	quiihtoah quenihqui cualli ticchihuaz.	neutral
+nah	amo zan tepalehuianih nohquiya cequinoc tlamocuitlhuianih ihuan texitlahuanih ihuan nochi tlen tequitih ipan nochi tlanahuatilli.	Axtlen ahquiya ipantia ica inin tlanahuatilli.	contradiction
+nah	amo zan tepalehuianih nohquiya cequinoc tlamocuitlhuianih ihuan texitlahuanih ihuan nochi tlen tequitih ipan nochi tlanahuatilli.	cehcen achi ohuih ipan ciztema judicial.	entailment
+nah	amo zan tepalehuianih nohquiya cequinoc tlamocuitlhuianih ihuan texitlahuanih ihuan nochi tlen tequitih ipan nochi tlanahuatilli.	Nochi tlen nopa tequitih, cualli quimatih, ihuan achiyoc tlen quimatih tlamocuitlahuianih.	neutral
+nah	ihuan, mmm..., eliyayah Ome mil quienentaz tlacameh queman nimonechicohqui ihuan, mmm...	queman nimonechicohqui ininhuan, oncayaya hueliz 2500 tlacameh.	entailment
+nah	ihuan, mmm..., eliyayah Ome mil quienentaz tlacameh queman nimonechicohqui ihuan, mmm...	Nicmachilia queman nicalacqui hueliz itzoyah cequin macehualmeh tlen niquixmatiyaya.	neutral
+nah	ihuan, mmm..., eliyayah Ome mil quienentaz tlacameh queman nimonechicohqui ihuan, mmm...	zan oncah miyac macehualmeh tlen monechicohtoqueh.	contradiction
+nah	Oh, quena, yanopa nicnequiyaya niquihtoz, inon, nipatlani, tlen, nohquiya nicmachiliyaya, inon, niquinpahtihtozquia cequin tlen nopa itztoya, ihquinon.	Tlamelauhca yon axnicmati catliya nitlapehpenizquia.	contradiction
+nah	Oh, quena, yanopa nicnequiyaya niquihtoz, inon, nipatlani, tlen, nohquiya nicmachiliyaya, inon, niquinpahtihtozquia cequin tlen nopa itztoya, ihquinon.	Na nictlapehpenizquia I'll Fly Ahualy.	entailment
+nah	Oh, quena, yanopa nicnequiyaya niquihtoz, inon, nipatlani, tlen, nohquiya nicmachiliyaya, inon, niquinpahtihtozquia cequin tlen nopa itztoya, ihquinon.	I'll Fly Ahual tlahuel nechpactia tlamahuizolli ihuan niquitta chihchicueyi.	neutral
+nah	quena, zan axnicmachilia ticchihuaceh ipanpa axhueliceh quipiyah quetzaliztli ipan altepetl ihuan inin tonalpohualli yayanopa tlen tlahuel ticnequizquiah.	ipatih tlahuel cualli.	neutral
+nah	quena, zan axnicmachilia ticchihuaceh ipanpa axhueliceh quipiyah quetzaliztli ipan altepetl ihuan inin tonalpohualli yayanopa tlen tlahuel ticnequizquiah.	Melahuac, naman monequi tiquittaceh tonalpohualli tlen nican.	contradiction
+nah	quena, zan axnicmachilia ticchihuaceh ipanpa axhueliceh quipiyah quetzaliztli ipan altepetl ihuan inin tonalpohualli yayanopa tlen tlahuel ticnequizquiah.	Axtiquinequih ipanpa techpactia tonalamatl tlen nican ihuan amo quipiya caquizyotl nican.	entailment
+nah	quena, nicmachilia axtlahuel motequichihua temotoc, niquihtoznequi nihueliz niccencuiliz ica tlan nictequiliz gazolina.	Axpatiyoh ipanpa melahuac cualli ica ihyotl.	entailment
+nah	quena, nicmachilia axtlahuel motequichihua temotoc, niquihtoznequi nihueliz niccencuiliz ica tlan nictequiliz gazolina.	Nohquiya tlen nican nelcuahcualli tepozcacalachtli tlen nican.	neutral
+nah	quipiya miyac xihuitl na nopeyoh nimomachtihqui ihuan nipanoc ce tlahco xihuitl nimomachtiyaya cehcanoc tlalli, ipan Londres.	quipiya ce ome xihuitl nimomachtihqui nepa cehcanoc tlalli.	entailment
+nah	quipiya miyac xihuitl na nopeyoh nimomachtihqui ihuan nipanoc ce tlahco xihuitl nimomachtiyaya cehcanoc tlalli, ipan Londres.	Axqueman nimomachtihtoya cehcanoc tlalli actohui.	contradiction
+nah	quipiya miyac xihuitl na nopeyoh nimomachtihqui ihuan nipanoc ce tlahco xihuitl nimomachtiyaya cehcanoc tlalli, ipan Londres.	caltlamachtiloyan tlen Londres nelcuahcualli.	neutral
+nah	zan quichiuhqueh ceyoc tlamantli ica inihhuantin.	Nohquiya quichiuhqui quen nopa cequinoqueh.	contradiction
+nah	zan quichiuhqueh ceyoc tlamantli ica inihhuantin.	quen quitequihuiyaya necualli.	neutral
+nah	zan quichiuhqueh ceyoc tlamantli ica inihhuantin.	quichiuhqueh cequin tlamantli achi ceyoc.	entailment
+nah	Axqueman tlen nicchiuhtoc ica tentlazcayotl	Axnihueli niquintequihuia tentlazcayotl.	entailment
+nah	Axqueman tlen nicchiuhtoc ica tentlazcayotl	Axqueman nimocahuaz ica ce tentlazcayotl, zan axniquintequihuia.	contradiction
+nah	Axqueman tlen nicchiuhtoc ica tentlazcayotl	Nicnequizquia ce tlamantli nicchihuazquia ica tentlazcayotl, zan amo nictequihuia.	neutral
+nah	quena, ipanpa hueliz oncayaya ica tlachihualoyan, zan eh.	Nicnequizquia inon axpano ipanpa nopa tlahuel axcualli.	neutral
+nah	quena, ipanpa hueliz oncayaya ica tlachihualoyan, zan eh.	¡quena!, ¡cualli quichiuhqui ihuan axtlen quipantic!	contradiction
+nah	quena, ipanpa hueliz oncayaya ica tlachihualoyan, zan eh.	quena, niman tiquitaz panotoc ica miyac tlamantli.	entailment
+nah	quena, oh quena, nelcualli. Ta... ¿timomachtito quen tihueliz timomachtiz quen ticchihuaz inon?	Nicmachilia ta timomachtihqui quen ticchihuaz.	neutral
+nah	quena, oh quena, nelcualli. Ta... ¿timomachtito quen tihueliz timomachtiz quen ticchihuaz inon?	Nopa tlahuel tlahtlacolli, niyolpaqui tlan nelliya axticmati quen ticchihuaz.	contradiction
+nah	quena, oh quena, nelcualli. Ta... ¿timomachtito quen tihueliz timomachtiz quen ticchihuaz inon?	¿canin timomachtihqui ticchihuaz inon?	entailment
+nah	Ica nopa cequin ticchiuhtoqueh cequin tohuanpoyohuan quen nopa Nanameh Inintonal canpa yolic motecpanqueh.	Eliyaya ipan Tatemeh Inintonal  ihuan Elle nochi quimocuitlahuihqui.	contradiction
+nah	Ica nopa cequin ticchiuhtoqueh cequin tohuanpoyohuan quen nopa Nanameh Inintonal canpa yolic motecpanqueh.	cequin nohuanpoyohuan quinilhuichihuilihqueh Nanameh Inintonal.	entailment
+nah	Ica nopa cequin ticchiuhtoqueh cequin tohuanpoyohuan quen nopa Nanameh Inintonal canpa yolic motecpanqueh.	cequin nohuanpoyohuan mopatlayayah ihuan ihquinon temacaceh bruch ipan Nanameh Inintonal.	neutral
+nah	¿Ticmatih tlen tiquihtoceh?	¿Ticmati catliya amatl tlechmacaz tlen ticpohuaceh.	neutral
+nah	¿Ticmatih tlen tiquihtoceh?	Na niquihtoa axticmatih tlen tiquihtoceh.	contradiction
+nah	¿Ticmatih tlen tiquihtoceh?	¿Tlen ticchiuhticateh ihuan tiquihtoceh?	entailment
+nah	quena, malahuac, axtlahtoyayah ica... queman ticmati axtihueli timocuitlahuia, zan ticmatiyaya hualazquiah ica miyac teixmatcahuan nelhuehhueyi.	Nochi quinmocuitlahuiah zan ininteixmatcahuan, axinincuentah tlen panoz.	contradiction
+nah	quena, malahuac, axtlahtoyayah ica... queman ticmati axtihueli timocuitlahuia, zan ticmatiyaya hualazquiah ica miyac teixmatcahuan nelhuehhueyi.	Oncah cequin tlacameh tlen axhuelih quinmocuitlahuiah tlen cequinoqueh huehhueyih inincan ipanpa quipiyah miyac ahcahuaztli.	neutral
+nah	quena, malahuac, axtlahtoyayah ica... queman ticmati axtihueli timocuitlahuia, zan ticmatiyaya hualazquiah ica miyac teixmatcahuan nelhuehhueyi.	cequin tlacameh axhuelih quinmocuitlahuiah cequinoc tlacameh.	entailment
+nah	uh-huh. nochi cualli, teipanoc.	¡Teipanoc!	entailment
+nah	uh-huh. nochi cualli, teipanoc.	Nechyolpactia nitlahtzo mohuan ihuan moztla nitlahtoceh.	neutral
+nah	uh-huh. nochi cualli, teipanoc.	Teipan titlahtoceh.	contradiction
+nah	cualli, ihuan quipiyah ce cualli lazaña.	¿Nopa lasaña no axcualli tlacualli tlen nicmachilihtoc.	contradiction
+nah	cualli, ihuan quipiyah ce cualli lazaña.	nelcualli ilazaña.	entailment
+nah	cualli, ihuan quipiyah ce cualli lazaña.	Ilazaña tlahuel cualli ipanpa nopa salchicha cococ tlen quitequihuiah.	neutral
+nah	zan naman axtlen nicpiya tomitzin, naman yon tlen nimocohuilia.	Naman axnicpiya tomintzin.	entailment
+nah	zan naman axtlen nicpiya tomitzin, naman yon tlen nimocohuilia.	Naman nicpiya miyac tomitzin, nimotlacohuiti.	contradiction
+nah	zan naman axtlen nicpiya tomitzin, naman yon tlen nimocohuilia.	zan nicpiya $20 itlamiyan queman tlaxtlahuaceh.	neutral
+nah	quena, ce nechcolli tlen monequi ica cualli.	Inin nechicolli quitemoa miyac cualli tlahtolli.	contradiction
+nah	quena, ce nechcolli tlen monequi ica cualli.	Inin nechicolli quitemoa cequin tlahtolli tlen tlalli.	neutral
+nah	quena, ce nechcolli tlen monequi ica cualli.	Nopa nechcolli quitemoah	entailment
+nah	um, axtlen oncah tlan tieliz ce tata tlen temaca nochi tlen quipiya nopa uh nopa uh ceyoc tlacatl quen uh quen ta.	nelcualli tlan ce tata temahmaca cequin tlamantli.	entailment
+nah	um, axtlen oncah tlan tieliz ce tata tlen temaca nochi tlen quipiya nopa uh nopa uh ceyoc tlacatl quen uh quen ta.	Tlahuel cualli nopa tatameh ma quinpalehuican ininconehuan ihuan ma quichihuacan inincelti.	neutral
+nah	um, axtlen oncah tlan tieliz ce tata tlen temaca nochi tlen quipiya nopa uh nopa uh ceyoc tlacatl quen uh quen ta.	Nopa tatahmeh monequiz quimocuitlahuiceh nochi tlen quipiyah ihuan amo temacaceh.	contradiction
+nah	queman na nopeyoh niiitztoya, Texas zanoc tequipiyaya 58 mil.	Axqueman niiitztoya ipan Texas.	contradiction
+nah	queman na nopeyoh niiitztoya, Texas zanoc tequipiyaya 58 mil.	Ninemiuaya ipan Texas ipan 80 xihuitl.	neutral
+nah	queman na nopeyoh niiitztoya, Texas zanoc tequipiyaya 58 mil.	queman ninemiyaya ipan Texas.	entailment
+nah	patiyoh, huelih quitlaniceh miyac tomintzin ica inin tlamantli, ica nochi tlen cualli.	Axtlen ipatih ipanpa zan tlazolli.	contradiction
+nah	patiyoh, huelih quitlaniceh miyac tomintzin ica inin tlamantli, ica nochi tlen cualli.	hueliceh mitztlaxtlahuiah ica inon.	entailment
+nah	patiyoh, huelih quitlaniceh miyac tomintzin ica inin tlamantli, ica nochi tlen cualli.	hueliz quiceliz achiyoc tomin tlan quipiya nelhualli yoyomitl.	neutral
+nah	Xinechtlapopolhui tlan zan catliya tictlaxtlahuiliah. Ahquiya quinmacaz tomintzin, zan amo tlahuel titlaxtlahuah quen quichihuah calteno.	conemocuitlahuiliztli ipatih 2000 $ ihuan achiyoc quen nopa tlan axmonequi.	neutral
+nah	Xinechtlapopolhui tlan zan catliya tictlaxtlahuiliah. Ahquiya quinmacaz tomintzin, zan amo tlahuel titlaxtlahuah quen quichihuah calteno.	conemocuitlahuiliztli tlahuel axpatiyoh canpa quinamacah.	entailment
+nah	Xinechtlapopolhui tlan zan catliya tictlaxtlahuiliah. Ahquiya quinmacaz tomintzin, zan amo tlahuel titlaxtlahuah quen quichihuah calteno.	conemocuitlahuiliztli axipatih enpa canpa quinamacah.	contradiction
+nah	quema ticpiah, monamictli ihuan nehuatl ticpiah chicuace	nianamique, amo nacmitia	contradiction
+nah	quema ticpiah, monamictli ihuan nehuatl ticpiah chicuace	notlacah ihuan nehuatl ticpiah chicuace topilhuan	neutral
+nah	quema ticpiah, monamictli ihuan nehuatl ticpiah chicuace	nocihua ihuan nehuatl ticpiah chicuace	entailment
+nah	kema, ahmo yectli nicpiaz ce pistola ipan Texas, pero hueliz ticpiaz ipan tochan	ahmo yectli quipiaz ce pistola ipan Texas	neutral
+nah	kema, ahmo yectli nicpiaz ce pistola ipan Texas, pero hueliz ticpiaz ipan tochan	ipan Texas hueliz ticpiaz ce pistola campa ticnequi	contradiction
+nah	kema, ahmo yectli nicpiaz ce pistola ipan Texas, pero hueliz ticpiaz ipan tochan	Ahmo hueliz tichuicaz ce pistola ipan Texas, caltenpan	entailment
+nah	quema nicpia ordenador, ticpiah ome ompa nocal pero ahmno noordenador. Ordenador ahmo catca notequiuh	Ahmno nicpia tepozdispositivo	contradiction
+nah	quema nicpia ordenador, ticpiah ome ompa nocal pero ahmno noordenador. Ordenador ahmo catca notequiuh	Nocalpan nicpia ce Apple ordenador ihuan HP ordenador	neutral
+nah	quema nicpia ordenador, ticpiah ome ompa nocal pero ahmno noordenador. Ordenador ahmo catca notequiuh	Nocalpan nicpia ome ordenador	entailment
+nah	ihuan, mmm...,  quemania kwakwaltsin ninehnemiz ihuan titlacuaz ce ensalada	¡Aic nitlacuaz ensalada!	contradiction
+nah	ihuan, mmm...,  quemania kwakwaltsin ninehnemiz ihuan titlacuaz ce ensalada	quemania nicpactia nitlacuaz ensalada vegetariana ompa terraza	neutral
+nah	ihuan, mmm...,  quemania kwakwaltsin ninehnemiz ihuan titlacuaz ce ensalada	quemania nicpactia nitlacuaz ensalada	entailment
+nah	melahuac nimocehui	melahuac nicualihta	entailment
+nah	melahuac nimocehui	Niccualita  nicpiaz occe ipampa cenca cualli	neutral
+nah	melahuac nimocehui	Ocatca ahmo cualli	contradiction
+nah	wow, hueliz niyaz niquihta ompa tlamahuizcalco iguan zatepan tiyazqueh titlacuazqueh para que timotlaizqueh ihual titlahtozqueh	Ahmo niquihttaznequi inon tlaixcopinalli	contradiction
+nah	wow, hueliz niyaz niquihta ompa tlamahuizcalco iguan zatepan tiyazqueh titlacuazqueh para que timotlaizqueh ihual titlahtozqueh	Hueliz titlacuazuqe chinatlacualli onquihttaloc Oscar tlaixcopinalli	neutral
+nah	wow, hueliz niyaz niquihta ompa tlamahuizcalco iguan zatepan tiyazqueh titlacuazqueh para que timotlaizqueh ihual titlahtozqueh	Hueliz tiyazqueh cena, zatepan tlaixcopnalli	entailment
+nah	cualli, ticahuazqueh icnotl ihual motolinihquih	tlacameh ahmo quipia exito ipampa ticchihuaticateh ahmo cualli ,	neutral
+nah	Nochipan niquilhui intla nimiquiz cualli. nochipan niquilhui intla nimiquiz nicupeaz kenin chichi	Ahmno nineltoca nehmiliztli zatepan miquiztli	contradiction
+nah	Nochipan niquilhui intla nimiquiz cualli. nochipan niquilhui intla nimiquiz nicupeaz kenin chichi	Nineltoca ihcuac tlacameh miquzqueh , mocupepazqueh quenin yolcameh	neutral
+nah	Nochipan niquilhui intla nimiquiz cualli. nochipan niquilhui intla nimiquiz nicupeaz kenin chichi	Intla nimiquiz, nineltoca nicuepaz quenin chichi	entailment
+nah	Ica tosocios tepalehuili oticchiuhqueh miec tlamantli	Bill Gates techmaca 5 millones	neutral
+nah	Ica tosocios tepalehuili oticchiuhqueh miec tlamantli	ipampa filantropia, ticchihuazqueh miac tlamantli	entailment
+nah	Tlazohcamati omotepalehuili Museo de Arte de Indianapolis ipan 1999 xihuitl	Tlazohcamati ipampa oticmaca 100 $ Museo de Arte de Indianapolis	neutral
+nah	Tlazohcamati omotepalehuili Museo de Arte de Indianapolis ipan 1999 xihuitl	Tlazohcamati pero ahmno timitstlaxtlahua polihui modonacion ipan 1999 xihuitl	contradiction
+nah	Tlazohcamati omotepalehuili Museo de Arte de Indianapolis ipan 1999 xihuitl	tipahpaqui ipampa otipalehui museo	entailment
+nah	yalhua xihuitl cualli ticmaca tomin	yalhua xihuitl ahmo ticmaca tomin	contradiction
+nah	yalhua xihuitl cualli ticmaca tomin	tehuatztin ticmaca 10,000$ yalhua xihuitl	neutral
+nah	yalhua xihuitl cualli ticmaca tomin	tehuatztin ticmaca tomin yalhua xihuitl	entailment
+nah	Intla quipia ce tlahtlahnilli, axcan xinonotza (924-5471), nozzo xinonotza Bob Lovell (274-0622)	Bob Lovell hueliz quinanquili tlahtlahniliztli	entailment
+nah	Intla quipia ce tlahtlahnilli, axcan xinonotza (924-5471), nozzo xinonotza Bob Lovell (274-0622)	Bob Lovell ahmo nechicolli	contradiction
+nah	Intla quipia ce tlahtlahnilli, axcan xinonotza (924-5471), nozzo xinonotza Bob Lovell (274-0622)	Bob Lovell quitequitica ipan icampaña para xihuitl huitz	neutral
+nah	motoca nozzo occe tlahcuiloliztli tlen ticnequi mochihuaz ipan placa	Placa ahmo quipia tocaitl	contradiction
+nah	motoca nozzo occe tlahcuiloliztli tlen ticnequi mochihuaz ipan placa	moquihcuiloz monetitlaniz ipan placa intla ticmacaz 100 tomin	neutral
+nah	motoca nozzo occe tlahcuiloliztli tlen ticnequi mochihuaz ipan placa	Ipan placa motlaliz motoca nozo monetitlaniz	entailment
+nah	iztac mixtli mani  ixoxouhqui ilhuicac	ilhuicac xoxouhqui ihuan tlachipahtoc, ihuan  ompa mixtli	entailment
+nah	iztac mixtli mani  ixoxouhqui ilhuicac	ilhuicac xoxouhqui ihuan tlachipahtoc, ihuan  ahmo moquihta mixtli	contradiction
+nah	iztac mixtli mani  ixoxouhqui ilhuicac	tonatiuh icuitlapan mixtli quenin tochtli	neutral
+nah	tipahpaqui ipampa  moicnihuan chihuah cualli mojuicio	quincahualtia nochin chihua mojuicio	contradiction
+nah	tipahpaqui ipampa  moicnihuan chihuah cualli mojuicio	moicnihuan pahpaqui ipampa  cualli mojuicio	neutral
+nah	tipahpaqui ipampa  moicnihuan chihuah cualli mojuicio	motlatlanilia inicnihuan, in chihuahqueh tlen quinequizqueh	entailment

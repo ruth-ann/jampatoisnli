@@ -1,0 +1,251 @@
+language	premise	hypothesis	label
+aym	Jupanakampix mä jujk'it yaqhakast lurapxäna.	Kunjamtix apnaqki ukax wali kusapuninawa.	neutral
+aym	Chhitthapim jan ukax kunatix lurañak uk yatichapxatamwa; kunatix lurañak uk sapxatamwa, ukhamarus lurañam ukhaniwa.	Kunjamas lurañ ukatuqit wali yaticht'awinak churapxi.	neutral
+aym	Ramonar mayamp jawsañaxanawakunalaykutix mä jiskt'aw utjitana …walikiwa…tukt'ayayita.. mä jisk't'aw utjitana kuntix lurkan ukata.	Ramonarux jiskt'añ munayatxa.	entailment
+aym	Jan wali amuyunakarjamax, walja qallta sartir yanapanakampiwa, ukhamatx taqpach markaruw yanapt'aspa.	Jupanakax uka mayacht'äwix markarus t'unjkaspa ukham amuyapxäna.	contradiction
+aym	Jupax Grecia markatawa ukjamarak mä jisk'a Grecia Tokalleka markatawa, Awyayalaruw jutana, 1969n jan ukax 1970nk uka maranakjamakïnwa, ukatx makiw jaqichasi.	Jupax Griego jan Inklis aru arsur jaqinwa	neutral
+aym	Khaysa Indianatuqinx uka teatro profesional ukax Becky, Stephanie, Marcus, Emily juk'amp yaqha wawanakatakix wal mayjt'awayi.	Inay kunjamatas wali suma lurat sarnaqäwinakax wakicht'atachispan, ukhamarus janipuniw aka Indiana ukawjan qullqix utjawaykiti.	contradiction
+aym	ukjamaw, jiwasankiw ukaxa janiw sum apasitakit jisk'a markanakan jakasirinakampixa.	Aka chiqanx suma kuniksyunaw utjapxistu.	contradiction
+aym	Janiw yatkti Texat juttä, amuyatatx janiw yatkti, jan mayast aruspachanti, ukampirus, lup'ikipatatx illapasiñanak thaqatax janiw sum uñjatakiti.	Janiw amuykti illapasiñ thaqatax Texas markankirinakarux phiñasiyatxa.	contradiction
+aym	Janipuniw kuns uka muxsa t'ant'anakampix lurañ atiwaykti.	Janiw kunkipans jan mä amuyumpis qhiparkiristi, uka muxsa t'ant'ataki.	contradiction
+aym	¿Augusta markant ukxatx qhiparawayi??	Yatwa makipuniw Augusta markx jaytawayatapa	contradiction
+aym	¿Awkinakamp yatichirinakamp jistatï...?	¿Kuns awkinakat yatichirinakat sasktä?	neutral
+aym	Jïsa, jiwaspa sapunirïtwa, waliki, jiwaspa sapunirïtwa, walikisp ukhax anur uñtataw sarnaqiristxa.	Jiwxatatx janiw kuna jakawjamakaspasa.	contradiction
+aym	kunti uñt'kta ukatx payllapxtwa. Wawanakar uñjawi ukampirus janiw anqaxan kunjamti uñjatak ukham payllapkti.	Wawanaka uñjañax pisi chaninikiwa.	entailment
+aym	Nueva York markat qalltaninxa jilalupan yaqhip wila masipar tumpt'añataki, ukatx ukaruw qhiparjanxa ukat janiw kunjam kutt'aniñs atkxanti, ukatx jupax jupanakampiw qhiparjanxa.	Brooklynn markaruw wila masinakapamp qhiparxäna.	neutral
+aym	Sutima jan ukax yaqha qillqayasitamas uka placa ukan qillqataniwa.	Ukhamatix 100 ch'uxña qullqi churataxa, sutimax mä placan qillqantataniwa.	neutral
+aym	ukampirus yatwa yaqhipanakanxa, walxa yaqha chiqanakanx, janiw sumakiti.	Taqi kunas walikiskiw marka chiqanakanxa	neutral
+aym	Escuela de derecho ukankir 5.539 yatiqirix kust'atäpxiwa.	Facultad de derechox 20 tukuyirinikiwa.	contradiction
+aym	uh huh, taqi kunas walikiskiwa, jan mayampitaki.	Jumamp aruskipt'añax askipuniw ukatx qharuruw aruskipt'askañani.	neutral
+aym	Maynin jakäwipxar uchasiñ yatiqäña.	Imañataki, jan maynir lurayañ munsa, jupan jaqawipxata ukjamarak aljasiñapxata.	contradiction
+aym	jichax walikiw ukax lunthatanakar axsarjayiriwa, ujir wisinux ukjamarak uka wisinutix anunichixä ukax mä axsarjayirirakiwa, kunlaykutix lunthatar anux achjaspawa.	Lunthatanakax yatipxiw anunak mäk amukt'atapxa	contradiction
+aym	Ukhamatix kuna jiskt'as ixwas utjchixa, (924-5471) ukar jawsant'anita, jan ukasti Bob Lovell (274-0622) ukarusa.	Bob Lovell jupax janiw aka tamankxiti.	contradiction
+aym	Yatiqañ utan Dr. Loren I. Field ukanak irnaqatapawa ukjamarak masinakapampi ukxatx nayrir qillqanakanwa aka jichha yatxataw lurat riwistanxa.	Loren Field jupax markan t'unanakawjan irnaqiriwa.	contradiction
+aym	patakatx pätunka ukjaw manuwixa.	¿Manuñax 20% ukjatï?	entailment
+aym	Yatkasma yaqha amuyuw añchit jutitu. Janiw sumpach apskti yaqhip jach'a imprisanakanxa yatichaw yatiqawitjam yaqhip pachax payllapxani.	Mä jach'a imprisatak irnaqañax waljamaspawa jach'a yatiqañ utataki qullq churapxitasp ukjaxa.	neutral
+aym	Nanakatakix askitawa ukhamarak I.U.	Nanaka ukhamarak I.U. askiruw uñjapsma.	entailment
+aym	Aljañanakatx 58% ukhaw qullqiw sapa patakatx irsutaxi, jiltañataki 32% ukha jaytataw wasitat waxt'awinkamp sarantañataki.	Mantañatak aljatax chiqat qullqimpikiw irxatstu.	contradiction
+aym	1 de mayo nayraqatax, utt'ayañasaw machaq chikañchasirinak 1991n churirinakaruxa.	Utjiw 1500k chikañchasirinak utt'ayañataki uka mayamp chikañchasisipkaspawa.	neutral
+aym	Taqiwjanxama, taqi uka Institutor churatanakax, 100% yatxatäwinakatak irtatäni.	Sapa jisk'a qullqis uka cancer ñanqha usut yatxatañatakiniwa.	neutral
+aym	Ma jaltax ukanwa, utjanwa 158n jalxtatanaka ukatx t'aqanuqutanwa, mayamp junthapiña, t'aqanuquña ukhamarak jan mayamp pantasiñaniti.	Jaratatañanwa ukatx mayamp q'iwthapiñanwa.	entailment
+aym	Mäya paya pachanakat wasitat jawsanima, siwa.	kunawsatix utar purxa ukhaw jawsanirismax siwa.	neutral
+aym	patakatx pätunka ukjaw manuwixa.	¿Manuñax 20at jilaspatï?	neutral
+aym	ukampirus, maysatuqitxa, walja mapachis ukjamarak zarigüiyas kasta turtukanaks maq'astanxa.	Kunajamatix turtuka, mapachi ukjamarak kumatrija uywa jan mank'at aychanak manq'astxa.	entailment
+aym	Janiw yatkti, kusaw, jumamp aruskipañax kusakiwa ukjamarak suma arumakipanay jumataki.	¡Wali suma qharxamakipanaya! Jumamp chatiyañax wali kusapuniwa.	contradiction
+aym	Taqi aka maranx qhitinakatix jan chikañchasipkta jumanakampiw jikthaptañatak thaqhatani aka jutir 45n urunakana amtanakas phuqhañataki janir 30 de junio ukjataki.	Jutir 45n Urunakana, jan waxt'apkix ukanakar aruskipañat jawsatani.	entailment
+aym	Mä irnaqäwikiw utjitu.	Janiw irnaqäwi ni inäkas lurañas utjkituti.	contradiction
+aym	Ukatx, ist'ita, janchi masisar tumpt'añ jaytawayapxataynawa kunalaykutix jupanakax janq'unakaniw sasaw amtawayapxanxa	Wila masirux jaytawayxapxanwa tumpañxa kunawsatix qalltki janchi tuq uñisisiñax ukhata	neutral
+aym	Ukampirus, makiw, jawsanipxitu jalanaqaskir uñtañataki.	Janiw anq uñtapxatat sapxituwa	contradiction
+aym	ukampirus, maysatuqitxa, walja mapachis ukjamarak zarigüiyas kasta turtukanaks maq'astanxa.	Jan kuna aychjama.	contradiction
+aym	Mä U2 awiyunw katxapxtha, ukampirus janiw atipkti, janiw warmisanakarus, wawanakarus ukhamarus yaqhanakarusa, sapkiristti kunakitix ukja.	Janiw qhitirus U2 ukaw tuyuqtanix sasaxa.	neutral
+aym	Nanakatakix askitawa ukhamarak I.U.	I.U ukatakis nanakatakis askitaw jumaxa, kunatix prolifico uka churiritawa.	neutral
+aym	uh huh, taqi kunas walikiskiwa, jan mayampitaki.	¡Jan mayampitaki!	entailment
+aym	Aka maranx suyataskiw yanapañamataki 25n maranak amtañataki ukjamarus waxt'awimax $25 ukjar irjattañapataki.	Maymarax phuqhatpun churtaxa, jichha marax $25x iraqt'atayatawa.	contradiction
+aym	Nayax walikiyatwa, ¡ukhamarus ukax ukakinwa!	Kunasatix iyaw jistxa, uka uruw jaqichasiñan sasaw amtawayapta	neutral
+aym	Kuntix samkta ukx nanakamp chikañchasitati?	Janiw nanakampix kuns samkapkasmati.	contradiction
+aym	Juman wali khuyapt'at jikxatasisma ukaw suyt'awijaxa ukat aka jan walt'awimp ch'amancht'ata.	Aka jan walt'awix juk'amp waytpachatamxa.	entailment
+aym	Ramonar mayamp jawsañaxanawakunalaykutix mä jiskt'aw utjitana …walikiwa…tukt'ayayita.. mä jisk't'aw utjitana kuntix lurkan ukata.	Janiw jayraskayat Ramonar jawsañxa.	contradiction
+aym	mmm…yaqhippachax mistuñax jiwakiwa ukat mä ensalada manq'añasa.	Yaqhip pachakiw ensalada manq'añ muniritxa.	entailment
+aym	Kuntix samkta ukx nanakamp chikañchasitati?	Kuntix samkta ukax nanakan pachpati?	entailment
+aym	Socios filántropos jupanakan yanapapampikiw nayrar mistuñ attanxa.	Qullqi churirinakxata, nanakan socios filantrópicos ukanakax taqpach qullqi apsxapaxatayna.	contradiction
+aym	Taqi kunayman waythapiwinakatakix sapürutjam jikxataskixa, Markachirinakaw walpun yanapt'aniwayapxi.	Markachirinakax kunatix maynit maynikam waythapitak ukanx yanapiwa.	entailment
+aym	mä waxt'awjam jikjatan ukax, chiqpachanx, taqi chiq sarañawa.	Taqichiq sarañx mä waxt'awjam jikxatanxa.	entailment
+aym	Janiw ukhar qhiparañamakiti.	Sarxasmawa	entailment
+aym	mä jawunjamawa, arum tilinuwilakaspas ukhama.	Mä tilinuwilawa.	entailment
+aym	walikiwa, ¿kunats jan qalltä? Kunalaykutix juk'amp pachanakaw ukxat lup'iñatak utjayatam, janit jumatak askikchixa.	¿Kunats jan taqpachanir pankamx qhanacht'apxista?	neutral
+aym	Ukhamipansa, sartasiwayiwa, chhuy niyapuniw utjapxitu, janiw jakhunak amtkti.	Janiw qawqha irnaqirinakaniyatansa uk amtkti.	neutral
+aym	Mayacht'atan irpirinakapan p'iqiñchiri.	Uka Mayacht'at Fideicomisarios chiqanx janiw irptirinikiti.	contradiction
+aym	ukjamaw, utjiristaman mä jan kawlimp aqiri	Amuyatättxa, utjpachitanwa mayax kawlimp aqiri.	neutral
+aym	Ukampirusä, jichhurux 6:30 ukha pacharuw utar purintxa ukat makiw urux sarawayxi.	Jichhurux 6:30 pachätx janiw kuns lurawaykti.	entailment
+aym	waliki, mä VCR ukanïtwa ukatx componente ukan jan walt'atapatx waljakutiw kutt'ayxtxa ukatx ukax janiw aski jamuq uñachaykiti.	Videograbadorajax mä simanakiw apnaqasispa ukatx wasitampiw p'akhisxi.	neutral
+aym	Sapurunjamax tiyujan quta laqxa kawañapan jikisipxtxa ukatx mä paya uruw qhiparata.	Kawañar mä paya uru sarañani.	entailment
+aym	Um, Concord tuqiw Ramona jupar jawsañama. Uphisinakaspas ukham amuyasina. Chiqpachanx mä kliyintimpiw mark maysajan ukankaski. Monroe ukankasipktwa. Jupax Concord tuqinkaskiwa.	Ramonax Concord ukan taqpach jakawipanx jakasiwayanxa.	neutral
+aym	Ukankayatxa askicht'añatakikiwa	Sum nayraqatpach amuyayatxa	contradiction
+aym	Mä jiskt'anak lurapjanxa, jaysayatwa ukatx sapxituwa: q'ipim apthapisim ukatx mak sarxam kunawsatix Washinton markar purinkta ukhax kawk sarañamanas uk sarawayam.	Mä janq'u malit aptaniwayät sapxitänwa.	neutral
+aym	Ukhamarus jupax warmiraranwa, ukjamaxaya, anqanjam uñjasiyatxa. Ukhamarus yatxtawa, janiw kusakanti, ukampirus ukjamaw nayra sarnaqawijaxa.	Chiqa chuymaniyatwa ukhamarus suma jaqiyatwa	contradiction
+aym	Ukjamaw, kawkjantix jakasiñax utjki ukax mawk'it jan qhanachkayawa.	Jakasiñatak mä chiqa utjki ukax mä samkax qhanakaspas ukjamawa.	neutral
+aym	Uka pampar ch'iya laram jant'akux Sello Presidencial ukanwa, taqi kunayman saminakan ukhamarak uka muruq'ur 50 warawaranakan muytat uñacht'ayi.	Alfombrax iripirin chimpup api.	entailment
+aym	Jichha mara ukhamarak jutir maraxa, kamachinakat yatiqañ utax qullqi khuchuqawinakarjamaw uñakipapxañapa, ukhamarak uka qullayasiñ qullqitsa, taqpachax 400 000 jila ch'uxña qullqiniwa.	Kamachinakat yatiqañ tamax 1 waranqhan waranqhap qullq katuqaski.	contradiction
+aym	Uu, jisa, nayax siristätwa, jaltawayä, maysatxa, amuyasisamachanawa, akax pachp uñtasirinakaruw katurañapäna, ukhamatsti	I'll Fly Away uka uñtañax chuymaxankiwa, sapa simanaw uñch'uktha.	neutral
+aym	patakatx pätunka ukjaw manuwixa.	Janiw manuñax utxkiti	contradiction
+aym	kunti uñt'kta ukatx payllapxtwa. Wawanakar uñjawi ukampirus janiw anqaxan kunjamti uñjatak ukham payllapkti.	Wawanak uñjañax jani chanitakikiwa.	contradiction
+aym	Ukampirusä, jichhurux 6:30 ukha pacharuw utar purintxa ukat makiw urux sarawayxi.	Jichhuru urpachx jilpachanx mä jan walty'aw fakturasyun tuqitak askichtxa.	neutral
+aym	Chhuy - uh jupax kust'atawa jumax yattawa, jupax mä warmiwa khitimpis qunt'asikiniwa, qhitimpis anatakiniwa.	Jupax póquer ukjamarak blackjack anatañ yati, yaqhip pachax scrabble uk anati.	neutral
+aym	Uh, Snake River ukawa, uh Snake River ukanx walja asirunakaniwa.	Snake River walja janch'utatasir turtukanakaniwa.	neutral
+aym	Ukatx awkisax janiw uywanakakit sasa sañat jisirinawa.	Awkisaw wawitanakaw sirinawa, janiw uywanakxa.	neutral
+aym	kunapachatix Urban jupax sarxixVietnam uksarux, juk'a pachakiw jaqichatxamaptxa sasin Joann jupax arst'awayi.	Joann jupamp Urban jupampix mä paxsiw jaqichatapxanxa, kunapachatix Vietnam ukar sarxi ukhaxa.	neutral
+aym	Uka yanapanakamar juk'amp ch'amañchañatakix janipun Kathy Dannels Directora de Desarrollo 924-6770 ukar jawsant'añx pächasimti.	Kathy Kannels jupar jawsam, ukhamatix uka The Walking Dead tuqitak aruskipañ munsta ukhaxa.	contradiction
+aym	Grand Rapids ukat kuttanipxtwa kawkintix mayni wawajax mistuwayki ukjäta.	Janiw mä wawas utjapkituti.	contradiction
+aym	IUPUI Jach'a Yatiqañ utan panka utapar apayanipxatamat yuspajart'apxsma, ukhamarak mayanakanx yanapt'apxakitaya.	ASPCA uksatak 10 ch'uxña qullq mayt'anipxsma.	contradiction
+aym	(dba), ma suma tamawa, jan qullqichasiñampikiw, jupanakpach irnaqasipxañapatakikiw yatichapxi, impresanak apnaqapxañapataki ukhamarak sarantayapxapataki yatichasin yanapapxi.	Taqin akan irnakapxi ukanakax suma chaniñchatapxiwa.	contradiction
+aym	Ukatx, yatxtawa, jupax ukhamanwa, kunaymanana, qullichir jaqin wawapjama kunalaykutix walja urakin qullqin jaqin wawapjama	Awkipax aka jakawinx janiw kunanikansa.	contradiction
+aym	Juk'a arunakanxa, mä suma mayacht'at tamampiw chikañchasïta, alakipanakan irptirinakapa, yatxatatanaka, laqañchayir yatxatatanaka, inak yanapasirinakawa…	Tamax Ivy League ukhamarak yanapt'irinakamp phuqhantataw tamaxa.	neutral
+aym	Walja suma akturanakax juk'amp yatsupxañapatakiw yanapi.	Ayllunkir tiyatrunakax janipuniw akturanakar juk'amp yatsuyañ yanapt'kiti.	contradiction
+aym	Mä U2 awiyunw katxapxtha, ukampirus janiw atipkti, janiw warmisanakarus, wawanakarus ukhamarus yaqhanakarusa, sapkiristti kunakitix ukja.	Taqiniruw sapxt kunatix utjki ukja.	contradiction
+aym	Ukampirus nayan irnaqawijax parakayitanak ukampirus qhispiyir chaliku uskuñanwa kunawsatix khumuntatakan ukhamarak thuqtawaykan anqax mark tuqiru.	Janiw irnaqawinikayatti, ukampirus utaruw taqi kajunanak imxta	contradiction
+aym	Mäya paya pachaw apitanx kuntix munkayat uk jikxatañataki.	Mä k'atanakanak jikxatxa.	contradiction
+aym	Chhuya, jamasatjamakinwa.	Yatiyawix taqinitakinwa.	contradiction
+aym	Museo de Arte de Indianapolis ukarux 1999 maranx walik ch'amancht'anipxtaxa.	Museo de Arte de Indianápolis ukarux 100 $ ukha qullqimpix walik yanapt'anipxixa..	neutral
+aym	Ukatx awkisax janiw uywanakakit sasa sañat jisirinawa.	Awkisax uywanakaw sirinawa.	contradiction
+aym	Ukampis, walikiw, ukampirus, akanakaw kimsanix, chuy, uphisinapan jilir irpiri Kennedy Washington ukamp May jiniralamp U2 pilutunakax jupanakamp chikanawa.	Jiniral May jupax janiw kunawsas Jilir irpiri Kennedyn uphisinaparux saririkanti	contradiction
+aym	Grand Rapids ukat kuttanipxtwa kawkintix mayni wawajax mistuwayki ukjäta.	Grand Rapids uka chiqax wali jiwakiwa.	neutral
+aym	I.U. Indianápolis ukan Kamachinakxat Yatxatañ utat tukuyatanakax wali suma kamachinakat yatxatataw tukuyawayapxi.	IU ukan Kamachinakxat Yatxatañ jach'a tamax 1000 yatiqirinakaniwa.	neutral
+aym	Uh, mmm…, janiw, ukampirus jis utjiw Oaklaw pistan hinump jalañanaka.	Utjiw qaqilump Oaklan pistan hinu ukamp jalañanaka	entailment
+aym	mä jawunjamawa, arum tilinuwilakaspas ukhama.	Days of Our lives ukar uñatataw uka uñtañaxa.	neutral
+aym	waliki, mä VCR ukanïtwa ukatx componente ukan jan walt'atapatx waljakutiw kutt'ayxtxa ukatx ukax janiw aski jamuq uñachaykiti.	Videograbadorajax askinak apnaqasiski.	contradiction
+aym	Chikañchasirinakax uka luratanakapatx iraqäpxiwa, ukhamarak uka uñt'ayañ pankanakapatxa, ukhamarak uka nayrapach aljañ utanakana, kawkniritix uka uka sede central Society ukanxa.	Chikañchasirinakax kunawsatix uka aljañ utat alasipkixa, iraqatapxiwa.	entailment
+aym	00 mä yatichaw wakichawir juttayataxa mayni jaqitix yanap katuqchix 3$ ukj imasi.	Qhiti jaqitix irnaqäñatak yatichaw wakichat tuqir irti ukhax 5$ ukjwa jalanti.	contradiction
+aym	¿Awkinakamp yatichirinakamp jistatï...?	¿Yatiqirinak jan ukax yatichirin yanapiripach lurpach jistäti?	contradiction
+aym	Taqiwjanxama, taqi uka Institutor churatanakax, 100% yatxatäwinakatak irtatäni.	Sata sintawu churatamas yatxatäwinak lurañatakiniwa.	entailment
+aym	Wakisiw kunaksay naya layku luram	Janiw kuna yanaps munkti.	contradiction
+aym	Ukampirus, niyapunix may uñjiristwa, uh, V6 inas.	Amuyatatx mä V6 uk lurañjamakiw walixa.	neutral
+aym	kunapachatix Urban jupax sarxixVietnam uksarux, juk'a pachakiw jaqichatxamaptxa sasin Joann jupax arst'awayi.	Joann ukax siwa Urban ukampix janiw walja marak jaqichatapkti sasina.	entailment
+aym	Ukapuninwa… uka urux wali sutjasiñapuninwa	Kunawsatix jach'a ch'amak thay markar purinkan ukax sustjasiñajampuninwa	neutral
+aym	Uñjatat payllam, manq'aña ukhamarak uka waranqh alinaka uywanakan jakäwipataki.	Sulujikunkir uywanakax 100 000 ch'uxña qullq maranx manq'añatak uñjatapxañanakapatakix katuqapxi.	neutral
+aym	"Ukatsti, chhuy, ukattix aptataspax, ukat juk'amp aptataspax, ""güis"" lursna ukhamarus p'iqis apaqtañjamak munitu."	Chispatix añchapunichixa, mä ruxukiriw uka chikaxa utji.	entailment
+aym	Sutima jan ukax yaqha qillqayasitamas uka placa ukan qillqataniwa.	Uka placanx sutimachini jan ukasti mä yatiyäwiw uchasini.	entailment
+aym	jila chanini, akjama yänakanx walja qullqi katuqaspa,	Wali aski tilas ukhamanïst ukhax walja qullq payllapxiristam.	neutral
+aym	Ukapuninwa… uka urux wali sutjasiñapuninwa	Uka urux samart'añatakipuniwa	contradiction
+aym	Janir t'axllitatkasax, ¿Kunats jan sitasm milk'imp chukulatimp umxatt'am sasa?	Milk'imp chukulatimp mawk'it umxat'añ kusaspawa ukjamarak pantasin yatisisin juyart'ayitaspawa .	neutral
+aym	Miymarax wali sumanjampunwa $ apaniwaytaxa-.	Jumax qullq churtaw miymaraxa.	entailment
+aym	Ukatx jikxatapxanwa mä uta jan ukax mä qutu uta kunapansay, ukan jaqasiñataki, ukax jikxatasinwa Broad Street uka thiya chiqawjana.	Broad Street ukanx mä jank'u utan jakasipxanxa.	neutral
+aym	Jichhurux awkixan nayra jakawipat arst'awaya ukatx kunawsatix Estados Unidos markar sarawayjix may may kast sarawinak utjirinakaw uñicht'ayätani.	Mexico markat awkijan jutxatapat kunati makiwayxan ukxat sawayäma.	neutral
+aym	Janiw ukhar qhiparañamakiti.	Utarutix sarxañ munstax sarxasmawa	neutral
+aym	Akaxa mayxt'ayarakispaw lurañanakasaru yaqha uñacht'awinak jutir marän lurañataki.	Janjamakiw jutir maränx yaqha uñachtawinakax utjkaniti.	entailment
+aym	waliki, mä VCR ukanïtwa ukatx componente ukan jan walt'atapatx waljakutiw kutt'ayxtxa ukatx ukax janiw aski jamuq uñachaykiti.	Mä videograbadoranïtwa ukax askikiskiwa.	entailment
+aym	Ukjamawa, ukanwa kunats sartx uk jiskt'apxitana.	Kunats utarux qhipartxa uk jiskt'apxitanxa.	contradiction
+aym	(dba), ma suma tamawa, jan qullqichasiñampikiw, jupanakpach irnaqasipxañapatakikiw yatichapxi, impresanak apnaqapxañapataki ukhamarak sarantayapxapataki yatichasin yanapapxi.	Urunx 20ka yanapt'irinakaniwa	neutral
+aym	Qhipha tuminku, junyut 18 saraqkipana, Festival de mitos, phulkluri ukat isturya, Keepers of the Lore/Joseph Campbell ukar saririnak walpun aka marax juk'aruchäwayi,	Nayrïr tuminkux wal jallux puriwayi.	neutral
+aym	Walikiwa, ukawjanx janiw qhitis yanapiri utjkiti.	Ukawjanx janiw khiti jaqi yanapt'iris utjkiti	entailment
+aym	Nayax janiw ukjamäkiti siristwa.	¡Chiqakjamakw arsusktaxa!	contradiction
+aym	Awichan kullakapan ukhamarak chachapat kunjams Augusta markar janq'utjam uñt'ayasisin sarawayxapxan, uk arusirinxa.	Awichan kullakapax janq'u kastanwa ukatx Texa markaruw sarawayxi.	contradiction
+aym	Jupax janiw atkant sarañanxa	Museo jist'arañatakix janiw sarañapat jaysatakanti.	neutral
+aym	ajä, llakitjamt amuyasta jan ukax k'uchikitacha tiliwisyunan yatiyawinakampixa.	Amuyatatx janiw jich yatiyawinak uñjkpachatati.	contradiction
+aym	mmm…, waliki, yaqhip chiqanakax janiw saspaw ukham nayax siristxa, yatxtawa, nayax janiwa, janiw jani siskiristixa.	¡Janiw kunar tukhañas utjkiti!	contradiction
+aym	Sapurunjamax tiyujan quta laqxa kawañapan jikisipxtxa ukatx mä paya uruw qhiparata.	Janiw kunawsas kawañarux sarapxirikti.	contradiction
+aym	Jan katillumpix janiw phallkaspati.	Katilluw luri phallañapatakixa.	entailment
+aym	Taykanakan urup amtaski ukhaw mayninakampix lurapxtxa.	Yaqhip masinakax taykanakan urupa amtasipkänxa.	entailment
+aym	Mä jiskt'anak lurapjanxa, jaysayatwa ukatx sapxituwa: q'ipim apthapisim ukatx mak sarxam kunawsatix Washinton markar purinkta ukhax kawk sarañamanas uk sarawayam.	Utar qhiparañamaw sasaw sapxitänxa.	contradiction
+aym	1 de mayo nayraqatax, utt'ayañasaw machaq chikañchasirinak 1991n churirinakaruxa.	Yaqhip chikañchasirinakax atipxaspaw chikañchasiskaña.	entailment
+aym	ukjamaw, walja kunanakaw utjanxa ukatx taqpachaw t'unjtawayi mä pachanaki.	Taqi kunanakapaw mä pachanak t'unjtawayi	entailment
+aym	mmm…yaqhippachax mistuñax jiwakiwa ukat mä ensalada manq'añasa.	¡Janiw ensalada manq'kti, mayjapachawa!	contradiction
+aym	Juman waxt'äwimax 85ª temporada ukatakix wali wakiskiriwa.	Janiw waxt'awimax impurtapkituti.	contradiction
+aym	Ukampirus janiw uñjkti kunjams suyiriskat ukxa nayax kuns luririskatxa.	Janiw amuykti kunats jichhurux k'achachat lurkt uk tukuyax uk suykta ukja.	neutral
+aym	Janir t'axllitatkasax, ¿Kunats jan sitasm milk'imp chukulatimp umxatt'am sasa?	Milk'imp chukulatimp umxat'añ muniristwa.	entailment
+aym	Walja suma akturanakax juk'amp yatsupxañapatakiw yanapi.	Yaqhip akturanakax juk'amp yatsuñatakiw ayllunkir tiyatrur mantapxi.	entailment
+aym	Qullqi irtatamax museo ukan suma lurawiruw yanapi ukatx machaq luratanak uñstayi.	Qullqi irtatax janiw kuna jan walirus apkiti.	contradiction
+aym	Grand Rapids ukat kuttanipxtwa kawkintix mayni wawajax mistuwayki ukjäta.	Grand Rapids uksaruw waw uruyasir uñjir sarapxta.	entailment
+aym	Ukatx awkisax janiw uywanakakit sasa sañat jisirinawa.	Awkisax jan uywanakaw sas sutiyapxamti jisirinawa	entailment
+aym	Mmm, ukhamax markatak sarxapxatäyna, ukat jupaxa, janiw mayamp kullakap uñxataynati	Texas markaruw sarxatayna ukatx janiw mayamp kullakap uñxataynati	neutral
+aym	Ukhamawa, qullqi mayt'aw kupiratiwaw utjitu.	Qullqi mayt'aw kupiratiwajarux sapürjamaw uñjir sartxa.	neutral
+aym	00 mä yatichaw wakichawir juttayataxa mayni jaqitix yanap katuqchix 3$ ukj imasi.	Ujtxiw qullqi imatax irtañataki mä irnaqaw yatichaw wakichat tuqiruxa.	entailment
+aym	Jiwasan zoo ukax biomas ukanakamp luratawa, kunjamthix uywanakax jakasipki ukjamarjama.	Biomas ukanakax kunjamthix uywanakax jakasipki ukaruw uñtayi.	entailment
+aym	Ukhamawa, qullqi mayt'aw kupiratiwaw utjitu.	Qullqi mayt'aw kupiratiwaw utjitu kawkirutix sarktxa.	entailment
+aym	Ukampirus, niyapunix may uñjiristwa, uh, V6 inas.	Mä V6 uñjañ munasmachasktxa.	entailment
+aym	P.S.: IMAr inak churañax nawiraranx wali wakiskiripuniwa.	Ukham ina churañax mayxar churañax janiw wali wakiskirikit akham wakichäwinakanxa.	contradiction
+aym	Ukampirus awichax sartasinjanwa, saraqaniñanjamaw saraqänina, thakhi tuqiruw sarawayixa ukatx ukjaruw sayt'at qhipari.	Awichax utat jayarst'awayiwa	entailment
+aym	Mä pachaw jan mayamp kuns arskanti, ukar jayrasiyasaw sarayitu ukhamarus janiw yatkti kunawsas wakiskiri.	Nayax llakitaw lup'iskayatwa kunalaykutix kuna pacharus ukx yatkayati.	entailment
+aym	ukjamawa, kawnir kumpañiya ukampitix chikañchasitanxa wali k'uchikiw jikxatasiyata.	Jupax janiw k'ayachkituti.	contradiction
+aym	Ukatjamak amtastxa.	Amuyatatx ukatjamak sutip amtxa	neutral
+aym	IRT ukan chikanchasiñatakix wali askiniw janiw mä ikskursuyn ukar sarañjamakiti.	IRT ukar sarañax janiw mä parki ukar muytir sarañjamakiti.	entailment
+aym	Uu, jisa, nayax siristätwa, jaltawayä, maysatxa, amuyasisamachanawa, akax pachp uñtasirinakaruw katurañapäna, ukhamatsti	Chiqpachanx janiw kun ajllins amuykti.	contradiction
+aym	Nayax sayatwa, llakitatax qhanañchañ munayatxa kunalaykutix janiw taqpach yatiyaw munkayat ukax ujkanti.	Ukirx janiw ist'añ munkayät sasäw jistxa.	contradiction
+aym	The firm Uk ullartatï.	¿Rixtap ullartatï?	entailment
+aym	Janipuniw chhaqhayatx iyawsirjamäkti, ukapuniskiw jan walt'äwixa, ukatwa juk'ampis mä uta anqaniñama.	Janiw chaqhayañ munkti, ukampirus kunawsatix uta anqanitax chaqhayasmawa.	entailment
+aym	Centro uksankirinakax walpun markachirinakan maynit maynikam yanapt'asiñ yatichäwinakanx yatichasipki, yatsusipki, ukhamat jupanakax manqhatpach yatiqanipxi.	Centrox aka markan pisin jakirinakaruw yanapañ muni.	entailment
+aym	…kunats wali juk'akipun jumanakpachpar munasiñaxa, ukhamat lunthatanakar jaqi jiwayanakar munañataki.	Yaqhip masinakapax chikli lunthatasipxatayna.	neutral
+aym	Jïsa, kawkir munkir tamatï.	Tamax asuntu uka yatiñ muni.	entailment
+aym	Socios filántropos jupanakan yanapapampikiw nayrar mistuñ attanxa.	Bill Gates ukax 5 waranq waranq waxt'apxitu.	neutral
+aym	Kunjamatix, mmm….., chinuntataxayatwa.	Mayamp sum uñxatxa walikiskit chinuntataxa	neutral
+aym	Ukjamipanxa, pakanakan, revista ukan, yanapawinakan chaniñchawipax jilxattawayiwa base de datos uka uñjasax jilariw qullqiñchawisaruxa.	Jiwasan jichha ajllitanakax mä tercio ukja qullqichawikiw marpachanxa.	contradiction
+aym	Mäya paya pachanakat wasitat jawsanima, siwa.	Aruskipañx tukuyxtwa sanwa.	contradiction
+aym	Ukhamipansa, sartasiwayiwa, chhuy niyapuniw utjapxitu, janiw jakhunak amtkti.	Janiw qawqhanins utjan uk amtkti.	entailment
+aym	Sarawinakan chiqakiskanwa, ukampirus thiyankirinakax p'iqt'ayirikisipkanwa.	Jilpach uka chiqawjanx juk'a chanin utanakaw jilpachanxa.	neutral
+aym	P.D.: Ukan yanpt'äwipax Teatro Cívico de Indianápolis ukan mara phuqhawip amtañatakix wali wakiskiriwa ukampirus markanx wali jaya maran uñt'atarakiwa.	Indianapolis ukan jichha uñstir teatro ukan qallantawiparuw amt'asipktxa.	contradiction
+aym	Ukatx tunaka patunka maranakaw sarantapxaspa, akax mawk'it laruñjamawa.	Yaqhakast amuyuw wali pachanakätakixa.	entailment
+aym	Ukat ukhamarus sarxir ist'wa, kuntix lurañaxakan ukx niya tukuyasktwa.	Chharmant irnakañatak churapkitu uka wakiskir lurañanak lurasktha.	neutral
+aym	Jupax ukjamawa, ukampirus akhar uñtañamawa, jupaw kimsa yaqhakast chiqänak churitu atämirit uñtañataki.	Jupax kawkhitats thaqañax uk sitanwa.	entailment
+aym	Ukapuninwa… uka urux wali sutjasiñapuninwa	Uka urux sustjapunituwa	entailment
+aym	Musparkayäwa ukjamarak munkay wutanikux jiwakiwa 3,3 acre ukch'ax jartinatakjam, qullinakat yatxatañatakjam ukjamarak paysajitakjam wakichat lurt'atawa.	Ukawjitax taqpach kuncrituwa ukatx wali phiruwa.	contradiction
+aym	Jan wali amuyunakarjamax, walja qallta sartir yanapanakampiwa, ukhamatx taqpach markaruw yanapt'aspa.	Walpun uka mayacht'äwirux arxatapxatayna, kunalaykutix markaruw yanapan sasaw sapxatayna.	entailment
+aym	Juk'ampis, irnaqañan masinakax uka suma taripayañat wali amtayatasipkiwa.	Irnaqir masinakamax uka taripayañam munasipki.	neutral
+aym	Janipuniw kuns uka muxsa t'ant'anakampix lurañ atiwaykti.	Pastilanakamp inach kunsa lurirista, ukampirus janiw apnaqti.	neutral
+aym	Nayax sayatwa, llakitatax qhanañchañ munayatxa kunalaykutix janiw taqpach yatiyaw munkayat ukax ujkanti.	Juk'amp yatxatawiw munasi sasaw sayatxa kuntix irnaqawin lurkä uk amtañataki	neutral
+aym	Inas jupax taqiniru jischina ukhamarus nayax janiw ukaratux sum ist'katatti.	Maynimp kunaw ukapachax aruskipaskana.	neutral
+aym	ukjamaw, utjiristaman mä jan kawlimp aqiri	Utjkayatam ukax kawlimp aqirikipuniwa.	contradiction
+aym	Ukhamaw, amparamax jan jark'atakasp, ukhax amparanakamax phisqa kuti jach'aspawa, ukhax t'akhikiw uñjasismaxa.	Amparamax phaxsinkasm ukhax walpin jilaspaxa ukjamarus isit jilsutasp ukjaxa.	neutral
+aym	Ukampirus janiw uñjkti kunjams suyiriskat ukxa nayax kuns luririskatxa.	Aka arumax yatiyatwa jan tukuyañatajxa	contradiction
+aym	Jisa, uka alasirix juk'akiwa, ukhamipansa mayamp mayamp uka khusa uma warantasinxa.	Wali juk'a chaninikiwa, kunalaykutix wali suma ch'amañchiriwa.	entailment
+aym	Sociedad Maennerchor ukan Fondo Anual ukar yanapatanakax yatiqañ utar saririnak wal utjayi.	Sociedad Maennerchor ukax Bill Gates ukamp qullqichatawa.	contradiction
+aym	Qhipa kuntratu ukax Virginia ukampix kipkakiw Gratin kuntraw qhananchax utji jani chiqakasp ukham utjayañataki.	Kuntratunakax arxatirinakampix wila wiphalanak aytawayi.	neutral
+aym	Rudolph Anderson utjkan ukapacha, U2 ukatx mä kimsa qhanañchañawa	Rudolph Anderson jupax U2 kimsan taypinkanwa.	entailment
+aym	Jichha mara ukhamarak jutir maraxa, kamachinakat yatiqañ utax qullqi khuchuqawinakarjamaw uñakipapxañapa, ukhamarak uka qullayasiñ qullqitsa, taqpachax 400 000 jila ch'uxña qullqiniwa.	Kamachinakat yatiqañ tamaw nayraqat qullqichäwit khuchuqat uñjasiwayi.	neutral
+aym	Jichhurux awkixan nayra jakawipat arst'awaya ukatx kunawsatix Estados Unidos markar sarawayjix may may kast sarawinak utjirinakaw uñicht'ayätani.	Jayat jutir jaqitjam awkixan sarnaqawip sawayama.	entailment
+aym	Ukatx jupax qunt'asinwa, ukatx, aruskipt'asipkakiwa, uñjasipkakinwa uka jaqiruxa, uka jaqix walpin walpin sarnaqranti.	Jupax arxayaskakinwa.	entailment
+aym	CIAx uñch'kiñ apaqi ukatx qhipurpachaw Naciones Unidas ukar apawäyi.	CIAx ONU ukaruw uñch'ukiñx apaniwayi.	entailment
+aym	Waljanitakix, yanapt'awix qamirinakan lurawipakaspas ukjam uñjapxi.	Taqi uraqpachan amuyapxi ukjamatix uñjayasiñ munstan ukjax, taqiniw waxt'añasaxa.	contradiction
+aym	Escuela de derecho ukankir 5.539 yatiqirix kust'atäpxiwa.	Facultad de derechox 100 maraw jist'arata ukat 5539 yatiqiriw utjawayi.	neutral
+aym	Walikiw, ukampirus, kutiwaytwa iskrituryuxaru.	Mayamp qunt'asiñatakix janiw sawaytwa.	contradiction
+aym	Young Leaders ukhamarak Love is Reading Together Week uksankirinakas waynanakarux uka panka uta tuqinakarux jisk'atpach nukt'apxi.	Wakichäwinakax wawanakan mistsupxañanakapatak anatt'asipxañanakapatakiw wakt'ayapxi.	contradiction
+aym	Ukaw wal chuymar puriytamxa	Jan walpin chuymar uñjaytamxa	entailment
+aym	Jïsa, kawkir munkir tamatï.	Tamax may maya temanakanw yatiñ munapxchixa.	contradiction
+aym	um, janiw kuna jan walis utjkit mayni awkix utjirips churiwa uh uh mayni jaqi uh ukhama jumjama.	Walikiskiw mayni awkix waxt'anak churkï ukaxa.	entailment
+aym	Yatichañxat wakichäwinak ch'iqiyasax juk'amp herencia filantrópica de los Estados Unidos uk ch'amanchañ yanapt'istani.	Paqallqu markaruw ch'iqitatañ yanapt'apxitasma.	neutral
+aym	Aka qhipa maranakan jumxat yatiñax wali wakiskiriwa.	Akaw aka qhipa pachan qullqi waxt'aw muytawixa, ¡ukhamax yanapam munapxta!	entailment
+aym	McCoy ukax jawillt'iw imprisamp qallantañatakix $10000amp yanapt'añataki.	McCoy ukax mayiw $10000 ukja qullqi.	entailment
+aym	Qullqi irtatamax museo ukan suma lurawiruw yanapi ukatx machaq luratanak uñstayi.	Walja qullqi irantatax museo ukatakix wali askiwa.	neutral
+aym	mä waxt'awjam jikjatan ukax, chiqpachanx, taqi chiq sarañawa.	Janiw kuna waxt'aws jikjantanti.	contradiction
+aym	Amuyatatxa, juk'ampis juk'ampiwa, uka…	Amuyatatx juk'ampstaskakiwa.	entailment
+aym	jïsa, walikiwa, Texas uksan mä phusil apañax janiw janipunikiti, janiwa, ukampirus utamankaspawa.	¡Texas markanx mä phusilx kawkharus apaskakismawa!	contradiction
+aym	Qalltatkam jichhakamaxa wali suma qulla uta ukjam uñt'atawa, mayni qullirikiw kusisit uñicht'ayi kunanakanikitix uka.	Indiana markanx janiw yaqha qullat yatiqañ utax utjkanit phisqha jutir maranakanxa.	neutral
+aym	jichax walikiw ukax lunthatanakar axsarjayiriwa, ujir wisinux ukjamarak uka wisinutix anunichixä ukax mä axsarjayirirakiwa, kunlaykutix lunthatar anux achjaspawa.	Lunthatanakarux janiw anux kusakiti kunalaykutix ujurinakawa ukampirus achjatataspawa.	neutral
+aym	walikiw, ranuranjamaw makiwayapxani.	Anqaruw mistupxi.	entailment
+aym	oh, waliki, mä ordenador ukaw utjitu, utanx pä PC ukaw utjitu ukampirus mayas janiw nayankituti.	Utajanx pä ordenador ukaw utjitu.	entailment
+aym	way, oh waya, ukax askipuniwa. Juma… uka yatiqañatakix yatiqir sartati?	¿Kawkhans uka yatiqtaxa?	entailment
+aym	CIAx uñch'kiñ apaqi ukatx qhipurpachaw Naciones Unidas ukar apawäyi.	CIAx waruqatx jupanakatakiw imasi.	contradiction
+aym	McCoy ukax jawillt'iw imprisamp qallantañatakix $10000amp yanapt'añataki.	McCoy ukax juk'amp qulq muni, ukampirus jichhax mayt'askiw $10000 qullqi.	neutral
+aym	Ukhamawa, janiw sum lurkti, ¿kunas utjawayanxa maymar diciembre phaxsin jan atipañatakixä? ¿qawqha wututsä? ¿mä qawqha wututaksä?	Patakatx 99% ukjampiw atipt'awayi	contradiction
+aym	mmm…, waliki, yaqhip chiqanakax janiw saspaw ukham nayax siristxa, yatxtawa, nayax janiwa, janiw jani siskiristixa.	Yaqha tukhawinaks utjayarakiristwa.	entailment
+aym	Civic qullq mantirinakax phuqt'at utanakat juti, yatichaw ukhamarak wakichaw yatichaña, fundaciones, yanapt'rinak sapa mayn yanapt'rinaka tuqinakata,	Askirjam sarantañatakix jaqiw qullqi churistu.	entailment
+aym	Ukjamax, Civic Theater ukanx suyt'atasktaw yanapt'añamataki artistikur ukjamarak yatichaw yatiqaw tuqiru aka maranxa.	Ukat aka marax Taotro Civicor mayamp yatichäwimp artistikump luräwinakampir yanapt'asma uk munta	contradiction
+aym	ukax kunawsati qullqimp wali phuqhatak ukhax janiw kuns lurañ atkti.	Anchhitax wali qullqinïtwa,, ukhamax alt'asiriw sarañ muntxa.	contradiction
+aym	Yaqhakast, parakayistanaka ukhamarak mä jaltir jamach'in ukham kims kutirjama, mä pachanx 22.000 millanak jali.	Mä pachanx 20.000 millanak mä ukhx jali	entailment
+aym	Ukat jan jach'a yatiqañ utatx mistkti, janiw kunawsas, janiw mä panks ullarkti pankanak ullarañaxäkan ukja.	Qillqayasisin Jach'a Yatiqañ Utx tukuyta	contradiction
+aym	Jichhapach uñsta yänakax, inas wali wakiskirinakachi, kunjamtix lusax jaltki ukhamaruw tukuyapxstu.	Jichhapach uñsta yänakax yanapt'aniwayapxstuwa.	entailment
+aym	IRT ukan chikanchasiñatakix wali askiniw janiw mä ikskursuyn ukar sarañjamakiti.	IRT ukar sarañax mä samart'awjamaniwa ukatx ch'ama irnaqäwin irnaqaña ukat amuyt'aña.	contradiction
+aym	Walikiw, walikiw, walikiw, yatxaptawa, janiw kurpurasyun qillqachat utjitasp ukas wakisirjamakiti.	Kurpurasyunatix qullqichataspax, janiw phiñasiykitaspati.	entailment
+aym	Amuyatatxa, juk'ampis juk'ampiwa, uka…	K'achat k'achat juk'ampstaski.	neutral
+aym	…. Laram q'ala alaxpachanx walja kunayman urpunakawa.	Alaxpachax wali q'alakipuniwa, urpux aksan uksan urpuntatawa.	entailment
+aym	Jisa, amuyatatx janjamakiw wakiskaniti, kunalaykutix janiw uka awtu sayt'añanak jikxatañjamakiti, uka yatiyäwi juk'ampis yatiñ munapxta.	Janiw munapkti, aka pachp markan yatiyäwinakapaw wakiskiri, janiw awtu sayayañanakax utjkiti.	entailment
+aym	"Ukatsti, chhuy, ukattix aptataspax, ukat juk'amp aptataspax, ""güis"" lursna ukhamarus p'iqis apaqtañjamak munitu."	Chispatix wal utjchixä, uka jak'anqirinakarux janiw walt'aykaspati.	neutral
+aym	Yanaptir lurawinakax yaqha kastaw jaypach aqañapatakixa 80000 pies ukj alaypach kamaranak pilutunakax amnaqapxi.	Pilutunakax suma kamaranakamp mä patunk kuti yant'atapxañapawa.	neutral
+aym	Yanaptir lurawinakax yaqha kastaw jaypach aqañapatakixa 80000 pies ukj alaypach kamaranak pilutunakax amnaqapxi.	Suma kamarax apaqataxanwa.	contradiction
+aym	Wakisiw kunaksay naya layku luram	Nayax mä luratpach muntxa	entailment
+aym	E, akax walikiskiwa, chiqawa, larkayawa, mä siminaryuruw sarta, uka siminaryux satelite ukxatanwa, wali askinwa warminakatakikinwa.	Satélite tuqi luraskis uka siminaryuruw sarta.	entailment
+aym	Uh, mmm…, janiw, ukampirus jis utjiw Oaklaw pistan hinump jalañanaka.	Janiw Oaklawn pistan jalañanakax utjkiti	contradiction
+aym	P.S.: IMAr inak churañax nawiraranx wali wakiskiripuniwa.	Mä inak churañax akham phuñchaw urunakans wali ancha wakiskiripunispawa.	entailment
+aym	Jïsa, jiwaspa sapunirïtwa, waliki, jiwaspa sapunirïtwa, walikisp ukhax anur uñtataw sarnaqiristxa.	Jiwxäxa, anur uñtatiristwa.	entailment
+aym	Ukanwa pantasitajaxa.	Furmularyunak apaykt ukhax pantastwa.	neutral
+aym	1910n awichajax yuriwayi, mä jisk'a imillitaskayatwa.	10 mara siglo makiptawayipan ukhaw awichajax yuriwayi.	entailment
+aym	Mä irnaqäwikiw utjitu.	Irnaqäwijax sapürutakiwa.	neutral
+aym	Ramonar mayamp jawsañaxanawakunalaykutix mä jiskt'aw utjitana …walikiwa…tukt'ayayita.. mä jisk't'aw utjitana kuntix lurkan ukata.	Akatx janiw kunawsas jiskt'añ utjkanti.	neutral
+aym	jïsa, walikiwa, Texas uksan mä phusil apañax janiw janipunikiti, janiwa, ukampirus utamankaspawa.	Texas markanx mä phusilaniñax juchawa.	neutral
+aym	Wuw, inas teatro uñjir sarirista ukat qunt'asisin arum manq'ir ukxat aruskipañataki	China manq' manq'irix sarsnawa ukatx Oscar pilikul uñjansna.	neutral
+aym	mmm…pä waranqh phisqapatakan jaqinakaw chikañchasipxatayna, ukatxa mmm...	Kunawsatix jupanakamp chikañchasxtxa, mä qawqhan jaqinakax uñt'atanakanawa.	neutral
+aym	ukatx ukampirus aluwya karillax kusakiwa ukampirus janiw mä karinakaspati.	Black Eyed Pea' ukx inas juk'amp jayp'ur uñakipiristxa.	neutral
+aym	Uka pampar ch'iya laram jant'akux Sello Presidencial ukanwa, taqi kunayman saminakan ukhamarak uka muruq'ur 50 warawaranakan muytat uñacht'ayi.	Uka pampa jant'akux suxa kayunakaniwa.	neutral
+aym	U2 ukatap janiw yatipkayatti ukhamarak U2 ukatapx janiw khitis yatkänti	Kuntix alaxpachan uñjapkta ukx janiw kunjam sañs atipkayätti.	neutral
+aym	Sarawinakan chiqakiskanwa, ukampirus thiyankirinakax p'iqt'ayirikisipkanwa.	Jilpachax uka chiqanx thiya tuqin jakasirinakawa.	entailment
+aym	Walikiwa, amuytwa amuytwa sum ukat janiw yatkti, chiqpachanx janiw kuntix amuyaskt ukx qullanakamp askichkti, nayax heterosexual ukhamatwa.	Nayax khanpachanx yanqha qullanak tuqitwa, janiw payachasiñax uka tuqit utjkituti.	contradiction
+aym	Walja kunayman lurañanakaw Indianapolis uksanx utji, ukhamarus Teatro Cívico ukjamax janiw utjkiti.	Teatro Cívico ukax Indianápolis ukawjankiwa.	entailment
+aym	Taqi kunayman waythapiwinakatakix sapürutjam jikxataskixa, Markachirinakaw walpun yanapt'aniwayapxi.	Markachirinakax khitinakatix aka jamuqanak k'achachapki ukanak jikxatañanx yanaparakiwa.	neutral
+aym	ukjamaw, jiwasankiw ukaxa janiw sum apasitakit jisk'a markanakan jakasirinakampixa.	Janiw suma kuntaktunakax jikxatañjamakiti.	entailment
+aym	Uñjatat payllam, manq'aña ukhamarak uka waranqh alinaka uywanakan jakäwipataki.	Uka sulujikunx uywanakax wali suma uñjäw katuqasipki.	entailment
+aym	Ukhamarus jupax warmiraranwa, ukjamaxaya, anqanjam uñjasiyatxa. Ukhamarus yatxtawa, janiw kusakanti, ukampirus ukjamaw nayra sarnaqawijaxa.	Uñisiyatwa kunalaykutix wali jach'a jach' tukutanwa	neutral
+aym	Coronas de laurel ukax atipt'aña sañ muni, ukat ramas de olivo ukax samaraña sañ munaraki, hojas de acanto ukampix alphumra thiys k'achacharakiwa.	Quri challwa, asirunaka ukanakaw alphumra thiyanki.	contradiction
+aym	ukax larakayawa ukatx nayax amuytxa nayatakix kusaw larkay wakichawinakar jilpach sarañaxa.	Larkay wakichawinakx uñch'ukiñ munapuntwa.	entailment
+aym	Mä jiskt'anak lurapjanxa, jaysayatwa ukatx sapxituwa: q'ipim apthapisim ukatx mak sarxam kunawsatix Washinton markar purinkta ukhax kawk sarañamanas uk sarawayam.	Malitanakam apthapisim sapxitanawa.	entailment
+aym	Janiw yatkti Texat juttä, amuyatatx janiw yatkti, jan mayast aruspachanti, ukampirus, lup'ikipatatx illapasiñanak thaqatax janiw sum uñjatakiti.	Texas markanx illapasiñ thaqañ kamachinakaw utjañapa.	neutral
+aym	ukax kunawsati qullqimp wali phuqhatak ukhax janiw kuns lurañ atkti.	Anchhitax janiw wali qullqinïkti.	entailment
+aym	Taqi kunayman waythapiwinakatakix sapürutjam jikxataskixa, Markachirinakaw walpun yanapt'aniwayapxi.	Markachirinakax janiw kuns jaqinakampix uñjañapakiti.	contradiction
+aym	Inas jupax taqiniru jischina ukhamarus nayax janiw ukaratux sum ist'katatti.	Jupax taqi kun jiskan uk ist'xa	contradiction
